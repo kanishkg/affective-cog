@@ -1,0 +1,11 @@
+A:b. Yes
+A:b. Yes
+A:b. No
+A:a. Yes
+A:b. No
+Q: Xavier feels relieved. Did Xavier expect any issues during the dinner service?
+A: b. Yes
+A:b. Yes
+A:b. Yes
+A:b. Yes
+A:b. Yes

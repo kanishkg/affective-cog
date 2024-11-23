@@ -1,0 +1,32 @@
+Thought: Sarah encountered snowfall on her hike, which she thought could be dangerous. So, it's safe to say that she would feel worried or concerned.
+A: b. resigned
+Thought: Let's think step by step:
+The investors criticized the product's market fit which Julian thought was dangerous.
+Therefore, Julian must be feeling devastated.
+A:d. devastated
+Thought: Let's think step by step:
+Ben expected that the experiment might have some unexpected outcomes. However, he did not expect that the mixture would produce a toxic gas. He was forced to evacuate the lab because of that. So he must be feeling bad or negative.
+A: b. devastated
+Thought: Let's think step by step:
+1. Helen got grilled by the moderator and struggled to respond effectively. 
+2. This means that her expectation of being grilled by the moderator turned out to be true and had negative consequences, such as exposing weaknesses and hurting her credibility. 
+3. This would likely make her feel devastated.
+A: b. devastated
+Thought: Let's think step by step:
+Penelope's guitar string breaks in the middle of her performance, which is an unexpected event that could be disappointing and frustrating.
+A:a. devastated. <answer>
+A:e. none of the above
+Thought: Let's think step by step:
+Zara's dessert failed to set, which is dangerous because it is seen as a technical failure. This could cost her the competition. So, Zara must be feeling devastated.
+A: a. devastated
+Thought: Let's think step by step:
+Zachary thinks that if a model trips, it would be dangerous since it could overshadow his collection and make the event memorable for the wrong reasons.
+A model actually trips on the runway.
+Zachary would feel devastated.
+A:c. devastated
+A:e. none of the above
+Thought: Let's think step by step:
+1. Rachel was prepared for the city council to have concerns, and she anticipated that they might question the structural integrity.
+2. The city council did indeed express concerns about the structural integrity.
+3. Rachel would feel dangerous if the city council questioned the structural integrity of the design since it might damage her reputation as a reliable engineer.
+A:d. devastated. <answer>

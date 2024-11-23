@@ -1,0 +1,46 @@
+Thought: Let's think step by step:
+The image shows a displeased or unhappy expression. The story mentions Amy wants to go to Harvard but applied to Stanford to appease her parents.  Since she is unhappy, it is likely she got into the school she didn't want to go to.
+A:a. Stanford.  The image shows a negative emotion, and Amy did not want to go to Stanford.
+
+Thought: Let's think step by step:
+The image shows a disappointed/sad expression. Since Johnny's goal was to receive offers from minor league baseball teams and not universities, the expression indicates he likely did not achieve his goal.
+
+A:a. Universities.  He likely received offers from universities, but not from the minor leagues, leading to his disappointed expression.
+
+Thought: Let's think step by step:
+The image shows a displeased or disappointed expression.  The story states Emma wants to move to the big city. If she got a job in her hometown, she would likely be unhappy, matching the image's expression.
+
+A:a. Emma finds a job in her hometown.
+
+Thought: Let's think step by step:
+The image shows a disappointed or upset expression. This suggests that Ben did not achieve his goal. Ben's goal was to attract high-profile clients. Since the expression is negative, it implies he likely attracted the clients he didn't want.
+
+A:a. Local clients
+
+Thought: Let's think step by step:
+The image shows a disgruntled or unhappy expression. This suggests that Ivan's experience at the gym was not positive. Since his primary goal was to make friends, the negative expression implies he did not achieve this goal.
+
+A:a. Ivan improved his physical fitness and gained confidence.  No, the expression in the image suggests a negative experience, not a positive one associated with improved fitness and confidence.  The story also states his primary goal was to make friends, and the expression suggests he did not achieve this goal.
+
+Thought: Let's think step by step:
+The image shows a disappointed or upset expression. Gary wanted to join the choir, but not the band.  The negative expression suggests he didn't get what he wanted.
+A:b. School band
+
+Thought: Let's think step by step:
+The image shows a disappointed/unhappy expression. Max was looking for an affordable outfit.  If he found a stylish, expensive outfit, he would likely be happy, not disappointed. The disappointed expression suggests he settled for something less ideal, likely due to cost.
+A:b. An affordable outfit from a department store.
+
+Thought: Let's think step by step:
+The image shows a person with a displeased or disappointed expression.  Ethan wanted a supporting role and not the leading role.  If he got the leading role, he would be unhappy. The image reflects unhappiness. Therefore, he must have gotten the leading role.
+
+A:b. Ethan got the leading role.
+
+Thought: Let's think step by step:
+The image shows a disappointed/unhappy expression. The story states that Eliza's main goal was to meet the actors, and she was less concerned with enjoying the play.  The unhappy expression suggests she didn't achieve her main goal.
+
+A:b. Eliza met and had engaging conversations with the actors but did not enjoy the play itself.
+
+Thought: Let's think step by step:
+The image shows a disappointed/unhappy expression.  The story states that Rachel's main goal was to connect with fellow art enthusiasts.  The expression suggests that she did not achieve this goal. The question asks if she gained a deeper understanding of the artist's work or made new friends. Since the expression indicates she is unhappy, it's more likely that she didn't make any friends, which was her primary goal.
+
+A:b. Rachel became friends with fellow art enthusiasts during the guided tour.  No, based on the expression, it is more likely that she did not meet like-minded people and did not make new friends.

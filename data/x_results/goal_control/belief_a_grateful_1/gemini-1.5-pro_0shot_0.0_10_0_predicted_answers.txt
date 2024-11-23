@@ -1,0 +1,30 @@
+A:b. Amy did not think she could control the outcome of her college admissions
+A: a. Johnny believed he could control his chances at getting an offer by preparing rigorously and playing his best game of the season. 
+<br>
+The image portrays a serene and content expression, suggesting a sense of satisfaction and accomplishment. This aligns with the idea that Johnny, having put in the effort and performed well, feels confident and optimistic about the potential outcome. 
+
+A:b. Emma believed she could control her future by choosing the right location. 
+
+**Explanation:** The image portrays a serene and content expression, suggesting a sense of optimism and confidence in the future. This aligns with option b, where Emma believes she can shape her destiny by making the right choice about her location.
+A:b. Ben believed he could control the types of clients he acquires by promoting his work and networking effectively. 
+
+The image portrays a serene and content expression, suggesting a belief in one's abilities and control over their circumstances.
+A: a. Ivan believed that by attending the group fitness class regularly, he could control his physical fitness improvement and the number of friends he makes. 
+
+**Explanation:** The image portrays a sense of contentment and satisfaction, suggesting Ivan believes he can achieve his goals. This aligns with option a, where Ivan has an internal locus of control, believing his actions (attending classes) directly influence the outcomes (fitness and friendships). 
+
+A:b. Gary believed that the outcome of the auditions was uncertain, and he may not be able to control which group he is accepted into. 
+<answer> The image shows an expression of contentment and acceptance. The closed eyes and slight smile suggest a sense of peace and understanding. This aligns with the idea that Gary understood the uncertainty of the audition outcomes and was prepared to accept the results, regardless of his control over them. </answer> 
+
+A:b. Max believed he could control the outcome by searching for the perfect outfit and trying on different options. 
+
+**Explanation:** The image portrays a serene and content expression, suggesting a sense of satisfaction and accomplishment. This aligns with the idea that Max, despite not finding a unique outfit, successfully achieved his goal of finding an affordable one, indicating a belief in his ability to control the outcome through his efforts. 
+
+A: a. Ethan believed that factors outside of his control would determine the role he was offered. 
+
+**Explanation:** The image portrays a sense of relief and contentment, suggesting that the person is happy with the outcome despite not having complete control over it. This aligns with Ethan accepting a supporting role and feeling satisfied with the opportunity to learn and grow. 
+
+A:b. Eliza believed that by attending the play and staying afterwards, she could control her enjoyment of the play and the likelihood of meeting the actors. 
+<answer>The image shows a contented expression with closed eyes and a slight smile, suggesting a sense of satisfaction and accomplishment. This aligns with the idea that Eliza believed she could influence the outcome of the evening by taking specific actions. </answer> 
+
+A:b. Rachel believed she could control her experience at the museum by actively engaging in the guided tour and asking questions.

@@ -1,0 +1,11 @@
+A:b. disappointed. The person's expression shows disappointment, with downturned eyebrows and a sad mouth.
+A:b. disappointed
+A: a. disappointed. The person's expression conveys disappointment.
+A:d. disappointed
+A:d. disappointed. The person's expression conveys a sense of sadness and dejection, aligning with the feeling of disappointment.
+A: c. disappointed. The person's expression conveys sadness and disappointment.
+A: a. disappointed. <br>
+The image shows a person with a sad and downcast expression, which aligns with feeling disappointed about not finding a suitable outfit.
+A:d. disappointed. Ethan feels disappointed because he wanted a supporting role but got the lead role.
+A:c. disappointed. Eliza feels disappointed because she enjoyed the play but didn't get to meet the actors.
+A:b. disappointed. Rachel's facial expression conveys disappointment.

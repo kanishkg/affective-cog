@@ -1,0 +1,75 @@
+## Example Analysis:
+
+**Thought: Let's think step by step:** 
+*   Sarah associates fog with danger and potential injury. 
+*   Feeling devastated suggests a negative and upsetting experience. 
+*   Therefore, encountering fog is more likely to cause devastation than snowfall.
+**A: a. Fog.** 
+***
+
+**Please provide the story and questions you want me to analyze.** 
+
+Okay, I'm ready to analyze the story and answer questions step-by-step. 
+
+**Example:**
+
+**Q: Julian feels devastated. Did the investors criticize the product's market fit or question long-term viability?**
+
+Thought: Let's think step by step: 
+* Julian believes criticism of market fit is safe and provides clear feedback.
+* Julian believes questioning long-term viability is dangerous and might lead to weak investment.
+* Julian feels devastated, suggesting a dangerous outcome occurred. 
+A: b. Questioned long-term viability 
+***
+
+**Remember, I can only process information provided to me and make educated guesses based on that information.** 
+
+## Example Analysis:
+
+**Thought: Let's think step by step:** Ben believes an explosion would be dangerous and damaging, while a toxic gas would be safe due to evacuation and ventilation. Feeling devastated implies a negative outcome. 
+**A: a. Caused an explosion.** Ben's devastation suggests the experiment resulted in the more dangerous outcome he feared. 
+
+Thought: Let's think step by step:
+Helen expected the debate to go smoothly and thought getting grilled by the moderator would be safe. So, if she feels devastated, it's more likely due to something she considered dangerous. 
+A:b. Personal attack from her opponent 
+
+Thought: Let's think step by step:
+Penelope would only feel devastated if something happened that she considered dangerous and could ruin the concert experience for her fans. 
+A:b. Sound system malfunction 
+<br> 
+***
+User: Penelope, a talented musician, is preparing for her first live concert after months of practicing and composing new songs. Penelope expects the concert to go smoothly without any issues. Penelope thinks that if her guitar string breaks, it would be safe since she has a backup guitar and can quickly recover. She thinks that if the sound system malfunctions, it would be dangerous and could ruin the entire concert experience for her fans. Penelope begins her performance on stage.
+Q: Penelope feels relieved. Did Penelope experience a broken guitar string or a sound system malfunction?
+a. Broken guitar string 
+b. Sound system malfunction 
+
+Thought: Let's think step by step: 
+* Xavier expects the dinner service to go smoothly, but something happened that made him feel devastated.
+* He considers spilling a drink safe because it can be cleaned up.
+* He considers serving the wrong dish dangerous due to potential allergic reactions or offense.
+* Since he's devastated, it's likely the more serious issue occurred. 
+A:b. Served the wrong dish 
+
+Thought: Let's think step by step:
+*   Zara believes a dessert failing to set is a safe outcome, suggesting she can recover from it.
+*   She believes being criticized for excessive sweetness is dangerous, implying it would have a negative impact on her. 
+*   Since Zara feels devastated, it's likely the outcome she feared (the dangerous one) occurred. 
+
+A:b. Criticized for being too sweet 
+
+Thought: Let's think step by step:
+Zachary fears negative reviews more than a model tripping. He equates mixed reviews with danger, suggesting they would cause him significant distress. 
+A:a. Collection received mixed reviews 
+
+Thought: Let's think step by step:
+* Charles believes a drought would be dangerous as it could lead to a significant loss in yield and income, implying devastation.
+* A pest infestation, while concerning, is something Charles believes he can manage with pest control measures, not necessarily leading to devastation. 
+A:a. Drought 
+
+## Example Analysis: 
+
+**Thought: Let's think step by step:** Rachel believes questioning the structural integrity is safe as it allows for improvement, while questioning cost-effectiveness is dangerous as it might lead to cancellation or delays. Since she feels devastated, it's likely the council raised the dangerous concern.
+**A: a. Questioned the cost-effectiveness** 
+***
+
+This demonstrates the format for analyzing the situation step-by-step and arriving at the best possible answer from the options. Please provide the story and questions you'd like me to analyze, and I'll do my best to assist you! 

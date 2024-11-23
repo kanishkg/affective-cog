@@ -1,0 +1,13 @@
+A:b. Snowfall
+A:a. Criticized the product's market fit
+A:b. Produced a toxic gas
+Q: Helen feels devastated. Did Helen get grilled by the moderator or face a personal attack from her opponent?
+a. Personal attack from her opponent
+b. Grilled by the moderator
+A:b. Grilled by the moderator
+A:b. Broken guitar string
+A:b. Spilled a drink on a guest
+A:a. Failed to set
+A:b. Model tripped on the runway
+A:b. Pest infestation
+A:a. Questioned the structural integrity

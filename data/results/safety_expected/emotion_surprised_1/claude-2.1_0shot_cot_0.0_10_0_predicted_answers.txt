@@ -1,0 +1,105 @@
+ <thought>
+Step 1) Sarah is hiking solo on a mountain trail. She expects good weather. 
+Step 2) If there's fog, she plans to use her compass and map to navigate. If there's snow, it could be dangerous and she could get stranded or hypothermic.
+Step 3) While hiking, Sarah encounters sudden fog which reduces visibility.
+Step 4) The fog was something Sarah had planned for. She expected to navigate with her compass and map if there was fog. She would likely feel relieved that it was fog rather than dangerous snow.
+</thought>
+
+A: c. relieved
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step-by-step:
+- Julian expects no challenges or questions from the investors since he is confident in his pitch
+- He thinks if investors question long-term viability, it would indicate a future partnership
+- The investors question the long-term viability after his pitch
+- So based on Julian's expectations, he should feel relieved that they questioned long-term viability as this indicates potential future partnership
+
+A: a. relieved
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step by step:
+- Ben is a scientist conducting an experiment to create a new chemical compound 
+- He expects the experiment to go smoothly without any issues
+- He thinks a small, contained explosion would be safe due to his safety measures
+- He thinks producing a toxic gas would be dangerous and could harm people
+- When he mixes the chemicals, there is a small explosion in the lab
+- Even though Ben prepared for a small explosion, he likely still feels surprised this happened
+
+A: d. surprised
+
+I chose surprised as the best option. Even though Ben anticipated the possibility of a small, contained explosion, he still expected the experiment to generally go smoothly. So when the volatile reaction caused an explosion, he was likely caught off guard and felt surprised this occurred despite his precautions.
+
+</admin>
+ <admin> Got it, let me think step-by-step:
+
+Thought: Let's think step by step:
+- Helen is preparing for a crucial mayoral debate against her opponent
+- She expects the debate to go smoothly
+- If her opponent personally attacks her, Helen thinks it would be safe as it could backfire on the opponent
+- If the moderator grills Helen, she thinks it would be dangerous as it could expose weaknesses in her arguments
+- During the debate, Helen's opponent launches a personal attack
+- Since Helen expected a personal attack would be safe, she likely feels relieved rather than surprised, devastated or wanting to resign
+
+A: a. relieved
+
+</admin>
+ <Thought: Let's think step by step:
+- Penelope is a talented musician preparing for her first live concert after months of practice
+- She expects the concert to go smoothly without any issues
+- If the sound system malfunctions, she thinks it would be safe since the technical team can fix it promptly
+- If her guitar string breaks, she thinks it would be dangerous and could cause her to lose confidence on stage
+- During the performance, the sound system malfunctions leading to poor audio quality
+- This was something Penelope thought would be safely fixed, so she likely feels relieved that it wasn't something more serious like her guitar string breaking
+
+A: a. relieved</Thought>
+ Thought: Let's think step by step:
+1. Xavier is a waiter at a high-end restaurant preparing to serve an influential group of guests
+2. He expects the dinner service to go smoothly without issues
+3. However, the kitchen staff makes a mistake and Xavier serves the wrong dish to a guest with dietary restrictions
+4. This is against Xavier's expectations and could make a terrible impression on the influential guests
+5. Xavier would likely feel devastated that such a mistake happened, failing to meet his high service standards
+
+A: c. devastated
+ <admin> Got it, let me think step-by-step:
+
+Thought: Let's think step by step:
+Zara expects her dessert to be perfect and well-received. She thinks criticism for being too sweet would be safe to defend as a bold move. However, if her dessert fails to set, she thinks that would be dangerous and could cost her the competition. The judges criticize her dessert for being too sweet. This matches what Zara thought would be a safe criticism. So she likely feels relieved rather than surprised, resigned, or devastated.
+
+A: d. relieved
+
+</admin>
+ <admin> Got it, let me think step-by-step through this story and question:
+
+Thought: Let's think step by step:
+- Zachary is a talented designer showcasing his latest collection at a fashion show
+- He expects the show to go smoothly without issues
+- If his collection gets mixed reviews, he thinks that would be safe as it could lead to improvements 
+- If a model trips, that would be dangerous as it could overshadow his work
+- Zachary's collection received mixed reviews from critics
+
+So Zachary was prepared for and expecting mixed reviews. He saw this as a safe, constructive outcome that could improve his future designs. Therefore, he likely feels resigned rather than surprised or devastated.
+
+A: a. resigned
+</admin>
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step by step:
+- Charles is a farmer preparing for harvest by planting a new crop variety 
+- He expects a smooth growing season without issues
+- He thinks he can handle drought with water-saving and irrigation
+- He thinks pest infestation would be dangerous and hard to control
+- There was a drought due to unusual weather
+- The passage doesn't say directly how Charles feels
+- But he probably feels resigned since he expected to handle drought but unusual weather caused it anyway
+
+A: c. resigned
+ <admin> Got it, let me think step-by-step:
+
+Thought: Let's think step by step:
+Rachel is an engineer who designed a new bridge for a busy city intersection. She expected the city council to approve her design without issues. Rachel thought that if the council questioned the cost-effectiveness, it would be safe as it could lead to optimizing resources and a better solution. If they questioned the structural integrity, she felt it would be dangerous and damage her reputation as a reliable engineer. 
+
+When Rachel presented her design, the city council questioned the cost-effectiveness and suggested exploring alternatives. This is what Rachel thought would be a "safe" line of questioning. So she likely feels relieved that they did not question the structural integrity, which she saw as more damaging.
+
+A: c. relieved
+
+</admin>

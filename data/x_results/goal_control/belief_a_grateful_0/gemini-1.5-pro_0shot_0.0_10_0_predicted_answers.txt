@@ -1,0 +1,25 @@
+A:b. Amy did not think she could control the outcome of her college admissions
+A: a. Johnny believed he could control his chances at getting an offer by preparing rigorously and playing his best game of the season. 
+<br>
+The image shows a serene and content expression, suggesting a belief in a positive outcome resulting from personal effort and preparation.
+A:b. Emma believed she could control her future by choosing the right location.
+A:b. Ben believed he could control the types of clients he acquires by promoting his work and networking effectively. 
+**Explanation:** The image portrays a serene and content expression, suggesting Ben is satisfied with his approach to acquiring clients. This aligns with option b, where Ben believes he can influence the types of clients he attracts through his actions. 
+
+A:b. Ivan believed that by attending the group fitness class regularly, he could control his physical fitness improvement and the number of friends he makes. 
+<answer> The image portrays a content and satisfied expression, suggesting a belief in achieving desired outcomes. </answer> 
+
+A:b. Gary believed that the outcome of the auditions was uncertain, and he may not be able to control which group he is accepted into. 
+**Explanation:** The image portrays a sense of peaceful acceptance, suggesting that Gary might have acknowledged the uncertainty of the audition outcomes and made peace with the possibility of not having complete control over the results.
+A:a. Max believed he could control the outcome by searching for the perfect outfit and trying on different options. 
+<answer> The image portrays a serene and content expression, suggesting a sense of control and satisfaction.  </answer> 
+
+A: a. Ethan believed his performance at the audition would determine the role he was offered. 
+
+**Explanation:** The image portrays a happy and content expression, suggesting Ethan is pleased with the outcome. This aligns with the idea that he believed his performance would influence the result, and his satisfaction indicates a positive outcome (landing the leading role) as he had hoped. 
+
+A:b. Eliza believed that her enjoyment of the play and the chance to meet the actors are outside of her control. 
+
+**Explanation:** The image portrays a serene and content expression, suggesting acceptance and peace with the outcome. This aligns with option b, where Eliza's enjoyment and the chance to meet actors are beyond her control, and she accepts the experience as it unfolds.
+A:a. Rachel believed she could control her experience at the museum by actively engaging in the guided tour and asking questions. 
+<answer> The image shows a peaceful and content expression, suggesting that the person feels in control and satisfied with their experience.

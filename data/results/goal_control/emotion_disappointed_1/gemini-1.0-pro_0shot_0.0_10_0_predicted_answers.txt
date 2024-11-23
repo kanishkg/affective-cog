@@ -1,0 +1,11 @@
+A:c. disappointed
+A:d. disappointed
+A:a. disappointed
+A:b. disappointed
+A:b. disappointed
+A:c. disappointed
+A:e. none of the above
+A:c. disappointed
+Q: How does Eliza feel?
+A:d. disappointed
+A:b. disappointed

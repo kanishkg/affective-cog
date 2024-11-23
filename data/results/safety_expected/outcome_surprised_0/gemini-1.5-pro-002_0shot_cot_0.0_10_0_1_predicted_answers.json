@@ -1,0 +1,32 @@
+[
+    [
+        "Thought: Let's think step by step:\nThe passage says Sarah expected pleasant weather.  It also says she thinks snowfall would be safe and picturesque, while fog would be dangerous. If she's surprised, it's likely because she encountered something she didn't expect, which would be either fog or snow. Since pleasant weather was expected, and snowfall is considered safe and picturesque by Sarah, it's more likely the surprise is due to the unexpected and dangerous fog.\n\nA:b. Fog\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nJulian thinks that criticism of product's market fit is safe and questions on long-term viability are dangerous. He is surprised. This implies that something he considered dangerous happened.\n\nA:a. Questioned long-term viability\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nBen expected the experiment to go smoothly.  He considered two potential negative outcomes: a toxic gas release or an explosion. He believed he was prepared for the gas but not the explosion.  If he was surprised, it means something unexpected happened. Since he expected the gas and thought he could handle it, the surprising outcome must have been the explosion.\n\nA:a. Caused an explosion\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe passage states that Helen expects the debate to go smoothly.  She considers getting grilled by the moderator \"safe\" and a personal attack \"dangerous\".  Being surprised implies something unexpected happened.  Since she expected the debate to go smoothly, neither of these outcomes were expected. However, she would only be *surprised* by the \"dangerous\" outcome, not the \"safe\" one.\n\nA:b. Personal attack from her opponent\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nPenelope expects the concert to go smoothly. She considers a broken guitar string a safe situation because she has a backup. A sound system malfunction, on the other hand, is considered dangerous. If Penelope is surprised, it means something unexpected and likely dangerous happened.\n\nA:b. Sound system malfunction\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nXavier expected the dinner service to go smoothly. He considered spilling a drink safe and serving the wrong dish dangerous.  Since the question asks what would make him surprised, it would be the event he considered dangerous, as it's unexpected.\n\nA:a. Served the wrong dish\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe question asks what surprised Zara. The passage states that Zara believes if the dessert fails to set, it would be \"safe\".  She anticipates this as a possibility and has a plan to explain it.  Therefore, it wouldn't be surprising. On the other hand, she considers it \"dangerous\" if the dessert is too sweet, implying she doesn't expect this and would be surprised if it happened.\n\nA:b. Criticized for being too sweet\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nZachary expects the show to go smoothly. He considers a model tripping to be a safe, common occurrence, and mixed reviews to be dangerous.  If something happens that surprises him, it would be the event he considers dangerous and didn't expect.\n\nA:b. Collection received mixed reviews\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nCharles expects a smooth growing season. He considers pest infestation manageable but drought dangerous.  Since he is surprised, it implies something unexpected and negative happened.  He believes he can handle pests, so a pest infestation wouldn't be surprising. A drought, however, would be a negative surprise.\n\nA:b. Drought\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nRachel expects the council to approve her design without any issues.  She considers questioning the structural integrity \"safe\" because it would lead to improvements. She considers questioning the cost-effectiveness \"dangerous\" because it could lead to cancellation or delays. If she's surprised, it's because something she didn't expect happened.  She didn't expect them to question anything. Therefore, if she's surprised, they must have questioned something. Since she considers questioning the cost-effectiveness \"dangerous\", it would be the surprising outcome.\n\nA:a. Questioned the cost-effectiveness\n"
+    ]
+]

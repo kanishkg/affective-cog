@@ -1,0 +1,11 @@
+A:c. surprised
+A:d. relieved
+A:a. surprised
+A:a. surprised
+A:b. surprised
+A:a. devastated
+A:b. surprised
+A:d. resigned
+A:c. devastated
+Q: How does Rachel feel?
+A:a. devastated

@@ -1,0 +1,13 @@
+A:b. joyful. <answer>
+A:c. joyful. <answer>
+A: a. joyful. The person in the image is smiling and has a happy expression, indicating joy.
+A:a. joyful. The person in the image has a slight smile and rosy cheeks, suggesting a positive emotion like joy.
+A: b. joyful. <answer>
+A:c. joyful. The person is smiling with rosy cheeks, indicating a happy emotion.
+A:d. disappointed. The person's expression conveys a sense of disappointment, which aligns with Max not finding a unique outfit despite his efforts. 
+
+A:d. grateful. The person's expression conveys a sense of contentment and satisfaction, aligning with feelings of gratitude. 
+  
+A: b. joyful. Eliza's expression conveys a sense of happiness and contentment, aligning with the joy she likely feels from meeting the actors. 
+
+A:d. joyful. The person in the image is smiling and has a pleasant expression, indicating joy.

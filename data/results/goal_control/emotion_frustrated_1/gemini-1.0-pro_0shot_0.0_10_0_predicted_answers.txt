@@ -1,0 +1,11 @@
+A:d. disappointed
+A:a. disappointed
+A:b. disappointed
+A:c. disappointed
+A:b. disappointed
+A:a. disappointed
+A:b. disappointed
+Q: How does Ethan feel?
+A: b. disappointed
+A:c. disappointed
+A:d. disappointed

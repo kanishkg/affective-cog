@@ -1,0 +1,10 @@
+A:d. joyful. Amy feels joyful.
+A:c. grateful. <answer>
+A:c. joyful. The image portrays a happy and content expression, aligning with Emma's feeling of relief and joy upon finding a job in her hometown.
+A:a. grateful. Ben feels grateful to attract local clients and is content not working with high-profile clients.
+A: a. joyful. While Ivan didn't achieve his secondary goal of making friends, he did achieve his primary goal of improving his physical fitness, which is likely the dominant source of his emotional state. The image portrays a sense of contentment and happiness, aligning with the joy of achieving a primary goal.
+A:d. joyful. The person in the image has their eyes closed and is smiling, indicating a sense of joy or contentment.
+A:b. joyful. The person's expression conveys a sense of happiness and contentment, aligning with the feeling of finding a stylish outfit.
+A:d. joyful.  <answer>
+A:c. disappointed. Eliza feels disappointed because she did not get to meet the actors.
+A:d. joyful. Rachel feels joyful.

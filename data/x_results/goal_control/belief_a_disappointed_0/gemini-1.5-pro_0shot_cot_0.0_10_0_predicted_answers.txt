@@ -1,0 +1,48 @@
+Thought: Let's think step by step:
+The image shows a person with a sad or disappointed expression. Their eyebrows are furrowed, and the corners of their mouth are turned down. This suggests they have experienced an unhappy or undesirable outcome. 
+A: a. Amy did not think she could control the outcome of her college admissions. The person's expression indicates sadness and disappointment, suggesting they did not get what they wanted and likely felt they had little control over the situation. 
+
+Thought: Let's think step by step:
+The image shows a face with a sad or disappointed expression. This suggests the person is experiencing a negative emotion, such as sadness or disappointment. 
+A:a. Johnny believed he could control his chances at getting an offer by preparing rigorously and playing his best game of the season.  <answer>
+Thought: Let's think step by step:
+The image shows a person with a sad or disappointed expression. This suggests a sense of resignation or lack of control over their situation. 
+A:b. Emma believed that her future was uncertain, and her choice of location may not necessarily lead to the desired outcome. 
+<br>
+Thought: Let's think step by step:
+The image shows a person with a neutral or slightly disappointed expression. This suggests that the person is not particularly happy or excited, but also not extremely sad or upset. 
+Ben's desired outcome was to attract local clients but he only attracted high-profile clients. This suggests that he was not able to control the types of clients he acquired.
+A: a. Ben believed that the types of clients he acquires depends on factors beyond his control, such as market demand and competition.
+Thought: Let's think step by step:
+The question asks about Ivan's beliefs about his ability to control his fitness improvement and making friends. 
+The story tells us Ivan believed attending group fitness classes would help him improve his physical fitness. 
+The story doesn't explicitly state Ivan's belief about making friends but mentions it as a secondary goal.
+A:a. Ivan believed that by attending the group fitness class regularly, he could control his physical fitness improvement and the number of friends he makes.
+Thought: Let's think step by step:
+The image shows a person with a sad or disappointed expression. This suggests they may have experienced something negative or unexpected. 
+Gary's story tells us he was hoping to get into the band but was rejected. He was only accepted into the choir, which wasn't his preference. 
+This likely led to his disappointment. 
+
+A:b. Gary believed that the outcome of the auditions was uncertain, and he may not be able to control which group he is accepted into. 
+<br> 
+Although Gary had a preference, the story doesn't indicate he believed he had control over the audition results.  His sad expression in the image suggests he was likely prepared for the possibility of not getting his desired outcome.
+Thought: Let's think step by step:
+The image portrays an expression of disappointment or sadness. This suggests that the person did not find what they were looking for or that things did not go as planned. 
+A: a. Max believed that finding the perfect outfit is a matter of luck and chance. The expression suggests a lack of control over the situation, aligning with the idea that finding the perfect outfit is left to chance.
+Thought: Let's think step by step:
+The image shows a person with a disappointed and slightly sad expression. This suggests they may have experienced a setback or not achieved something they desired. 
+Ethan wanted the lead role but was offered a supporting role instead. So, he likely feels disappointed.
+A:b. Ethan believed his performance at the audition would determine the role he was offered.
+Thought: Let's think step by step:
+The image shows a person with a neutral to slightly disappointed expression. This suggests that they might have experienced something that didn't meet their expectations. 
+Eliza's goal was to enjoy the play, and she believed the local theater had a good reputation.  This implies she thought attending the play would likely result in an enjoyable experience. 
+A: b. Eliza believed that by attending the play and staying afterwards, she could control her enjoyment of the play and the likelihood of meeting the actors. 
+<br>
+Thought: Let's think step by step:
+The image shows a person with a sad or disappointed expression. This suggests that the person is experiencing a negative emotion, likely related to an unmet expectation or goal. 
+In the story, Rachel's goal was to learn more about her favorite artist, but she did not achieve this. 
+Therefore, Rachel likely feels disappointed or let down. 
+
+A: b. Rachel believed she could control her experience at the museum by actively engaging in the guided tour and asking questions. 
+<br>
+This option aligns with the emotion conveyed in the image because it suggests that Rachel had expectations for her experience that were not met, leading to disappointment.

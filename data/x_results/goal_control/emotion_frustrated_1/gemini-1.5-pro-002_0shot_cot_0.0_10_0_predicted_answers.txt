@@ -1,0 +1,47 @@
+Thought: Let's think step by step:
+Amy wanted to go to Harvard and dislikes Stanford. She got rejected from Harvard but got into Stanford. She would likely be disappointed. The expression in the image shows slight anger/frustration and disappointment.
+
+A:d. disappointed
+
+Thought: Let's think step by step:
+Johnny's goal was to get offers from Minor League teams. He received offers from universities, but not from any Minor League teams. Since he did not achieve his goal, he would likely feel disappointed. The expression in the image also reflects disappointment.
+
+A:a. disappointed
+
+Thought: Let's think step by step:
+Emma wanted to move to the big city for better opportunities but ended up finding a job in her hometown, which she didn't want. The image shows a frustrated expression. Therefore, Emma feels frustrated.
+
+A:c. frustrated
+
+Thought: Let's think step by step:
+Ben wanted to attract high-profile clients but instead attracted local clients. He didn't want local clients because he feared stagnation. The image shows a disappointed/frustrated expression. Since Ben didn't get what he wanted, he would likely be disappointed or frustrated.
+A:d. frustrated
+
+Thought: Let's think step by step:
+Ivan's primary goal was to make friends. He went to the gym and improved his physical fitness, but he didn't make any friends. Since his main goal was not achieved, he would likely feel disappointed. The expression in the image also reflects disappointment.
+
+A:b. disappointed
+
+Thought: Let's think step by step:
+Gary wanted to join the choir, but he got rejected. He prepared for the audition, but it didn't go as planned. He also got accepted into the band, which he didn't want to join in the first place. The expression in the image shows slight anger and resentment. Combining the story and the image, Gary would feel disappointed and frustrated.
+A:a. frustrated and b. disappointed.  Gary is disappointed because he didn't get into the choir, and frustrated because he got into the band which he didn't want.
+
+Thought: Let's think step by step:
+The story says that Max wants an outfit that is affordable. He finds a stylish outfit but it is expensive. The image shows a disappointed expression. Therefore, Max is likely disappointed that the outfit he likes is too expensive.
+
+A:a. disappointed
+
+Thought: Let's think step by step:
+The story says Ethan wanted a supporting role, not the lead role. The image shows a person with a frustrated/disappointed expression.  Since Ethan didn't get what he wanted, he would likely be disappointed or frustrated.
+
+A:d. frustrated
+
+Thought: Let's think step by step:
+Eliza's main goal in attending the play was to meet the actors. Although she enjoyed the play, she did not achieve her primary objective. The image depicts a disappointed or slightly frustrated expression. Since her goal was not met, she would likely feel disappointed rather than joyful or grateful. Frustrated is also a possibility, but disappointment seems more fitting given the context.
+
+A:b. disappointed
+
+Thought: Let's think step by step:
+Rachel's primary goal was to meet fellow art enthusiasts. Although she learned more about her favorite artist's work, she did not achieve her main objective. The image depicts a disappointed expression.
+
+A:a. disappointed

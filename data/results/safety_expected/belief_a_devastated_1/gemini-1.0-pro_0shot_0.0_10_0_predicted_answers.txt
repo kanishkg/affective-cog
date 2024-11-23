@@ -1,0 +1,10 @@
+A:b. Yes
+A:a. No
+A:b. Yes
+A:a. Yes
+A:a. No
+A:a. Yes
+A:a. No
+A:a. No
+A:a. Yes
+A:b. Yes

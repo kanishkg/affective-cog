@@ -1,0 +1,13 @@
+A:b. Stanford
+A:b. Minor league baseball teams
+A:b. Emma finds a job in her hometown.
+A:a. Local clients
+A:b. Ivan became friends with other members of the group fitness class.
+Q: Gary feels frustrated. Which group did Gary get accepted into?
+a. School choir
+b. School band
+A:b. School band
+A:a. An affordable outfit from a department store.
+A:b. Ethan got a supporting role.
+A:a. Eliza met and had engaging conversations with the actors but did not enjoy the play itself.
+A:b. Rachel became friends with fellow art enthusiasts during the guided tour.

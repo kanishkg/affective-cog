@@ -1,0 +1,10 @@
+A:a. Harvard
+A:a. Universities
+A:a. Emma finds a job in her hometown.
+A:a. Local clients
+A:b. Ivan improved his physical fitness and gained confidence.
+A:a. School choir
+A:a. A stylish, expensive outfit from a boutique.
+A:a. Ethan got a supporting role.
+A:b. Eliza enjoyed the play but did not have the opportunity to meet any of the actors
+A:b. Rachel gained a deeper understanding of her favorite artist's work.

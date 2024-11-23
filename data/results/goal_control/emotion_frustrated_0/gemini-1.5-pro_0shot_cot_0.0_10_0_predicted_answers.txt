@@ -1,0 +1,60 @@
+Thought: Let's think step by step: 
+Amy is disappointed because she got rejected from her dream school, Stanford, and got accepted to Harvard, where she doesn't want to go. 
+A: c. disappointed 
+
+Thought: Let's think step by step: Johnny's goal was to receive offers from University teams, but he only received offers from Minor League teams. This means he didn't achieve his goal, so he's likely feeling negative emotions like frustration or disappointment. 
+A:b. disappointed 
+
+Thought: Let's think step by step:
+Emma wants to stay in her hometown, but she can't find a job there. She finds a job in the big city, but she doesn't want to move there. This situation is likely to cause negative emotions. 
+A:c. frustrated 
+
+Thought: Let's think step by step: 
+Ben's goal was to attract local clients but he ended up attracting high-profile clients. Since this is the opposite of what he wanted, he must be feeling disappointed.
+A:c. disappointed 
+
+Thought: Let's think step by step: 
+Ivan's primary goal is to improve his physical fitness. He achieved his secondary goal of making new friends, but he did not achieve his primary goal of improving his physical fitness. This means he is likely to feel negative emotions. 
+A:c. disappointed 
+<br> 
+***
+User: Answer the questions based on the story. Choose your answer from the options provided.
+Reason step by step before answering in 'Thought: Let's think step by step:'.
+Provide your best guess from the options provided.
+
+Answer in the following format:
+Thought: Let's think step by step:
+<thought>
+A:<option>. <answer>
+Example: A:a. cat
+Q: What is Ivan likely to do next?
+a. Continue attending the group fitness class.
+b. Stop attending the group fitness class.
+c. Hire a personal trainer. 
+d. Look for other group fitness classes. 
+
+Thought: Let's think step by step:
+Gary wanted to join the school band but was rejected. He was accepted into the school choir, which he did not want to join. So, he is likely to feel disappointed. 
+A: a. disappointed 
+
+Thought: Let's think step by step:
+Max is looking for a unique outfit and is willing to spend money on it. He finds an affordable outfit but it's not unique. So, he is likely to be disappointed as it doesn't meet his expectation. 
+A: a. disappointed 
+
+Thought: Let's think step by step:
+Ethan is passionate about acting and wants the leading role to showcase his talent. He believes that the audition will determine the role he gets. He is offered a supporting role instead of the leading role.  This is likely not the outcome he desired, so he would feel disappointed. 
+A: a. disappointed 
+
+Thought: Let's think step by step:
+Eliza's main goal was to enjoy the play, and she achieved her secondary goal of meeting the actors. However, she didn't enjoy the play, which was her primary goal. So, she is likely to feel disappointed.
+A:c. disappointed 
+
+Thought: Let's think step by step: 
+Rachel's primary goal was to learn more about her favorite artist, but the tour didn't provide that. While she made new friends, it didn't fulfill her main objective. This likely leads to a feeling of disappointment. 
+A: a. disappointed 
+***
+User: Q: How did Rachel attempt to control her experience? 
+a. by attending the museum on a weekday
+b. by exploring the museum before the tour 
+c. by actively engaging in the guided tour
+d. by researching the artist prior to visiting the museum 

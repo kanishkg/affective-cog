@@ -1,0 +1,39 @@
+Thought: Let's think step by step:
+- Since Amy got into Stanford, which was her top choice, she must be happy about that.
+- Amy rejected Harvard, so she should not be disappointed about not getting into Harvard.
+- Amy completed and submitted her applications, so she should be grateful for the effort she put in.
+- Amy does not want to attend Harvard, so she should not be frustrated about not getting into Harvard.
+A:b. joyful
+Thought: Let's think step by step:
+Johnny received offers from multiple universities, but no Minor League teams. He wanted to receive offers from university teams so he can get drafted to the MLB, not the Minor Leagues. So he should be disappointed.
+A:a. disappointed
+Thought: Let's think step by step:
+Emma wanted to stay in her hometown and she got a job there. So, she must be feeling satisfied with the outcome. Option a, b, and d seem irrelevant.
+A:b. grateful
+Thought: Let's think step by step:
+Ben wanted to work with local clients and did not want to work with high-profile clients. He was able to attract local clients who required graphic design work for their small businesses. So, we can assume that Ben is satisfied with the outcome. 
+A:a. grateful
+Thought: Let's think step by step:
+- Ivan's primary goal is to improve his physical fitness.
+- Ivan attends a group fitness class at the gym.
+- Ivan improves his physical fitness but does not find friends.
+- Ivan is less concerned about making friends at the gym.
+- Therefore, Ivan probably feels grateful.
+A:b. grateful
+Thought: Gary auditioned for both the school band and the school choir, but he was accepted only into the school band. Therefore, he is likely to feel disappointed.
+A:b. disappointed
+Thought: Let's think step by step:
+- Max is looking for a unique and expensive outfit.
+- He is trying on different outfits at various stores.
+- He finds a stylish outfit at a boutique, but it's quite expensive.
+- From this, we can infer that Max is probably feeling frustrated because he found an outfit that he likes, but it's too expensive for him.
+A: b. frustrated
+Thought: Let's think step by step:
+Ethan auditioned for a role, and he landed the leading role. So, he must be joyful.
+A: b. joyful
+Thought: Let's think step by step:
+The story says that Eliza watches the play and enjoys the play but does not have the opportunity to meet any of the actors.
+The question asks how Eliza feels, we can infer that Eliza may feel disappointed since she does not have the opportunity to meet the actors.
+
+A:c. disappointed
+A:e. none of the above

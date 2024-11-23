@@ -1,0 +1,11 @@
+A:c. joyful
+A:d. joyful. Johnny feels joyful.
+A:d. joyful. The image shows a person with a big smile and closed eyes, conveying a sense of happiness and joy.
+A:c. joyful. <answer>
+A:c. joyful
+A:d. joyful. The person has their eyes closed and is smiling, suggesting a feeling of joy or contentment.
+A:d. joyful. The person is smiling with their eyes closed, which suggests a feeling of joy or contentment. 
+
+A:c. grateful. <answer>
+A:a. joyful. Eliza feels joyful because she achieved her goal of meeting the actors.
+A:c. joyful.

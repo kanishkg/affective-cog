@@ -1,0 +1,42 @@
+Thought: Let's think step by step:
+Amy gets into Harvard which is her first preference. So that gives her joy. However, she is rejected from Stanford which is her parents' preference. So that may also give some disappointment. But since getting into Harvard is a bigger thing than not getting into Stanford, we can assume her overall feelings are dominated by joy.
+A: d. joyful
+Thought: Let's think step by step:
+1) Johnny wanted to receive offers from Minor League teams, not university teams. 
+2) He received offers from Minor League teams. 
+3) So, Johnny should be grateful.
+
+A: a. grateful
+Thought: Let's think step by step:
+The provided text says: "Emma believes that her future is uncertain, and the location of her job is outside of her control." This indicates Emma feels uncertain about her future. So it cannot be d. joyful.
+The text also says: "She does not want to stay in her hometown because she fears stagnation." This indicates she feels frustrated with her hometown. So it cannot be b. grateful.
+The text also says: "Emma applies to various jobs. Emma finds a promising job in the big city and cannot find one in her hometown." This indicates she feels disappointed with her hometown. So it cannot be c. frustrated.
+The only remaining option is a. disappointed.
+A:a. disappointed
+Thought: Let's think step by step:
+Ben wants to work with high-profile clients but he only attracts local clients. This means that he is not getting what he wants, which could make him feel frustrated.
+A:c. frustrated
+Thought: Let's think step by step:
+1. Ivan's primary goal is to make friends at the gym.
+2. He believes attending group fitness classes will help him meet like-minded people.
+3. He is less concerned about improving his physical fitness.
+4. Ivan attends a group fitness class at the gym.
+5. Ivan becomes friends with other members of the group fitness class but is unable to improve his physical fitness.
+
+Given that Ivan's primary goal is to make friends and he was able to achieve that, it is likely that he feels b. disappointed because he was unable to improve his physical fitness.
+A:b. disappointed
+Thought: Let's think step by step:
+Gary was accepted into the school choir but not the band. He wanted to join the school choir because he believes it will help him improve his vocal skills and provide him with opportunities to perform in various events. So, he must be joyful.
+A:c. joyful
+Thought: Let's think step by step:
+Max is looking for an affordable outfit, even if it's not as unique. He finds an affordable outfit at a department store, but it's not very unique. So, Max might feel disappointed.
+A: a. disappointed
+A:e. none of the above
+Thought: Let's think step by step:
+1. Eliza was excited about the show and meeting the actors.
+2. She met and had engaging conversations with the actors.
+3. She did not enjoy the play.
+4. She wanted to meet the actors more than enjoying the play.
+5. So, she should be grateful for meeting the actors.
+A:c. grateful
+A:e. none of the above

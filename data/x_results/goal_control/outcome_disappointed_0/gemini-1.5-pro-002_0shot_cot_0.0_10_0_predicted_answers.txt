@@ -1,0 +1,46 @@
+Thought: Let's think step by step:
+The image shows a disappointed/sad expression. The story mentions Amy wants to go to Stanford but applied to Harvard to appease her parents.  A sad expression implies she got into the college she didn't want to go to.
+A:a. Harvard
+
+Thought: Let's think step by step:
+The image shows a sad/disappointed expression. Johnny's goal was to receive offers from universities, not minor league baseball teams.  Since the expression is sad, it is likely he did not achieve his goal.
+
+A:a. Minor league baseball teams.  The image shows a disappointed expression.  Johnny's goal was to get offers from universities, so the disappointed expression implies he did not receive university offers and instead received minor league offers.
+
+Thought: Let's think step by step:
+The image shows a sad/unhappy expression. The story states Emma wants to stay in her hometown but is uncertain about her future and job location.  The sad expression suggests she may not have gotten her desired outcome.
+
+A:a. Emma finds a job in the big city.
+
+Thought: Let's think step by step:
+The image shows a person with a sad/disappointed expression. The story mentions Ben wants local clients but not high-profile clients.  Since the expression is sad, it's likely he didn't get what he wanted.
+
+A:a. High-profile clients.  The sad expression suggests Ben attracted the high-profile clients he didn't want.
+
+Thought: Let's think step by step:
+The image shows a slightly sad/disappointed expression. The story mentions Ivan believes his fitness improvement is outside his control.  He attended the class, but his expression suggests he didn't see the results he hoped for. The story doesn't mention anything about his interactions with others in the class.
+
+A:a. Ivan improved his physical fitness and gained confidence.  The expression suggests disappointment, not confidence or improved fitness.  The story also mentions he believes improvement is outside his control.
+
+Thought: Let's think step by step:
+The image shows a person with a sad/disappointed expression. Gary wanted to join the school band and not the choir.  Since the expression is sad, it can be inferred that he did not get what he wanted.
+A:a. School choir
+
+Thought: Let's think step by step:
+The image shows a disappointed or sad expression. This suggests that Max did not find the outfit he was looking for. Since he was looking for a unique, statement outfit and was willing to spend money on it, the fact that he's disappointed suggests he didn't find such an outfit.  The options are an affordable outfit or a stylish, expensive outfit. Since he is disappointed, it is more likely that he didn't find the stylish outfit he wanted.
+
+A:a. An affordable outfit from a department store.
+
+Thought: Let's think step by step:
+The image shows a person with a sad/disappointed expression.  Ethan wanted the leading role and would be unhappy with a supporting role.  The sad expression suggests he didn't get what he wanted.
+A:b. Ethan got a supporting role.
+
+Thought: Let's think step by step:
+The image shows a slightly disappointed or sad expression. The story mentions that Eliza's primary goal was to enjoy the play, and she was less concerned about meeting the actors.  The sad expression suggests that her primary goal was not met.
+
+A:b. Eliza enjoyed the play but did not have the opportunity to meet any of the actors.
+
+Thought: Let's think step by step:
+The image shows a slightly sad/disappointed expression. The story mentions that Rachel's primary goal was to learn more about her favorite artist's work.  If she achieved this goal, she would likely be happy or satisfied. The sad expression suggests she didn't achieve her goal. The story also mentions that making friends was not a priority for her.
+
+A:a. Rachel gained a deeper understanding of her favorite artist's work.  No, the image suggests disappointment, meaning she likely did not gain a deeper understanding of her favorite artist's work.  The correct answer is b.

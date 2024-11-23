@@ -1,0 +1,32 @@
+Thought: Let's think step by step:
+The image shows a person with a sad or disappointed expression. This suggests they may have experienced a negative or unwanted outcome. In the story, Amy is rejected from her desired college, Harvard, and accepted into Stanford, which she dislikes. 
+A:b. Amy did not think she could control the outcome of her college admissions. The expression in the image suggests disappointment and sadness, indicating a lack of control over the situation.
+Thought: Let's think step by step:
+The image shows a face with a sad or disappointed expression. This suggests the person is experiencing an emotion such as sadness, disappointment, or regret. 
+A: a. Johnny believed he could control his chances at getting an offer by preparing rigorously and playing his best game of the season. <answer>
+Thought: Let's think step by step:
+The person in the image has a sad and disappointed expression. This suggests they may have experienced a setback or encountered an obstacle. 
+A: b. Emma believed that her future was uncertain, and her choice of location may not necessarily lead to the desired outcome.
+Thought: Let's think step by step:
+The image shows a neutral expression, which suggests Ben is neither particularly happy nor sad. He might be experiencing a mix of emotions, perhaps some disappointment at not attracting high-profile clients but also some acceptance of the situation. 
+A:b. Ben believed that the types of clients he acquires depends on factors beyond his control, such as market demand and competition.
+Thought: Let's think step by step:
+The story tells us that Ivan believed attending group fitness classes would help him meet new people and improve his fitness. This suggests he thought his actions could influence both outcomes. 
+A:a. Ivan believed that by attending the group fitness class regularly, he could control his physical fitness improvement and the number of friends he makes.
+Thought: Let's think step by step:
+The image shows a person with a sad or disappointed expression. This suggests they may have experienced an outcome they didn't desire. 
+A:a. Gary believed that the outcome of the auditions was uncertain, and he may not be able to control which group he is accepted into. <answer>
+Thought: Let's think step by step:
+The image shows a person with a neutral expression. This suggests they are not particularly happy or sad but rather resigned or accepting. 
+A:a. Max believed that finding the perfect outfit is a matter of luck and chance. The neutral expression suggests a lack of strong belief in either control or lack of control over the situation.
+Thought: Let's think step by step:
+The image shows a person with a sad or disappointed expression. This suggests they did not get what they wanted. In the story, Ethan wanted a supporting role but got the lead role instead. 
+A: a. Ethan believed that factors outside of his control would determine the role he was offered.
+Thought: Let's think step by step:
+The image shows a disappointed expression. This suggests that the person's hopes or expectations were not met. 
+Eliza's goal was to meet the actors, but she didn't. This means she likely feels her actions (attending the play and staying afterward) did not result in the desired outcome.
+A: a. Eliza believed that her enjoyment of the play and the chance to meet the actors are outside of her control. 
+<answer> The disappointment suggests Eliza felt she had little control over whether she met the actors or not.
+Thought: Let's think step by step:
+The person in the image has a sad expression with downturned lips and slightly furrowed brows. This suggests disappointment or sadness, which aligns with Rachel's experience of not meeting fellow art enthusiasts despite attending the guided tour. This implies she might have felt a lack of control over the situation. 
+A:b. Rachel believed that her experience at the museum depends on factors beyond her control, such as the quality of the guided tour and the people she meets.

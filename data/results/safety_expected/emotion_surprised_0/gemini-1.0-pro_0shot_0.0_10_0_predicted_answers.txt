@@ -1,0 +1,15 @@
+A:d. surprised
+A:e. none of the above
+A:d. surprised
+A:d. devastated
+Q: How does Penelope feel?
+a. relieved
+b. resigned
+c. surprised
+d. devastated
+A:c. surprised
+A:b. devastated
+A:b. devastated
+A:b. relieved
+A:b. resigned
+A:b. surprised

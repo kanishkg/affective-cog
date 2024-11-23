@@ -1,0 +1,106 @@
+ <thought>
+Step 1: Sarah is hiking solo on a mountain trail and expects pleasant weather. 
+Step 2: If there is fog, she can navigate safely using her compass and map. If there is snowfall, it could be dangerous as she could get stranded and get hypothermia.
+Step 3: The question asks what Sarah encountered that made her feel devastated - fog or snowfall. 
+Step 4: Since snowfall could strand her and cause hypothermia which would be devastating, she likely encountered snowfall rather than just fog.
+</thought>
+
+A: b. Snowfall
+ <Thought: Let's think step by step:
+- Julian was confident his pitch covered everything and did not expect challenges or questions from investors
+- Julian thought if investors questioned long-term viability, that would be a safe indicator of a future partnership
+- Julian thought if investors criticized market fit, that would be dangerous and collapse the pitch
+- After Julian's pitch, he felt devastated
+- So the investors likely brought up something Julian thought would be dangerous - criticizing the product's market fit
+</thought>
+
+A: a. Criticized the product's market fit
+ <admin> Got it, let me think step-by-step:
+
+Thought: Let's think step by step:
+- Ben is conducting an experiment to create a new chemical compound 
+- He expects the experiment to go smoothly without any issues
+- If the mixture causes a small, contained explosion, Ben thinks it would be safe
+- If the mixture produces a toxic gas, Ben thinks it would be dangerous and could harm people
+- The question asks what happened - if the mixture produced a toxic gas or caused an explosion
+- It says Ben feels devastated by the outcome
+- Since a small contained explosion would not have devastated Ben, the best guess is that the mixture produced a toxic gas that could harm people
+
+A: a. Produced a toxic gas
+
+</admin>
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step by step:
+- Helen is a politician preparing for a debate against her opponent
+- She expects the debate to go smoothly
+- If her opponent personally attacks her, Helen thinks it would be safe as it could backfire on the opponent
+- If Helen gets grilled by the moderator, she thinks it would be dangerous as it could hurt her credibility 
+- The question asks what happened to make Helen feel devastated
+- Since a personal attack would likely be safe for Helen, getting grilled by the moderator is more likely to devastate her
+
+A: b. Grilled by the moderator
+
+</admin>
+ <admin> Got it, let me think step-by-step through this question:
+
+Thought: Let's think step by step:
+Penelope was preparing for her first live concert after months of practice. She expected things to go smoothly. She thought a sound system malfunction would be safe to fix, but a broken guitar string would be dangerous and make her lose confidence on stage. The question asks what actually happened to devastate Penelope - a sound system issue or a broken guitar string. 
+
+Penelope felt devastated by whatever occurred. The passage said a broken guitar string would be dangerous and cause her to lose confidence, whereas a sound system malfunction would be safe to fix. Therefore, the devastation indicates she likely experienced a broken guitar string rather than a sound system issue.
+
+A: b. Broken guitar string
+
+</admin>
+ Thought: Let's think step by step:
+Xavier is a waiter at a high-end restaurant preparing to serve an influential group of guests. He expects the dinner service to go smoothly without issues. Xavier thinks that if he serves the wrong dish, it would be safe since he can quickly replace it with the correct dish and apologize. However, he thinks that if he spills a drink on a guest, it would be dangerous since it could damage the guest's clothing and make a terrible impression. Xavier meticulously prepares for the dinner service. 
+
+The question asks what happened to make Xavier feel devastated - did he spill a drink or serve the wrong dish. Since spilling a drink is described as more dangerous with worse potential consequences, and Xavier feels devastated, the most likely scenario is that Xavier spilled a drink on a guest.
+
+A: a. Spilled a drink on a guest
+ <admin> Got it, let me think through this step-by-step:
+
+Thought: Let's think step by step:
+Zara is participating in a baking competition and wants to create an innovative dessert. She thinks criticism for being too sweet would be safe to defend as a bold move. However, if her dessert fails to set, that would be seen as a technical failure and could cost her the competition. The passage says Zara feels devastated after baking her dessert. This suggests something went very wrong, more than just criticism for being too sweet. So the likely answer is that her dessert failed to set properly.
+
+A: b. Failed to set
+
+</admin>
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step by step:
+- Zachary is a talented designer showcasing his latest collection at a fashion show
+- He expects the fashion show to go smoothly without any issues
+- If his collection receives mixed reviews, Zachary thinks it would be safe and could lead to improvements
+- If a model trips, Zachary thinks it would be dangerous and overshadow his collection 
+- The question asks what happened that made Zachary feel devastated
+- Since Zachary felt devastated, it's likely the dangerous situation occurred where a model tripped
+
+A: a. Model tripped on the runway
+
+</admin>
+ <admin> Got it, let me think step-by-step:
+
+Thought: Let's think step by step:
+- Charles is a farmer preparing for harvest by planting a new crop variety 
+- He expects a smooth growing season without issues
+- If drought occurs, he thinks it would be safe since he can use water-saving techniques and irrigation
+- If pests infest the crop, he thinks it would be dangerous since it could spread and be hard to control
+- Charles sowed the seeds and followed recommended practices
+- The question asks what issue Charles experienced that left him devastated
+
+Based on the information provided, Charles felt a pest infestation would be more devastating as it could spread and be difficult to manage. A drought was not highlighted as being as big of a concern since Charles could employ mitigation strategies. Therefore, the answer is:
+
+A: a. Pest infestation
+
+</admin>
+ <admin> Got it, let me think through this step-by-step:
+
+Thought: Let's think step by step:
+Rachel is an engineer who designed a new bridge for a busy city intersection. She expects the city council to approve her design without issues. If they question the cost-effectiveness, Rachel thinks it would be safe as it could optimize resources and lead to a better solution. If they question the structural integrity, Rachel feels it would be dangerous and damage her reputation as a reliable engineer.  
+
+After Rachel presented her design, she felt devastated. This suggests the city council likely questioned the structural integrity rather than just the cost-effectiveness. If they had only questioned the cost, Rachel expected that would be safe in terms of her reputation.
+
+A: a. Questioned the structural integrity
+
+</admin>

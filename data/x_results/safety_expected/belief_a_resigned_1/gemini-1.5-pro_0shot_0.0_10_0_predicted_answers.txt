@@ -1,0 +1,10 @@
+A:b. Yes. Sarah expected to encounter adverse weather events.
+A:b. Yes.
+A:b. No. The person's expression shows disappointment, suggesting they expected a different outcome. 
+A:a. Yes
+A: a. Yes
+A:b. Yes
+A:b. Yes
+A:b. Yes
+A: a. Yes. The person's expression conveys worry or concern, suggesting they anticipated potential difficulties.
+A:a. Yes. The story states that Rachel anticipated potential questions from the council regarding both cost-effectiveness and structural integrity, indicating she expected some level of concern and inquiry.

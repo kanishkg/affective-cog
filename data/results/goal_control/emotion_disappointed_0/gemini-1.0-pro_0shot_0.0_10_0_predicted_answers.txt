@@ -1,0 +1,20 @@
+A:a. disappointed
+A:b. disappointed
+Q: How does Emma feel?
+a. disappointed
+b. joyful
+c. frustrated
+d. grateful
+A:c. frustrated
+A:a. disappointed
+Q: How does Ivan feel?
+a. frustrated
+b. joyful
+c. disappointed
+d. grateful
+A:c. disappointed
+A:d. disappointed
+A:c. disappointed
+A:a. disappointed
+A:c. disappointed
+A:a. disappointed

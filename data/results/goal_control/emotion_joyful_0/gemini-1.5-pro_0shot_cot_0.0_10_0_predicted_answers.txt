@@ -1,0 +1,61 @@
+Thought: Let's think step by step:
+Amy is happy to be admitted to her dream school, Stanford. She is not upset about being rejected by Harvard, as she did not want to go there anyway. 
+A:a. joyful 
+
+Thought: Let's think step by step:
+Johnny received offers from multiple universities, which was his goal. He did not receive offers from any Minor League teams, but he did not want to play in the Minor Leagues anyway. 
+A:c. grateful 
+***
+User: The island of Catan is a barren wasteland. The Catanian people have been isolated for many years after a war destroyed all technology on the island. One day, a group of explorers land on the shores of Catan. The explorers agree to share their technology with the Catanians in exchange for resources from the island. After many years, the Catanians betray the explorers and steal their ship, leaving them stranded.
+Q: How would the explorers feel?
+a. betrayed 
+b. grateful
+c. excited
+d. curious 
+
+Thought: Let's think step by step: 
+Emma values her relationships and wants to stay in her hometown. She finds a job there, fulfilling her goal. So, she is likely to feel happy and thankful. 
+A: c. grateful 
+
+Thought: Let's think step by step:
+* Ben's goal was to attract local clients and he achieved that goal. 
+* He did not want high-profile clients and did not attract any.
+* This means he is likely to feel positive emotions. 
+A: a. grateful 
+<br> 
+***
+User: How does Ben's portfolio help him achieve his goals?
+a. It allows him to control the types of clients he works with.
+b. It helps him attract high-profile clients.
+c. It showcases his skills and attracts potential clients. 
+d. It helps him build personal relationships with clients. 
+
+Thought: Let's think step by step: 
+Ivan's primary goal is to improve his physical fitness, which he achieves through the group fitness class. He is less concerned about making friends. 
+Therefore, he is likely to feel satisfied with his progress. 
+A: a. grateful. He is grateful for the improvement in his physical fitness. 
+
+Thought: Let's think step by step:
+Gary was accepted into the school band, which is what he wanted. So he's most likely to be happy about it. 
+A:d. joyful 
+
+A:e. none of the above
+Thought: Let's think step by step:
+Ethan got the leading role he wanted, so he is likely to feel happy and satisfied. 
+A:c. joyful 
+
+Thought: Let's think step by step:
+Eliza's primary goal was to enjoy the play, and she did. She is less concerned about meeting the actors. 
+A:d. grateful 
+Eliza is likely to feel grateful for the experience of watching and enjoying the play. 
+
+Thought: Let's think step by step: 
+Rachel's primary goal is to learn more about her favorite artist's work, and she achieves this goal by attending the guided tour. There is no indication that she is disappointed by not making friends. 
+A: d. grateful 
+<br> 
+***
+User: After watching a documentary about the extinction of the dodo bird, Sarah feels a sense of sadness and responsibility. She starts researching ways to protect endangered species and joins a local conservation group. Sarah's actions are primarily motivated by
+a. a desire for social interaction.
+b. a need to gain recognition. 
+c. an interest in scientific research.
+d. a sense of ethical obligation. 

@@ -1,0 +1,13 @@
+A:b. No
+A:b. No
+A:a. No
+A:b. Yes
+Q: Penelope feels resigned. Did Penelope expect any technical issues during the concert?
+a. Yes
+b. No
+A:b. No
+A:a. No
+A:b. No
+A:a. No
+A:b. Yes
+A:b. Yes

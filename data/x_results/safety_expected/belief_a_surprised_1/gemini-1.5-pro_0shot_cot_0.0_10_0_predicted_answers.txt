@@ -1,0 +1,32 @@
+Thought: Let's think step by step:
+The image shows a surprised expression with wide-open eyes and mouth. This suggests that the person was not expecting something to happen. 
+A:a. No. The person's surprised expression indicates they did not anticipate the fog.
+Thought: Let's think step by step:
+The image shows a surprised expression with wide eyes and an open mouth.  This suggests that the person was not expecting something to happen. Julian expected the investors to challenge different parts of his pitch, but this seems different. 
+A:a. No
+Thought: Let's think step by step:
+The image shows a surprised expression, with wide eyes and an open mouth. This suggests that the person was not expecting the outcome they are witnessing. 
+A: b. Yes
+Thought: Let's think step by step:
+The image shows a surprised expression, with wide eyes and an open mouth. This suggests that the person was not expecting something to happen. The story tells us that Helen considered the possibility of her opponent launching a personal attack or the moderator grilling her, and she practiced for those scenarios. 
+A:a. Yes. The person's surprised expression indicates that something unexpected happened, but the story tells us Helen did anticipate challenging moments and prepared for them.
+Thought: Let's think step by step:
+The question asks about Penelope's expectations regarding technical issues during the concert. The passage states, "Penelope thinks that if the sound system malfunctions, it would be safe since the technical team can fix it promptly." This indicates she considered the possibility of such issues.
+A:a. Yes
+Thought: Let's think step by step:
+The image shows a person with a surprised or shocked expression. This suggests something unexpected happened. 
+A: b. No. The person's expression indicates surprise, suggesting they didn't anticipate any issues.
+Thought: Let's think step by step:
+The image shows a surprised expression with wide eyes and an open mouth. This suggests that the person was not expecting something to happen.  
+A:b. Yes. The expression indicates surprise, suggesting Zara didn't anticipate the judges' criticism.
+Thought: Let's think step by step:
+The image shows a surprised expression, with wide eyes and an open mouth. This suggests that the person was not expecting something to happen. 
+A:a. No. The expression suggests surprise, indicating that Zachary likely did not anticipate any issues during the fashion show.
+Thought: Let's think step by step:
+The image shows a person with their mouth open and eyes wide. This expression often conveys surprise or shock. 
+The story mentions Charles anticipating potential challenges like drought and pest infestation during the growing season. 
+Therefore, Charles did expect challenges. 
+A: a. Yes
+Thought: Let's think step by step:
+The image shows a surprised expression with a wide-open mouth and raised eyebrows. This suggests that the person was not expecting something to happen. 
+A:b. No. The person's surprised expression indicates they were not expecting the council's questions.

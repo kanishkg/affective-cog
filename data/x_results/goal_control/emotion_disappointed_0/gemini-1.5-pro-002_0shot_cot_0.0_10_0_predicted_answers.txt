@@ -1,0 +1,49 @@
+Thought: Let's think step by step:
+Amy's most desired outcome was to get into Stanford. She got rejected from Stanford, which is not what she wanted. The image shows a facial expression of sadness/disappointment. She got into Harvard, but she did not want to go there. Therefore, she is not joyful or grateful. She might be frustrated, but disappointment is a more appropriate emotion given the context.
+
+A:b. disappointed
+
+Thought: Let's think step by step:
+Johnny's goal was to get offers from university teams. He did not receive any offers from university teams, but he did receive offers from minor league teams, which is not what he wanted. The expression in the image shows disappointment.
+
+A:a. disappointed
+
+Thought: Let's think step by step:
+Emma wants to stay in her hometown but has only found a promising job in the big city.  She fears losing connections with family and friends if she moves. The image shows a person with a sad/disappointed expression. Therefore, Emma is likely feeling disappointed.
+
+A:c. disappointed
+
+Thought: Let's think step by step:
+Ben wanted local clients but got high-profile clients instead. He did not want high-profile clients because he feared he wouldn't be able to handle the pressure. The image shows a disappointed expression.
+
+A:c. disappointed
+
+Thought: Let's think step by step:
+Ivan's primary goal was to improve his physical fitness. He went to the gym and attended group fitness classes hoping to achieve this. Although he made new friends, he was unable to improve his physical fitness. This would likely lead to disappointment because he didn't reach his main goal. The image reflects this emotion.
+
+A:c. disappointed
+
+Thought: Let's think step by step:
+Gary wanted to join the school band but got rejected. He got accepted into the choir, which he didn't want to join. The image shows a disappointed/sad expression. Therefore, Gary feels disappointed.
+
+A:b. disappointed
+
+Thought: Let's think step by step:
+Max wants a unique outfit. He finds an outfit that is affordable but not unique. This would likely lead to disappointment. The expression in the image is also of disappointment.
+
+A:d. disappointed
+
+Thought: Let's think step by step:
+Ethan wanted the leading role but got a supporting role. He is likely to feel disappointed because he didn't get what he wanted. The image shows a facial expression of disappointment. The eyebrows are slightly raised and pulled together, and the corners of the mouth are turned downwards.
+
+A:a. disappointed
+
+Thought: Let's think step by step:
+Eliza's primary goal was to enjoy the play.  She did meet the actors, which was a secondary goal, but she did not enjoy the play itself. The image depicts a disappointed expression. Therefore, Eliza feels disappointed.
+
+A:c. disappointed
+
+Thought: Let's think step by step:
+Rachel's primary goal was to learn more about her favorite artist's work. She attended the guided tour hoping to achieve this goal. However, the story states that she did not gain a deeper understanding of her favorite artist's work.  The image shows a facial expression of slight sadness and downturned lips. This suggests disappointment. Although she made friends, she didn't achieve her main objective.
+
+A:c. disappointed

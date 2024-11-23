@@ -1,0 +1,32 @@
+[
+    [
+        "Thought: Let's think step by step:\nAmy believes she cannot control the outcome of her college admissions. She wants to go to Harvard but applied to Stanford to appease her parents. She dislikes Stanford and doesn't want to go there. If she is disappointed, it implies she got into the college she didn't want to go to.\n\nA:a. Stanford\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nJohnny's goal is to receive offers from the Minor Leagues. He does not want to play university baseball.  If he is disappointed, it's likely he received offers he didn't want, meaning offers from universities.\n\nA:b. Universities\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe question asks about Emma's feelings of disappointment.  The passage states Emma wants to move to the big city for better opportunities and fears stagnation in her hometown.  If she were to find a job in her hometown, it would likely lead to disappointment given her desires.\n\nA:a. Emma finds a job in her hometown.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nBen wants high-profile clients and believes getting them is beyond his control. He fears stagnation associated with local clients.  If he's disappointed, it's likely he didn't get the high-profile clients he desired and might have attracted local clients instead, or no new clients at all. The question implies he attracted *some* kind of client.\n\nA:b. Local clients\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nIvan's primary goal was to make friends, and he attended the group fitness class hoping to achieve this.  He feels disappointed, which suggests he didn't make any friends. The question asks if his experience led to improved fitness *or* new friendships. Since he's disappointed, it's unlikely he made friends. The question doesn't state whether his fitness improved or not, but since the question uses \"or,\" and we can reasonably conclude he didn't make friends, the question is implying his fitness may have improved, even if it wasn't his primary goal.\n\nA:a. Ivan improved his physical fitness and gained confidence.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nGary wants to join the choir, but not the band. He feels disappointed. This implies he got the opposite of what he wanted.\n\nA:a. School band\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nMax prioritizes affordability over uniqueness and doesn't want to spend too much.  Since he's disappointed, it's likely he didn't find anything that satisfied him style-wise, but he probably still stuck to his budget. This points towards an affordable but not particularly stylish outfit.\n\nA:a. An affordable outfit from a department store.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe question states that Ethan feels disappointed. Ethan wants a supporting role and not the leading role.  If he got the supporting role, he would likely be happy. Since he is disappointed, it is likely he got the role he did not want.\n\nA:a. Ethan got the leading role.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nEliza's primary goal was to meet the actors. She is disappointed. This likely means she did not meet the actors. The question asks if she enjoyed the play *or* met the actors. Since she didn't meet the actors, the other option, enjoying the play, is more likely.\n\nA:b. Eliza enjoyed the play but did not have the opportunity to meet any of the actors.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe passage states that Rachel's primary goal was to connect with fellow art enthusiasts. It also mentions that she is less concerned with learning more about the artist's work. Since she is disappointed, it implies that she did not achieve her primary goal of making new friends.  The question asks if she gained a deeper understanding of the artist's work OR made new friends. Since she didn't make friends, and that was her priority, it's unlikely the visit led to a deeper understanding of the artist's work, especially since she wasn't focused on that aspect.\n\nA:b. Rachel became friends with fellow art enthusiasts during the guided tour.  No, she did not.\n"
+    ]
+]

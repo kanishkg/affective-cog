@@ -1,0 +1,15 @@
+A:a. Based on the information provided, it seems more likely that Amy was admitted to Stanford
+A:b. Based on the information provided, Johnny likely received offers from universities rather than minor league
+A:b. Emma finds a job in the big city.
+
+The story mentions that Emma wants
+A:a. Based on the information provided, it seems more likely that Ben attracted local clients rather
+A:b. Based on the information provided, it's more likely that Ivan improved his physical fitness
+A:b. School band. Based on the information provided, Gary auditioned for both the school
+A:b. An affordable outfit from a department store. Based on the information provided, Max wanted
+A:a. Ethan got the leading role.
+Based on the information provided,
+A:b. Eliza enjoyed the play but did not have the opportunity to meet any of
+A:a. Rachel gained a deeper understanding of her favorite artist's work.
+
+Although Rachel was

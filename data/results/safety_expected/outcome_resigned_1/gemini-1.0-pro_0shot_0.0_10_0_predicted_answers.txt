@@ -1,0 +1,16 @@
+A:a. Snowfall
+A:b. Questioned long-term viability
+A:a. Produced a toxic gas
+Q: Helen feels resigned. Did Helen get grilled by the moderator or face a personal attack from her opponent?
+a. Personal attack from her opponent
+b. Grilled by the moderator
+A:b. Grilled by the moderator
+A:b. Broken guitar string
+A:b. Served the wrong dish
+A:b. Failed to set
+A:b. Collection received mixed reviews
+A:a. Drought
+Q: Rachel feels resigned. Did the city council question the structural integrity or the cost-effectiveness of the design?
+a. Questioned the structural integrity
+b. Questioned the cost-effectiveness
+A:b. Questioned the cost-effectiveness

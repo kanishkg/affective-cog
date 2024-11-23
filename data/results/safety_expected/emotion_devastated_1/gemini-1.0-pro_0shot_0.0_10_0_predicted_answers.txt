@@ -1,0 +1,16 @@
+A:c. surprised
+A:a. devastated
+A:b. surprised
+Q: How does Helen feel?
+a. surprised
+b. resigned
+c. devastated
+d. relieved
+A:b. resigned
+A:b. devastated
+A:a. devastated
+A:d. devastated
+A:b. surprised
+Q: How does Charles feel?
+A:b. surprised
+A:b. devastated

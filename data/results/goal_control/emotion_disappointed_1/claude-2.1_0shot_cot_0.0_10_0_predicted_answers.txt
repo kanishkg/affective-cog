@@ -1,0 +1,95 @@
+ <thought>
+Step 1) Amy wants to go to Harvard and does not want to go to Stanford. 
+Step 2) Amy was rejected from Harvard and accepted to Stanford.
+Step 3) Since Amy did not get into her top choice school, she would likely feel disappointed that she can't go to Harvard.
+</thought>
+
+A: b. disappointed
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step by step:
+- Johnny is a high school student who plays baseball and wants to receive an offer from a Minor League baseball team
+- He invited both university and Minor League coaches to watch him play in the conference finals
+- Johnny received multiple offers from universities, but no offers from Minor League teams
+- Since Johnny's goal was to get an offer from a Minor League team so he could train and play with an MLB-affiliated team, he likely feels disappointed that he did not achieve that goal
+
+A: d. disappointed
+ <admin> Got it, let me think step-by-step through this story and question:
+
+Thought: Let's think step by step:
+- Emma recently graduated college and wants to move to the big city for better career opportunities and personal growth
+- She doesn't want to stay in her small hometown because she fears stagnating 
+- Emma applies for jobs both in the big city and her hometown
+- She is unable to find a job in the big city but does get offered a job in her hometown
+- The passage states Emma does not want to stay in her hometown and fears stagnation if she remains there
+- So while getting a job offer is positive, she likely feels disappointed or frustrated that it is keeping her from moving to the big city like she hoped
+
+A: c. disappointed
+
+</admin>
+ <admin> Got it, let me think through this step-by-step:
+
+Thought: Let's think step by step:
+Ben wants to work with high-profile clients because he thinks it will provide better career opportunities and financial stability. He shares his portfolio online to attract those clients. However, he only attracts small, local clients instead. 
+
+A: b. disappointed
+
+Ben would likely feel disappointed because he was hoping to get high-profile clients to advance his career, but ended up only getting small, local clients instead.
+</admin>
+ <admin> Got it, let me think through this step-by-step:
+
+Thought: Let's think step by step:
+Ivan's primary goal is to make friends at the gym. He believes attending group fitness classes will help him do that. However, when he attends a class, he improves his fitness but does not make any new friends. Even though his fitness improved, he did not achieve his main goal of making new friends. So he is likely feeling disappointed that he did not reach his primary goal.
+
+A: a. disappointed
+ <thought>
+Let's think step-by-step:
+1) Gary is passionate about music and dreams of becoming a professional musician
+2) He wants to join the school choir to improve his vocal skills and get performance opportunities
+3) He does not want to join the school band because he thinks it may not give him enough individual practice time
+4) Gary auditions for both groups but is only accepted into the school band, not the choir he wanted to join
+</thought>
+
+A: b. frustrated
+
+Gary likely feels frustrated because he was not accepted into the school choir which was his first choice to help him pursue his musical dreams. Even though he was accepted into the school band, it was not the group he most wanted to join.
+ <admin> Got it, let me think through this step-by-step:
+
+Thought: Let's think step by step:
+Max loves fashion and is looking for a new outfit at the mall for an upcoming school event. He believes finding the perfect outfit is about luck and chance. He wants something affordable, even if not that unique, because he doesn't want to spend too much money. He tried on different outfits at various stores. He found a stylish outfit at a boutique but it was too expensive.
+
+A: d. disappointed
+
+Since Max was hoping to find an affordable stylish outfit, he likely feels disappointed that the outfit he found, while stylish, was too expensive for him. Even though he found something he liked, the high price means he probably can't buy it, leaving him feeling disappointed.
+</admin>
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step by step:
+- Ethan is an aspiring actor who wants a supporting role to learn from more experienced actors 
+- He auditions for a play and lands the leading role, not a supporting role
+- The passage says Ethan fears the pressure of a leading role may be overwhelming
+- So even though he got the lead role, he probably feels more pressure and stress than joy
+
+A: c. disappointed
+
+I chose disappointed as my best guess for how Ethan likely feels. He wanted a supporting role to develop his skills but was given the leading role that he fears may have too much pressure. So he probably feels disappointed that he did not get the supporting role he was hoping for.
+
+</admin>
+ <admin> Got it, let me think through this step-by-step:
+
+Thought: Let's think step by step:
+Eliza's primary goal is to meet and connect with the actors, as she aspires to be an actor herself. She is less concerned about whether she enjoys the play itself. Although Eliza enjoyed the play, she did not get to meet any of the actors. Since meeting the actors was her main goal and she did not achieve that, she likely feels disappointed.
+
+A: d. disappoint
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step by step:
+- Rachel's primary goal was to connect with fellow art enthusiasts at the museum
+- She believed attending the guided tour would help her meet like-minded people
+- However, she gained a deeper understanding of her favorite artist's work but did not meet any fellow enthusiasts
+- Since connecting with others was her main goal, and she did not achieve that, she likely feels disappointed that her expectations were not met
+
+A: c. disappointed
+
+Rachel feels disappointed because her primary goal of connecting with fellow art enthusiasts was not achieved, even though she gained more understanding of her favorite artist's work.
+</admin>

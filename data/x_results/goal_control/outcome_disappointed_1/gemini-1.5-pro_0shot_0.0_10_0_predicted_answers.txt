@@ -1,0 +1,22 @@
+A:b. Harvard.  Amy would be upset if she got into Stanford because she did not want to attend.  Her expression is one of sadness.
+A:a. Minor league baseball teams. The expression is hopeful, which suggests a positive outcome, such as receiving offers from the preferred option.
+A:a. Emma finds a job in the big city. 
+
+**Explanation:** The image portrays a mix of emotions, potentially including apprehension, uncertainty, and a glimmer of hope. This aligns with Emma's situation as she awaits the outcome of her job applications. While she desires to move to the big city, the uncertainty of her future creates a sense of apprehension.
+A:a. Local clients. The expression is sad and disappointed, suggesting Ben did not get the clients he wanted.
+A:b. Ivan became friends with other members of the group fitness class. 
+<answer> The image portrays a sense of sadness or disappointment, suggesting that Ivan's primary goal of making friends was not met. </answer> 
+
+A:e. none of the above
+A:a. An affordable outfit from a department store.  The image portrays a disappointed or sad expression, suggesting that Max might not have found the ideal outfit he had hoped for.
+A:b. Ethan got a supporting role. 
+<answer> The person in the image displays an expression of subdued disappointment or resignation, suggesting they may not have received their desired outcome. This aligns with the possibility of Ethan receiving a supporting role instead of the leading role he was apprehensive about. </answer> 
+
+A:b. Eliza enjoyed the play but did not have the opportunity to meet any of the actors. 
+
+**Explanation:** The image portrays a neutral or slightly disappointed expression, suggesting Eliza's goal of meeting the actors was not fulfilled, but the lack of strong negative emotion implies she at least enjoyed the play itself.
+A:a. Rachel became friends with fellow art enthusiasts during the guided tour. 
+
+**Explanation:**
+
+The image portrays an expression of contentment or satisfaction, suggesting a positive experience. Given Rachel's primary goal was to connect with others who share her passion for art, option a aligns best with the emotion displayed.

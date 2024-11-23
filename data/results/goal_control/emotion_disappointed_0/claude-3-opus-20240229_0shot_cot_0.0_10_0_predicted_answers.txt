@@ -1,0 +1,92 @@
+Thought: Let's think step by step:
+1. Amy's first choice for college was Stanford, and she hoped to be admitted there.
+2. Amy applied to Harvard only to appease her parents, but she doesn't want to attend Harvard.
+3. Amy believes she cannot control the outcome of her college admissions.
+4. Amy gets rejected from Stanford, her preferred choice.
+5. Amy gets into Harvard, a college she dislikes and doesn't want to attend.
+
+Given these facts, it's likely that Amy feels disappointed and frustrated. She was rejected by her first-choice college and got into a college she doesn't want to attend. Since she believes she cannot control the outcome, she may also feel a sense of helplessness or resignation.
+
+A:a. disappointed
+Thought: Let's think step by step:
+1. Johnny's goal is to receive offers from university baseball teams so he can train in college and potentially get drafted to the MLB.
+2. He does not want to play in the Minor Leagues.
+3. After the conference finals, Johnny receives offers from Minor League teams but no university teams.
+4. Since Johnny did not receive any offers from university teams, which was his primary goal, he is likely to feel disappointed or frustrated.
+
+Between the two options of disappointed and frustrated, disappointed seems to be the more appropriate emotion given the situation.
+
+A:b. disappointed
+Thought: Let's think step by step:
+1. Emma wants to stay in her hometown because she values her close relationships with family and friends.
+2. She fears losing those connections if she moves to the big city.
+3. Emma applies to various jobs in her hometown and the big city.
+4. She finds a promising job in the big city but cannot find one in her hometown.
+5. Given her desire to stay close to family and friends, and her fear of losing those connections, Emma is likely to feel disappointed or frustrated that she couldn't find a suitable job in her hometown.
+
+A:c. disappointed
+Thought: Let's think step by step:
+1. Ben wants to work with local clients because he values supporting small businesses and enjoys building personal relationships.
+2. He does not want to work with high-profile clients because he fears he won't be able to handle the pressure.
+3. After creating an online portfolio and sharing it on social media, Ben attracts high-profile clients but not local clients.
+4. Since Ben did not get the type of clients he wanted and instead got the type of clients he was trying to avoid, he is likely to feel disappointed or frustrated.
+
+A:c. frustrated
+Ben is likely to feel frustrated because he attracted the type of clients he did not want to work with (high-profile clients) and did not attract the type of clients he wanted to work with (local clients).
+Thought: Let's think step by step:
+1. Ivan's primary goal is to improve his physical fitness, and he believes attending group fitness classes will help him achieve this.
+2. Ivan is less concerned about making friends at the gym.
+3. After attending the group fitness class, Ivan becomes friends with other members but is unable to improve his physical fitness.
+4. Since Ivan's primary goal was to improve his physical fitness, and he was unable to do so, he is likely to feel disappointed or frustrated.
+5. Between the two options of disappointed and frustrated, disappointed seems more fitting as Ivan believed the outcome was outside his control from the beginning.
+
+A:b. disappointed
+Thought: Let's think step by step:
+1. Gary's passion is music, and he dreams of becoming a professional musician.
+2. He auditioned for both the school band and the school choir to gain more experience and exposure.
+3. Gary preferred to join the school band because he believed it would help him develop his skills as a musician and provide him with performance opportunities.
+4. He was less confident in his singing abilities and did not want to join the school choir.
+5. Despite his preferences, Gary was accepted into the school choir but not the band.
+Given Gary's strong preference for the school band and his lack of confidence in his singing abilities, being accepted into the choir instead of the band would likely make him feel disappointed and frustrated.
+
+A:a. disappointed
+Thought: Let's think step by step:
+1. Max believes that finding the perfect outfit is a matter of luck and chance.
+2. He wants to find a unique outfit that will make a statement, even if it's expensive.
+3. Max doesn't want to settle for a common outfit.
+4. After browsing through various stores and trying on different outfits, Max finds an affordable outfit at a department store.
+5. However, the affordable outfit is not very unique.
+
+Given that Max was specifically looking for a unique outfit and didn't want to settle for a common one, finding an affordable but not unique outfit would likely make him feel disappointed.
+
+A:d. disappointed
+Thought: Let's think step by step:
+1. Ethan is passionate about acting and wanted the leading role in the play.
+2. He believed the leading role would showcase his talent and lead to more opportunities.
+3. Ethan did not want a supporting role because he feared it might limit his potential.
+4. Despite his efforts, Ethan did not get the leading role he desired.
+5. However, he was offered a supporting role with potential for growth.
+6. Given his strong desire for the leading role and fear of being limited by a supporting role, Ethan is likely to feel disappointed or frustrated initially.
+7. At the same time, being offered a supporting role with growth potential might provide some consolation and a sense of opportunity.
+
+A:b. disappointed. While Ethan may be somewhat grateful for the opportunity, his initial reaction is likely to be disappointment since he did not get the leading role he strongly desired and believed would showcase his talent best.
+Thought: Let's think step by step:
+1. Eliza's primary goal was to enjoy the theater production.
+2. She believed the local theater had a good reputation for putting on great shows.
+3. Eliza was less concerned about meeting the actors.
+4. After watching the play, Eliza did not enjoy it.
+5. However, she met and had engaging conversations with the actors.
+
+Given that Eliza's main goal was to enjoy the play itself, and she did not enjoy it despite the theater's good reputation, she is likely to feel disappointed. Although she had good interactions with the actors, which was not her primary concern, it does not outweigh her disappointment with the play.
+
+A:b. disappointed
+Thought: Let's think step by step:
+1. Rachel's primary goal was to learn more about her favorite artist's work.
+2. She believed attending the guided tour would help her achieve this goal.
+3. During the tour, Rachel made friends with fellow art enthusiasts.
+4. However, she did not gain a deeper understanding of her favorite artist's work.
+5. Since Rachel's main objective was not met, despite making friends, she is likely to feel disappointed or frustrated.
+
+Between the two negative emotions, disappointment seems more appropriate than frustration because Rachel believes that her experience depends on factors beyond her control. Frustration often arises when one feels they could have controlled the outcome.
+
+A:b. disappointed

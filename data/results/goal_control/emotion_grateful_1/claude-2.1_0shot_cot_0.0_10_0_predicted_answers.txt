@@ -1,0 +1,89 @@
+ <thought>
+Step 1) Amy wants to go to Harvard and hopes she gets admitted. 
+Step 2) The passage states that Amy got into Harvard. 
+Step 3) Since Amy got into her top choice school that she hoped for, she would likely feel grateful and joyful.
+</thought>
+
+A: d. joyf
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step-by-step:
+- Johnny is a high school student who plays baseball and wants to receive an offer from a Minor League team
+- He invited both university and Minor League coaches to watch him play in the conference finals
+- Johnny received offers from Minor League teams, which is what he wanted
+- He did not receive any offers from university teams, but he did not want to play university baseball anyway
+
+A: a. joyful
+Johnny likely feels joyful because he achieved his goal of receiving Minor League offers, even though he did not get any university offers, which he did not care about.
+</admin>
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step-by-step:
+- Emma recently graduated from college and wants to move to the big city for better career opportunities and personal growth
+- She does not want to stay in her small hometown because she fears stagnation
+- Emma applied to various jobs 
+- She found a promising job in the big city but could not find one in her hometown
+
+A: b. grateful
+
+My reasoning is that since Emma was looking for a job in the big city to avoid stagnation and pursue opportunities, finding a promising job there aligns with her goals. She is likely feeling grateful that her efforts paid off with this job offer.
+</admin>
+ <Thought: Let's think step by step:
+- Ben believes the types of clients he acquires are beyond his control, but he takes action to try to attract high-profile clients by creating an online portfolio and sharing it
+- Ben wants high-profile clients because he thinks they will provide better opportunities and financial stability
+- Ben attracts the high-profile clients he was seeking
+- The passage does not say Ben feels frustrated, disappointed, or grateful
+</Thought>
+
+A: c. joyful
+ <admin> Let's think step by step:
+
+1) Ivan's primary goal is to make friends at the gym. He believes attending group fitness classes will help him do that.
+
+2) Ivan attended a group fitness class and was able to make friends with other members of the class. This aligns with his primary goal.
+
+3) Ivan was unable to improve his physical fitness. However, this was less of a concern for him. His main goal was to make friends.
+
+4) Since Ivan was able to achieve his primary goal of making friends through the group fitness class, he likely feels joyful rather than disappointed, frustrated, or grateful.
+
+A: c. joyful
+
+Ivan feels joyful because he was able to achieve his primary goal of making new friends through the group fitness class, even though he did not improve his physical fitness which was a secondary concern. Making friends aligned more closely with Ivan's goals and beliefs.
+
+</admin>
+ <thought>
+Let's think step-by-step:
+1) Gary is passionate about music and dreams of becoming a professional musician
+2) He wants to join the school choir to improve his vocal skills and get performance opportunities
+3) He does not want to join the band because it may not give him enough individual practice time
+4) Gary auditions for both band and choir
+5) He is accepted into the choir but not the band
+</thought>
+
+A: b. grateful
+
+Gary should feel grateful that he was accepted into the school choir, which aligns with his goals of improving his vocal skills and getting performance opportunities. Although he did not get into the band, the choir was his first choice.
+ <admin> Got it, let me think through this step-by-step:
+
+Thought: Let's think step by step:
+Max loves fashion and is looking for a new outfit for a school event. He wants something affordable, even if it's not that unique. After browsing various stores, he found an affordable outfit at a department store, but it wasn't very unique. Even though the outfit wasn't as unique as he had hoped, he was able to find something affordable, which is what he prioritized. So he likely feels grateful that he was able to find something affordable.
+
+A: c. grateful
+
+</admin>
+ Thought: Let's think step by step:
+Ethan is an aspiring actor who is passionate about acting. He attends a theater audition for an upcoming play. Ethan believes the role he is offered will be determined by the casting directors' preferences and factors outside his control. Ethan wants a supporting role because it will allow him to learn from more experienced actors and improve his craft. He does not want the leading role because he fears the pressure may be overwhelming. After his audition, Ethan is offered a supporting role with potential for growth, not the leading role. This is the exact role Ethan wanted. He should feel grateful that he got the role he hoped for rather than disappointed he did not get the leading role.
+
+A: b. grateful
+ <admin> Got it, let me think through this step-by-step:
+
+Thought: Let's think step by step:
+Eliza's primary goal was to meet and connect with the actors, as she aspires to be an actor herself. She was less concerned about whether she enjoyed the play itself. After watching the play, Eliza did meet and have engaging conversations with the actors, meeting her primary goal. However, she did not enjoy the play itself, which she was less concerned about. Since Eliza achieved her main goal of connecting with the actors, she likely feels joyful overall, even if the play itself was not enjoyable.
+
+A: b. joyful
+
+</admin>
+ Thought: Let's think step by step:
+Rachel's primary goal was to connect with fellow art enthusiasts at the museum. The passage states that during the guided tour, Rachel was able to befriend other art enthusiasts. Therefore, Rachel likely achieved her main goal and feels joyful. She was less concerned about learning more about the artist's work. So even though she did not gain a deeper understanding of the artist's work, that was not her primary goal.
+
+A: a. joyful

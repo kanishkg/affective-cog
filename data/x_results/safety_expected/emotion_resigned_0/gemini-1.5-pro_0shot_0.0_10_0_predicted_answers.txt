@@ -1,0 +1,10 @@
+A:d. surprised. Sarah is likely feeling surprised as the fog appeared suddenly while she was hiking.
+A:b. resigned. Julian feels resigned.
+A: a. devastated. The expression in the image conveys a sense of sadness and disappointment, which aligns with feeling devastated after a failed experiment and potential damage. 
+A:b. devastated. The person's expression conveys sadness and disappointment, aligning with feeling devastated after a personal attack.
+A:c. devastated
+A:c. devastated.
+A:d. resigned
+A:c. resigned. The image shows an expression of disappointment and acceptance, suggesting resignation.
+A:d. devastated. Charles feels devastated because the drought could lead to a significant loss in yield and income.
+A:a. devastated. The person's expression conveys a sense of sadness and disappointment, suggesting they have received unwelcome news.

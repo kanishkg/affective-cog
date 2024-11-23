@@ -1,0 +1,114 @@
+ <function_calls>
+<invoke>
+<tool_name>summarize</tool_name>
+<parameters>
+<story>
+Amy, is a high school student applying to college. Amy believes she can control the outcome of her college admissions by crafting a quality application. Amy completes and submits her college applications. Amy gets into Harvard and is rejected from Stanford.
+</story>
+</parameters>
+</invoke>
+</function_calls>
+
+Thought: Let's think step by step:
+Amy is a high school student who applied to both Harvard and Stanford for college. She believed she could influence the admission decisions with strong applications. After submitting her applications, she was accepted to Harvard but rejected from Stanford. The question asks what Amy wanted regarding college admissions. 
+
+The options provide two possibilities:
+A) Amy wanted to attend Harvard and did not care about Stanford, or 
+B) Amy wanted to attend Stanford but applied to Harvard to please her parents.
+
+Since the passage says Amy feels joyful after being accepted to Harvard, this suggests she did want to attend Harvard. Therefore, option A best matches what Amy wanted regarding college admissions.
+
+A: a. Amy wanted to go to Harvard, and did not wish to attend Stanford because she wanted to be closer to home.
+ <function_calls>
+<invoke>
+<tool_name>summarize</tool_name>
+<parameters>
+<story>
+Johnny is a high school student on the baseball team. He is currently preparing for the conference finals. Johnny believes he can control his chances at getting an offer. Johnny invites coaches from university baseball teams and from Minor League Baseball teams to watch him play at the conference finals. Johnny receives offers from Minor League teams, but no university teams.
+</story>
+</parameters>
+</invoke>
+</function_calls>
+
+Thought: Let's think step by step:
+Johnny was a high school baseball player preparing for a big tournament. He invited both university and minor league coaches to watch him, hoping to get offers. He got minor league offers but no university offers. His goal was likely to play college baseball and get drafted to the MLB eventually. The minor league offers don't align with that goal.
+
+A: a. Johnny's goal was to receive offers from University teams, so he could train in college and have a chance of getting drafted to the MLB. He did not want to play in the Minor Leagues.
+ <function_calls>
+<invoke>
+<tool_name>summarize</tool_name>
+<parameters>
+<story>
+Emma is a young woman living in a small town. She recently graduated from college and is looking for a job. Emma believes that she can control where she finds a job. Emma applies to various jobs. Emma finds a promising job in the big city and cannot find one in her hometown.
+</story>
+</parameters>
+</invoke>
+</function_calls>
+
+Thought: Let's think step by step:
+Emma recently graduated from college and was looking for a job. She applied to various jobs, including in her small hometown. She was not able to find a promising job in her hometown, but did find one in the big city. When Emma found the job in the big city, she felt joyful. This suggests that Emma wanted to move to the big city for better career opportunities and personal growth rather than stay in her hometown.
+
+A:b. Emma wanted to move to the big city because she believes it will provide her with better career opportunities and personal growth. She did not want to stay in her hometown because she fears stagnation.
+ <admin> Let's think through this step-by-step:
+
+Thought: Ben created an online portfolio showcasing his work and shared it on social media to increase his client base. The passage states that Ben attracted high-profile clients who require graphic design work for multinational corporations, but did not find local clients. This suggests that Ben was hoping to attract local clients, not just high-profile ones. 
+
+The passage does not provide enough information to determine why Ben wanted local clients - whether it was to support small businesses, build personal relationships, avoid pressure from large clients, etc. But we can infer that he was at least hoping to acquire some local clients based on the text.
+
+A: b. Ben wanted to work with local clients because he values supporting small businesses and enjoys building personal relationships with his clients. He did not want to work with high-profile clients because he fears he won't be able to handle the pressur
+
+</admin>
+ <admin> Got it, let me think step-by-step:
+
+Thought: Let's think step by step:
+Ivan wanted to improve his physical fitness and make new friends at the gym. He believed that attending group fitness classes would help him achieve both goals. However, Ivan was only able to make new friends but did not improve his physical fitness. This suggests that improving his physical fitness was Ivan's primary goal, while making new friends was secondary. 
+
+A: a. Ivan's primary goal was to improve his physical fitness, and he believed attending group fitness classes would help him achieve this. He was less concerned about making friends at the gym.
+ <admin> Got it, let me think step-by-step:
+
+Thought: Let's think step by step:
+Gary is passionate about music and dreams of becoming a professional musician. He wants to gain more experience and exposure by joining either the school band or choir. He believes he can control his chances of being accepted by preparing well and showcasing his talent. Gary auditioned for both groups. He was accepted into the choir but not the band. 
+
+Since Gary auditioned for both groups, he likely wanted the experience and opportunities that came with joining either one. Even though he did not get into the band, he still has the chance to perform and improve through the choir.
+
+A: b. Gary wanted to join the school band because he believes it will help him develop his skills as a musician and provide him with opportunities to perform in various events. He did not want to join the school choir because he is not as confident in his singing abilities.
+
+</admin>
+ <function_calls>
+<invoke>
+<tool_name>summarize</tool_name>
+<parameters>
+<story>
+Max, a high school student who loves fashion, is at the mall to find a new outfit for an upcoming school event. Max believes he can control the outcome by searching for the perfect outfit and trying on different options. Max browses through various stores and tries on different outfits. Max finds an affordable outfit at a department store, but it's not very unique.
+</story>
+</parameters>
+</invoke>
+</function_calls>
+
+Thought: Let's think step by step:
+Max is looking for a new outfit at the mall for an upcoming school event. He believes he can find the perfect outfit by searching different stores and trying on various options. Ultimately, Max finds an affordable outfit at a department store, but it is not very unique.
+
+A: a. Max prioritized finding an affordable outfit, even if it wasn't as unique.
+ <admin> Got it, let me think step-by-step:
+
+Thought: Let's think step by step:
+Ethan is an aspiring actor who attended a theater audition for an upcoming play. He was passionate about acting and believed his audition would determine the role he was offered. Ethan performed his audition piece but did not get the leading role. Instead, he was offered a supporting role with potential for growth. 
+
+The passage states Ethan does not feel joyful after the audition. So he likely wanted the leading role to showcase his talent and open up more acting opportunities. He probably did not want just a supporting role because he feared it may limit his potential.
+
+A: a. Ethan wanted the leading role because he believed it would showcase his talent and lead to more acting opportunities. He did not want a supporting role because he feared it may limit his potential.
+
+</admin>
+ <functionality>
+Thought: Let's think step by step:
+Eliza attended the local theater production because she is a theater enthusiast. She was excited to experience the show and potentially meet some of the actors. After the play, Eliza met and had engaging conversations with the actors but did not enjoy the play itself. Even though Eliza did not enjoy the play, she had engaging conversations with the actors, which suggests her primary goal was to meet and connect with the actors rather than purely enjoying the theater production.
+
+A: b. Eliza's primary goal was to meet and connect with the actors in the play, as she aspires to be an actor herself. She was less concerned about whether she enjoys the play itself.
+
+</functionality>
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step by step:
+Rachel visited the museum to attend a special exhibition featuring her favorite artist. Her primary belief was that she could control her experience and gain a deeper understanding of the artist's work by actively engaging in the guided tour and asking questions. Although she enjoyed befriending fellow enthusiasts, the passage states she did not gain the deeper understanding she was seeking. This suggests her primary goal was to learn more about the artist's work through the guided tour.
+
+A: a. Rachel's primary goal was to learn more about her favorite artist's work, and she believed attending the guided tour would help her achieve this. She was less concerned about making friends at the museum.

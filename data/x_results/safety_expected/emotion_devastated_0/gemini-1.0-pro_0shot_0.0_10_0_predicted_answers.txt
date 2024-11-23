@@ -1,0 +1,10 @@
+ A:b. resigned
+ A:d. resigned
+ A:b. surprised
+ A: d. resigned
+ A: b. devastated
+ A:c. Xavier feels resigned.
+ A: b. devastated
+ A:a. resigned
+ A:a. resigned
+ A: a. resigned

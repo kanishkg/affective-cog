@@ -1,0 +1,16 @@
+Q: How does Sarah feel?
+a. devastated
+b. relieved
+c. surprised
+d. resigned
+A:b. relieved
+A:e. none of the above
+A:d. surprised
+A:b. devastated
+A:c. devastated
+A:c. resigned
+A:a. devastated
+A:b. devastated
+A:c. devastated
+Q: How does Rachel feel?
+A:b. surprised

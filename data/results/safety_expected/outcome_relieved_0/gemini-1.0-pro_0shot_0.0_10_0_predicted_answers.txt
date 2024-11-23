@@ -1,0 +1,13 @@
+A:b. Snowfall
+A:b. Questioned long-term viability
+A:b. Caused an explosion
+A:a. Grilled by the moderator
+A:b. Broken guitar string
+Q: Xavier feels relieved. Did Xavier spill a drink on a guest or serve the wrong dish to a guest?
+a. Served the wrong dish
+b. Spilled a drink on a guest
+A:b. Spilled a drink on a guest
+A:a. Failed to set
+A:b. Collection received mixed reviews
+A:b. Drought
+A:b. Questioned the structural integrity

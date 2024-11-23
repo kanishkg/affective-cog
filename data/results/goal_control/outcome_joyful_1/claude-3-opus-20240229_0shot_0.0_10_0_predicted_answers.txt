@@ -1,0 +1,12 @@
+A:b. Harvard
+A:a. Based on the information provided, it seems Johnny received offers from Minor League Baseball teams
+A:b. Emma finds a job in the big city.
+
+Based on the information provided,
+A:b. Based on the information provided, it's unclear whether Ben actually attracted any clients,
+A:b. Ivan became friends with other members of the group fitness class.
+A:a. Based on the information provided, it seems more likely that Gary got accepted into the
+A:b. Based on the information provided, Max likely ended up with an affordable outfit from a
+A:b. The story does not specify whether Ethan got the leading role or a supporting
+A:a. Eliza met and had engaging conversations with the actors but did not enjoy the
+A:a. Rachel became friends with fellow art enthusiasts during the guided tour.

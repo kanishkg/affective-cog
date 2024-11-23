@@ -1,0 +1,9 @@
+Answer the questions based on the story. Choose your answer from the options provided.
+Reason step by step before answering in 'Thought: Let's think step by step:'.
+Provide your best guess from the options provided.
+
+Answer in the following format:
+Thought: Let's think step by step:
+<thought>
+A:<option>. <answer>
+Example: A:a. cat

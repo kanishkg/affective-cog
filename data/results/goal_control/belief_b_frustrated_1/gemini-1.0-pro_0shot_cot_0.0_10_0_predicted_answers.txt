@@ -1,0 +1,32 @@
+Thought: Let's think step by step:
+Amy wanted to get into college, but she was specifically aiming for Harvard. She felt frustrated that she did not get into Harvard.
+A:a. Amy wanted to go to Harvard, and did not wish to attend Stanford because she wanted to be closer to home.
+A:e. none of the above
+A:e. none of the above
+Thought: Let's think step by step:
+1. The question asks about the kind of clients Ben wanted to work with.
+2. The passage says, "Ben creates an online portfolio showcasing his work and shares it on social media platforms. Ben attracts local clients who require graphic design work for their small businesses but does not find high-profile clients."
+3. This means that Ben wanted to work with high-profile clients because he believes it will provide him with better career opportunities and financial stability.
+
+A:b. Ben wanted to work with high-profile clients because he believes it will provide him with better career opportunities and financial stability. He does not want to work with local clients because he fears stagnation.
+Thought: Let's think step by step:
+<thought>
+A:a. Ivan's primary goal was to improve his physical fitness, and he believed attending group fitness classes would help him achieve this. He was less concerned about making friends at the gym.
+Example: A:a. cat
+</thought>
+A:a. Ivan's primary goal was to improve his physical fitness, and he believed attending group fitness classes would help him achieve this. He was less concerned about making friends at the gym.
+Thought: Let's think step by step:
+Gary was accepted into the school band but not the choir. This means that he was interested in joining both groups. We can eliminate option a because it says that Gary did not want to join the school band.
+A:b. Gary wanted to join the school band because he believes it will help him develop his skills as a musician and provide him with opportunities to perform in various events. He did not want to join the school choir because he is not as confident in his singing abilities.
+Thought: Let's think step by step:
+1. The story mentions that Max finds a stylish outfit at a boutique, but it's quite expensive.
+2. This suggests that Max prioritized finding a unique outfit that would make a statement, even if it was expensive.
+
+A:b. Max prioritized finding a unique outfit that would make a statement, even if it was expensive.
+Thought: Let's think step by step:
+Ethan is passionate about acting and believes that his performance at the audition will determine the role he is offered. He performs his audition piece in front of the casting directors and lands the leading role in the play. Ethan does not want a supporting role and wants the leading role to showcase his talent and lead to more acting opportunities.
+A:b. Ethan wanted the leading role because he believed it would showcase his talent and lead to more acting opportunities. He did not want a supporting role because he feared it may limit his potential.
+Thought: Let's think step by step:
+Eliza's belief is that she can control her enjoyment of the play and the likelihood of meeting the actors by staying afterwards. She also was excited to potentially meet some of the actors. These statements imply that Eliza's primary goal was to meet the actors.
+A:a. Eliza's primary goal was to meet and connect with the actors in the play, as she aspires to be an actor herself. She was less concerned about whether she enjoys the play itself.
+A:e. none of the above

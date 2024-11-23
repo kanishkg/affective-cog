@@ -1,0 +1,10 @@
+ A:b. Harvard
+ A: b. Universities
+ A:a. Emma finds a job in her hometown.
+ A:b. high-profile clients
+ A:b. Ivan improved his physical fitness and gained confidence.
+ A:b. School choir
+ A:a. Max ended up with a stylish, expensive outfit from a boutique.
+ A:b. Ethan got a supporting role.
+ A: b. Eliza enjoyed the play but did not have the opportunity to meet any of the actors.
+ A: b. Rachel gained a deeper understanding of her favorite artist's work.

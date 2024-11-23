@@ -1,0 +1,44 @@
+Thought: Let's think step by step: 
+Amy feels disappointed, which suggests she did not get what she wanted. She applied to both Stanford and Harvard, but the story only mentions her getting into Stanford. 
+A:b. Amy wanted to go to Harvard, and did not wish to attend Stanford because she wanted to be closer to home. 
+
+Thought: Let's think step by step:
+The passage states that Johnny invited coaches from both university and Minor League Baseball teams, implying he was open to offers from both. However, the fact that he was disappointed despite receiving multiple university offers suggests he prioritized playing for a Minor League team.
+A:a. Johnny's goal was to receive offers from the Minor Leagues, so he could train and play with an MLB-affiliated team. He did not wish to play university baseball. 
+
+Thought: Let's think step by step:
+The passage states that Emma believes her future is uncertain and the location of her job is outside of her control, which suggests she is open to moving. It also states she applied to various jobs, indicating a desire for options and opportunities. Finding a job in her hometown but not the city leads to her disappointment, implying she preferred the latter. 
+A: a. Emma wanted to move to the big city because she believes it will provide her with better career opportunities and personal growth. She did not want to stay in her hometown because she fears stagnation. 
+
+Thought: Let's think step by step: 
+The passage states that Ben did not find high-profile clients but attracted local clients who required graphic design work for their small businesses. It also states that Ben believes that the types of clients he acquires depends on factors beyond his control, which suggests that he may not have had a preference. However, his feeling of disappointment indicates that he may have desired a different outcome. 
+A: b. Ben wanted to work with high-profile clients because he believes it will provide him with better career opportunities and financial stability. He does not want to work with local clients because he fears stagnation. 
+
+Thought: Let's think step by step: 
+* Ivan's primary goal is the main reason he started going to the gym.
+* The story states that Ivan wanted to improve his physical fitness and make new friends. 
+* However, it also says that Ivan believed both were outside of his control, even if he attended the group fitness class.
+* This implies that he wasn't sure if attending the class would actually help him achieve either goal.
+* Since he still attended the class, it suggests that he was hoping for both outcomes but didn't have a strong preference for one over the other. 
+
+A:b. Ivan's primary goal was to improve his physical fitness, and he believed attending group fitness classes would help him achieve this. He was less concerned about making friends at the gym. 
+
+Thought: Let's think step by step:
+*   Gary auditioned for both the school band and the school choir, indicating an interest in both.
+*   He feels disappointed when he is accepted into the band but not the choir. 
+*   Therefore, he likely wanted to be in the choir more than the band.
+
+A:a. Gary wanted to join the school choir because he believes it will help him improve his vocal skills and provide him with opportunities to perform in various events. He did not want to join the school band because he thinks it may not give him enough time to focus on his individual music practice. 
+
+A:e. none of the above
+Thought: Let's think step by step: 
+The passage states that Ethan landed the leading role but did not get offered any supporting roles. It also mentions that Ethan is passionate about acting and believes external factors will determine the role he is offered. 
+A: b. Ethan wanted the leading role because he believed it would showcase his talent and lead to more acting opportunities. He did not want a supporting role because he feared it may limit his potential. 
+
+Thought: Let's think step by step: 
+Eliza's primary goal seems to be enjoying the play based on the text  "Eliza believes that her enjoyment of the play and the chance to meet the actors are outside of her control." and "Eliza watches the play. Eliza enjoys the play but does not have the opportunity to meet any of the actors."
+A: b. Eliza's primary goal was to enjoy the theater production, and she believed that the local theater has a good reputation for putting on great shows. She was less concerned about meeting the actors. 
+
+Thought: Let's think step by step: 
+The passage states that Rachel's experience depends on factors beyond her control, such as the quality of the tour and the people she meets. This suggests her goals involve both learning about the artist and connecting with others. However, the passage also emphasizes her desire to understand the artist's work, which she achieves through the tour. 
+A: a. Rachel's primary goal was to learn more about her favorite artist's work, and she believed attending the guided tour would help her achieve this. She was less concerned about making friends at the museum. 

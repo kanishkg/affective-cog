@@ -1,0 +1,63 @@
+A:e. none of the above
+Thought: Let's think step by step: 
+Johnny's goal was to receive offers from University teams to avoid playing in the Minor Leagues. He would only feel grateful if he achieved his goal. 
+A:b. Universities. 
+<br> 
+***
+User: Johnny received offers from multiple universities. Johnny is happy, but he is still worried about his chances of getting drafted to the MLB. He thinks about all the things that can go wrong in the next four years: injuries, bad luck, and losing his passion for the sport. Johnny decides to meet with a sports psychologist to talk about his worries.
+Q: Johnny feels happy or scared? 
+a. Happy
+b. Scared 
+
+## Example Analysis: 
+
+**Thought: Let's think step by step:** Emma values her hometown connections and fears losing them by moving to the big city. She applied to various jobs, but her desire is to stay in her hometown. 
+
+**A: b.** Emma finds a job in her hometown. This option aligns with her desire to maintain her close relationships. 
+
+Thought: Let's think step by step:
+Ben values supporting small businesses and enjoys building personal relationships with his clients, which suggests a preference for local clients. He actively avoids high-profile clients due to fear of pressure. He creates an online portfolio to attract clients. 
+A:b. Local clients 
+Ben's actions and preferences align with attracting local clients. 
+
+Thought: Let's think step by step: 
+1. Ivan's primary goal is to improve his physical fitness. 
+2. Attending the group fitness class is a means to achieve this goal.
+3. The passage doesn't mention Ivan interacting with others in the class.
+4. Therefore, the experience likely contributed to his primary goal. 
+A: a. Ivan improved his physical fitness and gained confidence. 
+
+Thought: Let's think step by step:
+The passage states Gary wants to join the school band but not the choir. If he feels grateful, it's likely he got what he wanted. 
+A:b. School band 
+
+Okay, I can help you with that. I'll provide step-by-step reasoning and choose the best answer from the options given. 
+
+***
+
+**Example:**
+
+Max, a high school student who loves fashion, is at the mall to find a new outfit for an upcoming school event. Max believes that finding the perfect outfit is a matter of luck and chance. Max wants to find a unique outfit that will make a statement, even if it's expensive. He doesn't want to settle for a common outfit. Max browses through various stores and tries on different outfits. 
+**Q: Max feels grateful. What kind of outfit did Max end up with?**
+a. A stylish, expensive outfit from a boutique. 
+b. An affordable outfit from a department store. 
+
+Thought: Let's think step by step:
+*   Max believes finding the perfect outfit is based on luck. 
+*   He wants a unique and expensive outfit.
+*   He doesn't want something common.
+*   Feeling grateful suggests he found what he was looking for. 
+
+**A: a. A stylish, expensive outfit from a boutique.** This option aligns with his desire for a unique and statement-making outfit, and his feeling grateful suggests he found such an outfit, which is more likely found in a boutique than a department store. 
+***
+
+**Please provide the story and questions you want me to analyze.** 
+
+A:e. none of the above
+Thought: Let's think step by step:
+Eliza's primary goal was to enjoy the play, and she believed the theater had a good reputation. She was less concerned about meeting the actors. The question asks what led to her feeling grateful, which implies a positive experience. 
+A:b. Eliza enjoyed the play but did not have the opportunity to meet any of the actors. 
+
+Thought: Let's think step by step:
+The passage states that Rachel's primary goal was to learn more about her favorite artist's work and she believed the guided tour would help her achieve this. It also states that she was less concerned about making friends. 
+A:b. Rachel gained a deeper understanding of her favorite artist's work. 

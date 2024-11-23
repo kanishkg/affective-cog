@@ -1,0 +1,41 @@
+Thought: Let's think step by step:
+Sarah expects the weather to be pleasant. So the weather should not be that bad.
+Sarah thinks that if she encounters snowfall, it could be dangerous. So she should not have encountered snowfall.
+She feels devastated. This means she encountered something very bad.
+So she must have encountered snowfall.
+A:b. Snowfall
+A: a. Questioned long-term viability
+Thought: Let's think step by step:
+Ben feels devastated. Ben expected the experiment to go smoothly and thought it would be safe if the mixture caused a small explosion. Ben did not mention anything about a toxic gas being safe.
+A:a. Caused an explosion
+Thought: Let's think step by step:
+1. Helen thinks that if she gets grilled by the moderator, it would be dangerous.
+2. Helen feels devastated.
+From 1 and 2, we can conclude that Helen got grilled by the moderator.
+
+A:a. Grilled by the moderator
+Thought: Let's think step by step:
+Penelope prepares for her concert and expects it to go smoothly. She thinks about potential risks, including the sound system malfunctioning or her guitar string breaking. She begins her performance on stage. The story doesn't mention any specific issues that occurred during the performance. So, Penelope may be devastated for any reason.
+A:a. Broken guitar string
+Thought: Let's think step by step:
+Xavier thinks that if he serves the wrong dish, it would be safe since he can quickly replace it with the correct dish and apologize. 
+Xavier thinks that if he spills a drink on a guest, it would be dangerous since it could damage the guest's clothing and make a terrible impression. 
+But Xavier feels devastated. 
+So Xavier must have spilled a drink on a guest, not served the wrong dish.
+
+A: b. Spilled a drink on a guest
+Thought: Let's think step by step:
+Zara feels devastated. If her dessert was criticized for being too sweet, she would feel hurt, but not devastated.  If her dessert failed to set, it would be a major technical failure and could cost her the competition. So, it is more likely that her dessert failed to set.
+A: b. Failed to set
+Thought: Let's think step by step:
+Zachary expects the fashion show to go smoothly, but he is worried about the possibility of a model tripping on the runway or his collection receiving mixed reviews. He feels devastated. This indicates that something negative happened. We need to determine if a model tripped or the collection received mixed reviews.
+A: a. Model tripped on the runway
+Thought: Let's think step by step:
+Charles feels devastated, which means his crop has been affected by something. He had considered the possibility of a drought and a pest infestation. Since the story does not mention anything about a drought, it is more likely that his crop was affected by a pest infestation.
+A: b. Pest infestation
+Thought: Let's think step by step:
+Rachel is devastated because the city council questioned her bridge design.
+Rachel says she would be safe if they questioned the cost-effectiveness.
+Rachel thinks it would be dangerous if the council questioned the structural integrity.
+It is most likely that the city council questioned the structural integrity.
+A:a. Questioned the structural integrity

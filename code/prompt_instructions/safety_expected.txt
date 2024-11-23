@@ -1,0 +1,22 @@
+Generate a new story based on the following template. It must be possible for the two outcomes to be interpreted as safe or unsafe, depending on how one appraises them. Make the belief of control, the belief of lack of control, outcome 1, and outcome 2 in the story completely different from the examples.
+
+Context: <Agent>, <specific information about the agent and the situation they are in where they want something.>
+Action: <Agent’s action>.
+Outcome 1: <adverse event happens to the agent>.
+Outcome 2: <An alternate adverse event that is different happens to the agent>.
+Safety Belief 1: <Why Agent believes outcome 1 would be safe>. <Why Agent believes outcome 2 would be dangerous>.
+Safety Belief 2: <Why Agent believes outcome 2 would be safe>. <Why Agent believes outcome 1 would be dangerous>.
+Expectedness: <The Agent expects adverse outcomes>.
+Unexpectedness: <The Agent thinks that everything will go smoothly>.
+Outcome question: <Question about the outcome>.
+Outcome answer 1: <Answer corresponding to Outcome 1>.
+Outcome answer 2: <Answer corresponding to Outcome 2>.
+Belief question a: <Question about the agent’s belief about expectedness>.
+Belief answer 1a: <Answer corresponding to the agent’s Expectedness belief>.
+Belief answer 2a: <Answer corresponding to the agent’s Unexpectedness belief>.
+Belief question b: <Question about the agent’s belief about the safety>.
+Belief answer 1b: <Answer corresponding to the agent’s Safety Belief 1>.
+Belief answer 2b: <Answer corresponding to the agent’s Safety Belief 2>.
+
+IMPORTANT: Remember that both outcomes are adverse things happening to the agent.
+Be concise in filling the template. We are going to combine various sentences to make different stories from one template.

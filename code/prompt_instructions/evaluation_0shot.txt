@@ -1,0 +1,5 @@
+Answer the questions based on the story. Choose your answer from the options provided.
+Provide your best guess from the options provided.
+Answer precisely in the following format:
+A:<option>. <answer>
+Example: A:a. cat

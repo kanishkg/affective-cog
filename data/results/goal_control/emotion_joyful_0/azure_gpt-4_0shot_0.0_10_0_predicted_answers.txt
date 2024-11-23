@@ -1,0 +1,10 @@
+A:b. joyful
+A:c. joyful
+A:b. grateful
+A:d. grateful
+A:b. disappointed
+A:b. grateful
+A:c. joyful
+A:a. joyful
+A:a. joyful
+A:b. grateful

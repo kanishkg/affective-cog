@@ -1,0 +1,39 @@
+Thought: Let's think step by step:
+The image shows a person with a furrowed brow, tightened lips, and slightly squinted eyes. These are all signs of frustration or disappointment. 
+A: a. Amy wanted to go to Stanford, and hoped that she was admitted. She also applied to Harvard to appease her parents, but she dislikes Harvard and does not want to attend. 
+<answer> The expression is more consistent with disappointment over being rejected from a desired school than with getting into a school she didn't want to attend. </answer> 
+
+Thought: Let's think step by step:
+The image shows a person with a sad or disappointed expression. This suggests that the person in the story is feeling negative emotions. Johnny did not receive offers from university teams, which seems to be his goal. 
+A:a. Johnny's goal was to receive offers from University teams, so he could train in college and have a chance of getting drafted to the MLB. He did not want to play in the Minor Leagues.
+Thought: Let's think step by step:
+The image shows a person with a frustrated or disappointed expression. This suggests that Emma is facing a challenge or setback. 
+A:b. Emma wanted to move to the big city because she believes it will provide her with better career opportunities and personal growth. She did not want to stay in her hometown because she fears stagnation.
+Thought: Let's think step by step:
+The passage states, "Ben believes he can control the types of clients he acquires," and later mentions, "Ben attracts high-profile clients... but does not find local clients." This implies Ben's preference. 
+A:b. Ben wanted to work with high-profile clients because he believes it will provide him with better career opportunities and financial stability. He does not want to work with local clients because he fears stagnation. 
+
+Thought: Let's think step by step:
+The image portrays an expression of disappointment or frustration. This suggests that the person did not achieve what they wanted. 
+A:b. Ivan's primary goal was to improve his physical fitness, and he believed attending group fitness classes would help him achieve this. He was less concerned about making friends at the gym.
+Thought: Let's think step by step:
+* The image shows a person with a furrowed brow, tightened lips, and slightly squinted eyes. 
+* This expression suggests negative emotions such as disappointment, frustration, or anger. 
+*  Gary's desired outcome was not achieved as he was not accepted into the school band.
+A: a. Gary wanted to join the school band because he believes it will help him develop his skills as a musician and provide him with opportunities to perform in various events. He did not want to join the school choir because he is not as confident in his singing abilities.
+Thought: Let's think step by step:
+The image shows a person with a slightly downturned mouth and furrowed brows, suggesting a mix of disappointment and resignation. This indicates that the person is likely settling for something they're not entirely happy with. 
+A: b. Max prioritized finding an affordable outfit, even if it wasn't as unique. 
+The expression aligns with the scenario where Max chose the affordable but less unique outfit, indicating a compromise due to budget constraints. 
+
+Thought: Let's think step by step:
+The image shows a person with a disappointed and frustrated expression. This suggests they did not get what they wanted. 
+A: b. Ethan wanted the leading role because he believed it would showcase his talent and lead to more acting opportunities. He did not want a supporting role because he feared it may limit his potential. 
+<br>
+Thought: Let's think step by step:
+The image shows a disappointed expression. This suggests Eliza didn't achieve her primary goal.  Eliza met the actors but didn't enjoy the play, so her main goal was likely enjoying the play.
+A: a. Eliza's primary goal was to enjoy the theater production, and she believed that the local theater has a good reputation for putting on great shows. She was less concerned about meeting the actors.
+Thought: Let's think step by step:
+The image shows a person with a furrowed brow, a slightly downturned mouth, and a tense jaw. These are all signs of frustration or disappointment. 
+A:a. Rachel's primary goal was to learn more about her favorite artist's work, and she believed attending the guided tour would help her achieve this. She was less concerned about making friends at the museum. 
+<answer> This aligns with the expression in the image because she is likely disappointed that she didn't gain a deeper understanding of her favorite artist's work.

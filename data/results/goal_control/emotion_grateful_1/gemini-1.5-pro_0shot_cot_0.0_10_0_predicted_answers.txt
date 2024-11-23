@@ -1,0 +1,56 @@
+Thought: Let's think step by step: 
+Amy is happy to be accepted to Harvard, her top choice. She is not upset about Stanford because she did not want to go there anyway. So, she should be feeling joyful. 
+A: c. joyful 
+
+Thought: Let's think step by step:
+* Johnny's goal was to receive offers from Minor League teams.
+* Johnny received offers from Minor League teams.
+* Therefore, Johnny is likely to feel happy about achieving his goal. 
+A:b. joyful 
+*** 
+Thought: Let's think step by step:
+* Johnny received offers from Minor League teams.
+* Receiving offers from Minor League teams suggests that he performed well.
+* Performing well and achieving his goal would likely lead to feelings of gratitude.
+A:d. grateful 
+***
+Thought: Let's think step by step:
+* The story does not mention Johnny receiving any offers from university teams.
+* The story also does not mention Johnny's feelings about not receiving offers from university teams. 
+* Therefore, it is difficult to determine if Johnny feels disappointed or frustrated about this.
+A:b. joyful 
+*** 
+Thought: Let's think step by step:
+* Johnny believes that his chances of receiving an offer are outside his control. 
+* This suggests that Johnny may feel that external factors, such as the opinions of the coaches, play a significant role in his success.
+* If Johnny believes that his success is largely determined by external factors, he may feel less in control and therefore more grateful when he achieves his goals.
+A:d. grateful 
+
+Thought: Let's think step by step:
+Emma wants to move to the big city for better opportunities and fears stagnation in her hometown. She finds a promising job in the big city but not in her hometown. This suggests she achieved her goal and avoided her fear, leading to a positive emotion. 
+A:a. joyful 
+
+A:e. none of the above
+Thought: Let's think step by step:
+* Ivan's primary goal is to make friends at the gym.
+* He achieved his goal by becoming friends with other members of the group fitness class. 
+* He is less concerned about improving his physical fitness. 
+* Therefore, he is likely to feel happy about achieving his main goal. 
+A:b. joyful 
+
+Thought: Let's think step by step: 
+Gary wanted to join the school choir and he got accepted. So he must be feeling joyful.
+A:a. joyful 
+
+A:e. none of the above
+Thought: Let's think step by step: 
+Ethan wants a supporting role and is offered one. He should feel happy about the outcome. 
+A:c. grateful 
+
+Thought: Let's think step by step: 
+Eliza's main goal was to meet the actors, and she achieved that goal. She had engaging conversations with them. While she didn't enjoy the play, it wasn't her primary concern. Therefore, she's likely to feel positive about the experience.
+A: d. grateful 
+
+Thought: Let's think step by step: 
+Rachel's primary goal was to connect with fellow art enthusiasts, which she achieved during the guided tour. While she didn't gain a deeper understanding of her favorite artist's work, it wasn't her main focus.  Connecting with like-minded people likely brought her joy and a sense of fulfillment. 
+A: d. joyful 

@@ -1,0 +1,83 @@
+Thought: Let's think step by step:
+1. Amy believes she cannot control the outcome of her college admissions.
+2. Amy's top choice is Harvard, and she hopes to be admitted there.
+3. Amy applied to Stanford only to appease her parents, but she does not want to attend Stanford.
+4. Amy gets rejected from Harvard and accepted to Stanford.
+5. Since Amy did not get into her top choice school and instead got into a school she dislikes, she is likely to feel disappointed and frustrated.
+
+A:c. disappointed
+Thought: Let's think step by step:
+1. Johnny's goal is to receive offers from Minor League Baseball teams.
+2. He does not wish to play university baseball.
+3. At the conference finals, Johnny receives offers from multiple universities, but no Minor League teams.
+4. Since Johnny did not receive any offers from Minor League teams, which was his primary goal, he is likely to feel disappointed or frustrated.
+5. Between disappointed and frustrated, disappointed seems to be a more fitting emotion in this situation, as Johnny put in effort but did not achieve his desired outcome.
+
+A:b. disappointed
+Thought: Let's think step by step:
+1. Emma believes her future is uncertain and the location of her job is outside her control.
+2. She wants to move to the big city for better career opportunities and personal growth.
+3. She does not want to stay in her hometown because she fears stagnation.
+4. Emma applies to various jobs.
+5. She finds a job in her hometown and cannot find one in the city.
+
+Given Emma's desire to move to the city for better opportunities and her fear of stagnation in her hometown, finding a job only in her hometown would likely make her feel disappointed and frustrated. She did not achieve her goal of moving to the city and may feel stuck in her hometown.
+
+A:a. disappointed
+Thought: Let's think step by step:
+1. Ben wants to increase his client base and work with high-profile clients.
+2. He believes working with high-profile clients will provide better career opportunities and financial stability.
+3. Ben does not want to work with local clients because he fears stagnation.
+4. After creating an online portfolio and sharing it on social media, Ben attracts local clients but not high-profile ones.
+5. Given his preferences and the outcome, Ben is likely to feel either frustrated or disappointed.
+
+Between the two options, disappointed seems more appropriate because Ben put in effort to attract high-profile clients but did not succeed. Frustration might imply a stronger negative emotion, while disappointment suggests a more subdued reaction to not achieving his desired goal.
+
+A:b. disappointed
+Thought: Let's think step by step:
+1. Ivan's primary goal is to make friends at the gym, and he believes attending group fitness classes will help him meet like-minded people.
+2. Ivan is less concerned about improving his physical fitness.
+3. After attending a group fitness class, Ivan improves his physical fitness but does not find friends.
+4. Since Ivan's primary goal was to make friends, and he didn't achieve that goal, he is likely to feel disappointed.
+
+A:d. disappointed
+Thought: Let's think step by step:
+1. Gary wanted to join the school choir because he believed it would help him improve his vocal skills and provide performance opportunities.
+2. Gary did not want to join the school band because he thought it might not give him enough time for individual music practice.
+3. Gary auditioned for both the school band and the school choir.
+4. Gary was accepted into the school band but not the choir.
+5. Since Gary did not get into the choir, which was his preferred choice, and instead got into the band, which he believed might not give him enough time for individual practice, he is likely to feel disappointed or frustrated.
+
+A:c. disappointed
+Thought: Let's think step by step:
+1. Max wants to find an affordable outfit, even if it's not unique.
+2. He doesn't want to spend too much money.
+3. Max finds a stylish outfit at a boutique, but it's quite expensive.
+4. Since the outfit is expensive, it goes against Max's desire to find something affordable and not spend too much money.
+5. When someone can't find what they want or encounters something that doesn't align with their goals, they usually feel disappointed or frustrated.
+
+A:d. disappointed
+Thought: Let's think step by step:
+1. Ethan is an aspiring actor who is passionate about acting.
+2. He auditioned for a play, hoping to get a supporting role to learn from experienced actors and improve his craft.
+3. Ethan did not want the leading role because he feared the pressure might be overwhelming.
+4. Despite his preferences, Ethan was offered the leading role and no supporting roles.
+5. Since Ethan did not get what he wanted and instead got a role he feared might be too much pressure, he is likely to feel disappointed or frustrated.
+
+A:b. frustrated
+Thought: Let's think step by step:
+1. Eliza's primary goal was to meet and connect with the actors, as she aspires to be an actor herself.
+2. She was less concerned about whether she enjoyed the play itself.
+3. Eliza enjoyed the play but did not have the opportunity to meet any of the actors.
+4. Since Eliza's main goal was not achieved, despite enjoying the play, she is likely to feel disappointed.
+
+A:d. disappointed
+Thought: Let's think step by step:
+1. Rachel's primary goal was to connect with fellow art enthusiasts.
+2. She believed attending the guided tour would help her meet like-minded people.
+3. Rachel was less concerned about learning more about her favorite artist's work.
+4. After exploring the museum and attending the guided tour, Rachel gained a deeper understanding of her favorite artist's work.
+5. However, she did not meet any fellow art enthusiasts.
+6. Since Rachel's primary goal was not met, she is likely to feel disappointed.
+
+A:c. disappointed

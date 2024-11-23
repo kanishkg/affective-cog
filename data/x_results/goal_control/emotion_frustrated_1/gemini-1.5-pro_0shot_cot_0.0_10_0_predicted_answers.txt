@@ -1,0 +1,40 @@
+Thought: Let's think step by step:
+The image shows a person with a furrowed brow, tight lips, and slightly squinted eyes. These are all signs of frustration or disappointment.  
+A:b. frustrated. The person's expression suggests they are experiencing frustration.
+Thought: Let's think step by step:
+Johnny is likely to feel disappointed because he did not achieve his goal of receiving an offer from a Minor League team. 
+A:a. disappointed
+Thought: Let's think step by step:
+The image shows a person with a furrowed brow, closed eyes, and a downward-turned mouth. These are all signs of negative emotions. 
+A: a. disappointed. The person's expression suggests they are unhappy with the outcome and feeling let down. 
+<br>
+Thought: Let's think step by step:
+The image shows a person with a furrowed brow, downturned mouth, and slightly squinted eyes. These are all visual cues associated with negative emotions. Ben's desire to attract high-profile clients was not met, and he ended up with local clients instead. This outcome is likely the source of his negative emotion. 
+A:d. disappointed. The expression in the image suggests disappointment, which aligns with Ben's situation of not achieving his desired outcome.
+Thought: Let's think step by step:
+* The scenario describes Ivan as wanting to make friends but failing to do so.
+* The image portrays an expression of sadness and discontent. 
+* This suggests a negative emotion like disappointment or frustration.
+* Between the two, disappointment aligns more with not achieving a desired outcome (friendship). 
+
+A: c. disappointed. The person likely feels disappointed.
+Thought: Let's think step by step:
+The image shows a person with a furrowed brow, tight lips, and slightly squinted eyes. These are all signs of negative emotions. The person is likely feeling upset about something. 
+A:b. disappointed. The person's expression suggests disappointment, which aligns with Gary not being accepted into the choir, which he preferred. 
+
+Thought: Let's think step by step:
+The image shows a person with a slightly furrowed brow, downturned mouth, and eyes that seem to express a sense of resignation or disappointment. This suggests a negative emotion. 
+Max finding the outfit expensive aligns with feeling let down.
+A:b. disappointed. The person's expression conveys disappointment, which aligns with Max's situation of finding the desired outfit but being unable to afford it. 
+
+Thought: Let's think step by step:
+Ethan wanted a supporting role but got the lead role instead. This is likely not the outcome he desired, so he would feel negative emotions. 
+A:d. disappointed. The image shows a furrowed brow, downturned mouth, and tense facial muscles, all indicative of disappointment. 
+
+Thought: Let's think step by step:
+Eliza's primary goal was to meet the actors, and she was less concerned about enjoying the play. She achieved one of her goals (enjoying the play) but not her primary goal (meeting the actors). This would likely lead to a feeling of incompleteness or dissatisfaction. 
+A: c. disappointed. The person's expression conveys a sense of disappointment, with downturned lips and slightly furrowed brows, which aligns with Eliza's situation of not achieving her primary goal. 
+
+Thought: Let's think step by step:
+Rachel's main goal was to connect with other art enthusiasts, which she didn't achieve. While she learned more about the artist, it wasn't her primary focus. Therefore, she's likely feeling let down.
+A:d. disappointed

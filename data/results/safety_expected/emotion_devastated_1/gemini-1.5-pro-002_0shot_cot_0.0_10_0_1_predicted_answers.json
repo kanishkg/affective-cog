@@ -1,0 +1,32 @@
+[
+    [
+        "Thought: Let's think step by step:\nSarah expected pleasant weather. She did not expect snowfall. The passage says that snowfall is dangerous and could lead to her getting stranded.  Encountering snowfall would thus be a negative and unexpected surprise for Sarah.\n\nA:c. surprised\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nJulian expected no challenges and was confident in his pitch. He specifically thought criticism of the product's market fit would be \"dangerous\" and could \"collapse the pitch.\"  The investors then sharply criticized the product's market fit. Therefore, Julian is likely feeling devastated.\n\nA:a. devastated\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nBen expected the experiment to go smoothly. He considered the possibility of an explosion but thought it would be safe. However, the actual outcome was the production of toxic gas, which he considered dangerous. This outcome was unexpected and likely made him feel surprised.  He also had to evacuate, which wouldn't cause relief.  He's likely not devastated at this point, just surprised.\n\nA:c. surprised\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nHelen expected the debate to go smoothly. She considered getting grilled by the moderator a dangerous situation.  She practiced her arguments but ended up struggling to respond effectively when grilled. This suggests she did not anticipate performing so poorly and is likely upset about it. While devastated might be too strong, surprised seems unlikely as she considered this possibility. Resigned implies acceptance, which doesn't fit the context.\n\nA:a. devastated\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nPenelope expected the concert to go smoothly. She considered a broken guitar string a dangerous situation that could cause her to lose confidence.  Since her guitar string broke, she's likely feeling devastated.\n\nA:a. devastated\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nXavier expected the dinner service to go smoothly. He considered the possibility of spilling a drink on a guest and thought it would be \"dangerous\".  He meticulously prepared, but then he spilled a drink. This directly contradicts his expectations and his assessment of the severity of such a mishap.  Therefore, he's likely to be devastated.\n\nA:b. devastated\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nZara expected her dessert to be perfect. She considered a critique about sweetness \"safe\" because she could defend it. However, she considered a failure to set \"dangerous\" because it would be a technical failure.  Her dessert failed to set. Therefore, she is likely devastated.\n\nA:d. devastated\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nZachary expected the show to go smoothly. However, one of the models tripped, which he considered a dangerous situation.  He thought a tripping model could overshadow his collection and make the event memorable for the wrong reasons. Therefore, he's likely to be upset by this unforeseen event.\n\nA:a. devastated\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nCharles expected a smooth growing season. He considered the possibility of drought and pests. He thought drought would be safe but pests would be dangerous. He discovered his crop had pests.  He would likely feel negatively about this since he considered it dangerous.\n\nA:d. devastated\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nRachel expected the council to approve her design without issues. She specifically thought questioning the structural integrity would be dangerous for her reputation.  The council questioned the structural integrity. Therefore, she is likely devastated.\n\nA:a. devastated\n"
+    ]
+]

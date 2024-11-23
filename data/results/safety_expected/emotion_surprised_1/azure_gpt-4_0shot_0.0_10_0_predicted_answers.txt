@@ -1,0 +1,10 @@
+A:b. surprised
+A:a. relieved
+A:d. surprised
+A:c. relieved
+A:b. devastated
+A:b. surprised
+A:d. relieved
+A:d. relieved
+A:c. relieved
+A:c. relieved

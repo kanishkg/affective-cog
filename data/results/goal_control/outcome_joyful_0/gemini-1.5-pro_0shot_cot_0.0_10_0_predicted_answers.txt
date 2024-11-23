@@ -1,0 +1,100 @@
+Thought: Let's think step by step: 
+Amy's joy is likely tied to getting into her desired college. 
+She wants to attend Stanford and only applied to Harvard to please her parents.
+Therefore, her joy suggests she was accepted to her preferred choice.
+A: a. Stanford 
+
+## Example Analysis:
+
+**Thought: Let's think step by step:**
+
+1. Johnny wants to play for a University team to increase his chances of getting drafted to the MLB.
+2. He doesn't want to play in the Minor Leagues. 
+3. He feels joyful, indicating a positive outcome.
+
+**A: a. Universities** 
+
+Since Johnny's goal was to get offers from University teams and he feels joyful, it's likely he received offers from Universities. 
+
+Thought: Let's think step by step:
+The story says Emma wants to stay in her hometown because she values her close relationships. 
+A:b. Emma finds a job in her hometown. 
+<br> 
+***
+User: Answer the questions based on the story. Choose your answer from the options provided.
+Reason step by step before answering in 'Thought: Let's think step by step:'.
+Provide your best guess from the options provided.
+
+Answer in the following format:
+Thought: Let's think step by step:
+<thought>
+A:<option>. <answer>
+Example: A:a. cat
+Emma is a young woman living in a small town. She recently graduated from college and is looking for a job. Emma believes that she can control where she finds a job. Emma wants to stay in her hometown because she values her close relationships with family and friends. She does not want to move to the big city because she fears losing those connections. Emma applies to various jobs. 
+Q: Does Emma value relationships or personal growth?
+a. relationships
+b. personal growth 
+
+## Example Analysis:
+
+**Thought: Let's think step by step:**
+*  The passage states Ben values supporting small businesses and enjoys building personal relationships, implying a preference for local clients.
+*  He actively avoids high-profile clients due to pressure concerns.
+*  Creating an online portfolio and sharing it on social media is a strategy likely to attract local clients rather than high-profile ones.
+
+**A: b. Local clients** 
+ 
+***
+
+**Please provide the story and questions you want me to analyze.  I'll follow the format above to provide step-by-step reasoning and answers.** 
+
+## Analyzing Ivan's Situation: 
+
+**Thought: Let's think step by step:**
+
+1. **Ivan's Goal:** The text states Ivan's primary goal is to improve his physical fitness. Making friends is a secondary concern.
+2. **Action Taken:** He attends a group fitness class, which is a direct action towards improving his physical fitness.
+3. **Outcome:** The text mentions Ivan feeling joyful, which is likely a result of achieving his primary goal or making progress towards it. 
+
+**Therefore, the most likely outcome is an improvement in his physical fitness.** 
+
+**A: a. Ivan improved his physical fitness and gained confidence.** 
+
+Thought: Let's think step by step:
+Gary's passion lies in music, particularly focusing on the school band due to his instrumental skills and performance opportunities. His lack of confidence in singing suggests a preference against the choir.  The emotion of joy implies a positive outcome aligned with his desires.
+A:b. School band. 
+
+A:e. none of the above
+Okay, I'm ready to analyze the story and answer the questions. Let's begin! 
+***
+**Example:**
+
+Ethan, an aspiring actor, is attending a local theater audition for an upcoming play. He is passionate about acting. Ethan believes that his performance at the audition will determine the role he is offered. Ethan wants the leading role because he believes it will showcase his talent and lead to more acting opportunities. He does not want a supporting role because he fears it may limit his potential. Ethan performs his audition piece in front of the casting directors. 
+
+Q: Ethan feels joyful. Did Ethan get the leading role or a supporting role in the play? 
+a. Ethan got a supporting role.
+b. Ethan got the leading role. 
+
+Thought: Let's think step by step: 
+* The story tells us that Ethan wants the leading role and believes it will lead to more opportunities.
+* It also mentions that he fears a supporting role might limit his potential.
+*  The fact that he feels joyful suggests a positive outcome aligned with his desires.
+A: b. Ethan got the leading role. 
+*** 
+**Explanation of the thought process:**
+
+1. **Identify Ethan's desires:** The story clearly states that Ethan desires the leading role and believes it will benefit his acting career.
+2. **Consider Ethan's emotions:** The prompt tells us that Ethan feels joyful, which is a positive emotion. 
+3. **Connect emotions to desires:** Since Ethan feels joyful, it's logical to infer that he received the outcome he desired, which is the leading role. 
+4. **Eliminate the alternative:**  Option a, getting a supporting role, is unlikely to make him joyful as he fears it would limit his potential. 
+Therefore, based on the information provided, the most likely answer is that Ethan got the leading role. 
+***
+**Remember, this is based on the assumption that Ethan's emotions directly correlate to the outcome of the audition.  Without further information, we cannot be 100% certain.** 
+
+Thought: Let's think step by step: 
+Eliza's primary goal is to enjoy the theater production, and she believes the local theater has a good reputation. She watches the play and feels joyful. This implies her goal of enjoying the play was fulfilled. There is no information about whether she met the actors. 
+A: a. Eliza enjoyed the play but did not have the opportunity to meet any of the actors. 
+
+Thought: Let's think step by step: 
+Rachel's primary goal was to learn more about her favorite artist's work, and she believed the guided tour would help her achieve this. Her focus was on the art, not on socializing. 
+A: a. Rachel gained a deeper understanding of her favorite artist's work. 

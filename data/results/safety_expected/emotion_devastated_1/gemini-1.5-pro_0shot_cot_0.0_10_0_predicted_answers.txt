@@ -1,0 +1,46 @@
+Thought: Let's think step by step:
+Sarah expected pleasant weather and thought snowfall would be dangerous, potentially leading to hypothermia.  She encountered snowfall. So, she's likely feeling a negative emotion related to danger or disappointment.
+A:c. devastated 
+
+Thought: Let's think step by step:
+*   Julian expected no challenges or questions. 
+*   He thought criticism of the product's market fit would be dangerous and could collapse the pitch.
+*   The investors sharply criticized the product's market fit.
+
+A: a. devastated 
+<br> 
+Julian is likely devastated because the criticism directly contradicts his expectations and he believes it could lead to the failure of his pitch. 
+
+Thought: Let's think step by step: 
+Ben expected the experiment to go smoothly, but it produced a toxic gas, forcing him to evacuate. This is likely a deviation from his expected outcome, so he might feel surprised or even devastated. 
+A:d. surprised 
+
+Thought: Let's think step by step:
+Helen expected the debate to go smoothly, but she is struggling to respond to the moderator's questions. This means things are not going as she expected. So she is likely to feel surprised. 
+A:b. surprised 
+
+A:e. none of the above
+Thought: Let's think step by step: 
+Xavier expected the dinner service to go smoothly, but he accidentally spilled a drink on a guest. This is the opposite of what he expected, and it's a situation he considered dangerous due to the potential for a bad impression. So, he's likely feeling negative emotions. 
+A:d. devastated 
+
+Thought: Let's think step by step: 
+Zara put a lot of effort into her dessert and expected it to be perfect. Her dessert failed to set, which she considered a dangerous situation as it could be seen as a technical failure. 
+A: c. devastated 
+
+Thought: Let's think step by step: 
+Zachary expected the show to go smoothly, but a model tripped. He thought that a model tripping would be dangerous as it could overshadow his collection and make the event memorable for the wrong reasons. So, he must be feeling negative emotions. 
+A:c. devastated 
+***
+User: Zachary tries to understand why the model tripped. He finds out that the model's heel broke during the walk. Zachary thinks that if the heel broke due to poor craftsmanship, it would be unfortunate since it means the model's footwear wasn't reliable. He thinks that if the model tripped due to the uneven runway, it would be concerning since it means the venue wasn't properly prepared.
+Q: What most likely happened? 
+a. The model's heel broke due to poor craftsmanship.
+b. The model tripped due to the uneven runway. 
+
+Thought: Let's think step by step: 
+Charles expects the growing season to go smoothly but knows there could be challenges like drought or pests. He believes drought would be manageable with water-saving techniques, but pests could be dangerous due to potential spread and difficulty of control. He discovers his crop is infested with pests, which aligns with his concern about them being dangerous. So, he's likely feeling: 
+A:d. devastated 
+
+Thought: Let's think step by step: 
+Rachel expects no issues with her design and considers questioning the cost-effectiveness safe. However, she believes that questioning the structural integrity is dangerous for her reputation. Since the council questions the structural integrity, it aligns with what Rachel considers dangerous. 
+A:c. devastated 

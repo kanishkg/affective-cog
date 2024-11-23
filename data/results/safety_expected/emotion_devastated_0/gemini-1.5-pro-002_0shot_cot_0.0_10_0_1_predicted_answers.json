@@ -1,0 +1,32 @@
+[
+    [
+        "Thought: Let's think step by step:\nSarah expected pleasant weather. She did not expect fog, though she considered the possibility.  The fog appeared suddenly.  Therefore, she is most likely surprised.\n\nA:b. surprised\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nJulian expected no challenges or questions. He considered criticism of market fit safe and questions about long-term viability dangerous. The investors questioned the long-term viability of the product. Therefore, Julian would likely be surprised and feel that the situation is dangerous.  Between surprised and devastated, surprised seems more appropriate as there's no indication of extreme negative emotion.\n\nA:d. surprised\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nBen expected the experiment to go smoothly. However, the mixture became volatile and exploded. This was not what he anticipated. He also thought an explosion would be dangerous and could damage the lab.  Therefore, he's likely to be surprised and upset by the explosion, possibly devastated by the damage.\n\nA:d. devastated\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nHelen expected the debate to go smoothly. She considered two scenarios: getting grilled by the moderator (safe) and a personal attack by her opponent (dangerous).  The story says her opponent launched a personal attack.  Since she considered this dangerous, she is likely not relieved or resigned.  While she might be surprised, devastated is a stronger emotion given the context.\n\nA:a. devastated\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nPenelope expected the concert to go smoothly. She considered the possibility of a malfunctioning sound system and thought it would be dangerous.  The sound system did malfunction, which means her negative expectation came true. She would likely feel devastated because of this.\n\nA:d. devastated\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nXavier expected the dinner service to go smoothly. He considered serving the wrong dish a dangerous situation.  The kitchen staff made a mistake, and Xavier ended up serving the wrong dish. This is likely to cause him distress. He wouldn't be relieved.  \"Resigned\" implies acceptance of a negative outcome, but the story doesn't suggest he's given up. \"Devastated\" is a strong emotion, but the passage doesn't indicate his emotional state is that extreme. \"Surprised\" fits best because the mistake was unexpected and likely caused him alarm.\n\nA:d. surprised\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nZara expected her dessert to be perfect. She believed that if the dessert failed to set, it would be a safe situation. However, she considered it dangerous if the judges found it too sweet, indicating a lack of skill. The judges found her dessert too sweet. This aligns with the outcome she considered \"dangerous\".  Therefore, she is likely devastated.\n\nA:a. devastated\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nZachary expected the show to go smoothly. He considered mixed reviews a dangerous outcome that could hurt his reputation.  Since he received mixed reviews, he's likely feeling devastated.\n\nA:b. devastated\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nCharles expected a smooth growing season. He planted a new crop variety and was prepared to handle pest infestations. However, he specifically identified drought as a dangerous situation that could lead to significant loss. The story states that unusual weather patterns caused a drought.  Therefore, Charles is likely devastated because his major concern came true.\n\nA:a. devastated\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nRachel expected the council to approve her design without issues. She considered questioning the cost-effectiveness to be dangerous, as it might lead to project cancellation or delays.  The council questioned the cost-effectiveness, which is the exact scenario she feared.  Therefore, she is likely devastated.\n\nA:b. devastated\n"
+    ]
+]

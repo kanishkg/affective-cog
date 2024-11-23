@@ -1,0 +1,49 @@
+Thought: Let's think step by step:
+Amy got into her dream school, Harvard. She also got rejected from Stanford, but she did not want to go there anyway. Therefore, she would likely feel joyful. The image also depicts a joyful expression.
+
+A:b. joyful
+
+Thought: Let's think step by step:
+Johnny's goal was to get offers from Minor League teams. He achieved his goal. The image shows a joyful expression.
+
+A:b. joyful
+
+Thought: Let's think step by step:
+Emma found a promising job in the big city, which is what she wanted.  The image shows a joyful expression. Therefore, Emma is likely feeling joyful.
+
+A:d. joyful
+
+Thought: Let's think step by step:
+Ben achieved his goal of attracting high-profile clients, which he believes will lead to better career opportunities and financial stability. The image depicts a neutral or slightly positive expression. This suggests he is content or satisfied with the outcome.  Therefore, the closest emotion to this is grateful.
+
+A:b. grateful
+
+Thought: Let's think step by step:
+Ivan's primary goal was to make friends, and he achieved that. Although he didn't improve his physical fitness, he is not overly concerned about it. The image shows a content and slightly happy expression. This aligns with Ivan feeling joyful about making new friends.
+
+A:d. joyful
+
+Thought: Let's think step by step:
+Gary wanted to join the choir and got in. The image shows a content, almost joyful expression. Since he got what he wanted, he would likely feel joyful.
+
+A:a. joyful
+
+Thought: Let's think step by step:
+Max loves fashion and wants a unique outfit. Although he found something affordable, it wasn't unique, which is likely to make him feel disappointed. The expression in the image is not of frustration, joy, or gratitude. The slightly downturned corners of the mouth and the somewhat sad eyes suggest disappointment.
+
+A:b. disappointed
+
+Thought: Let's think step by step:
+Ethan wanted a supporting role and he got it. The story also mentions that the supporting role has potential for growth.  The image shows a joyful expression.
+
+A:b. joyful
+
+Thought: Let's think step by step:
+Eliza's primary goal was to meet the actors. She successfully met and connected with them. Although she didn't enjoy the play, her main objective was achieved.  The image depicts a neutral, almost content expression. This aligns with Eliza's likely feeling of satisfaction or joy at having met her goal.
+
+A:c. joyful
+
+Thought: Let's think step by step:
+Rachel's primary goal was to connect with fellow art enthusiasts. She successfully befriended like-minded people during the guided tour. Although she didn't gain a deeper understanding of her favorite artist's work, it wasn't her primary concern. The image depicts a content and happy expression. Therefore, she is likely joyful about achieving her main objective.
+
+A:a. joyful

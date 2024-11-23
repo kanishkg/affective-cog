@@ -1,0 +1,10 @@
+A:c. surprised. Sarah feels surprised because the fog was unexpected.
+A:c. devastated. Julian feels devastated because he perceives the investors' questions about long-term viability as a significant threat to his startup's success, potentially leading to weak investment and lack of support.
+A:c. devastated. Ben feels devastated because the experiment did not go as expected, and it caused an explosion.
+A:a. devastated. The person's expression appears sad and disappointed.
+A:a. devastated. The person's expression conveys sadness and disappointment, aligning with feeling devastated due to the sound system malfunction.
+A: a. devastated.
+A:a. devastated. Zara feels devastated because the judges criticized her dessert, and she was worried about this outcome.
+A:d. devastated
+A:b. devastated
+A:d. devastated

@@ -1,0 +1,10 @@
+A:b. relieved
+A:c. relieved
+A:c. resigned
+A:b. resigned
+A:c. surprised
+A:b. devastated
+A:a. resigned
+A:c. relieved
+A:c. surprised
+A:d. relieved

@@ -1,0 +1,32 @@
+[
+    [
+        "Thought: Let's think step by step:\nThe passage says Sarah expects pleasant weather.  It also says she thinks fog is safe to navigate in, but snowfall is dangerous. If she's surprised, it must be because she encountered something she didn't expect, and considered dangerous.\n\nA:a. Snowfall\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nJulian believes that if the investors question the long-term viability, it's a good sign.  He thinks criticism of the market fit is a bad sign and would lead to a missed opportunity. Since he's surprised, it must be the opposite of what he expected.\n\nA:b. Criticized the product's market fit\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nBen expected the experiment to go smoothly.  He considered two potential negative outcomes: a small, contained explosion, which he deemed safe, and a toxic gas release, which he considered dangerous. If he was surprised, it means something unexpected happened. Since he wasn't worried about a small explosion, that outcome wouldn't surprise him. Therefore, the surprising outcome must be the one he considered dangerous.\n\nA:a. Produced a toxic gas\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nHelen expected the debate to go smoothly. She considered a personal attack from her opponent to be safe and getting grilled by the moderator to be dangerous.  Since she felt surprised, it means something she didn't expect happened. She didn't expect to be grilled by the moderator.\n\nA:a. Grilled by the moderator\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nPenelope expects the concert to go smoothly. She considers a sound system malfunction to be easily fixable and safe, while a broken guitar string would be dangerous and cause her to lose confidence.  If she's surprised, it's likely something she didn't expect to be a big deal actually became a problem.\n\nA:b. Sound system malfunction\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nXavier expected the dinner service to go smoothly without any issues.  He considered serving the wrong dish a safe mistake because it's easily corrected. Spilling a drink, however, he considered dangerous.  Since the question implies something unexpected happened, it's more likely he spilled a drink.\n\nA:b. Spilled a drink on a guest\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe question asks what would cause Zara to feel surprised. The passage states that Zara *expects* criticism for the dessert being too sweet and has prepared a defense. This means she wouldn't be surprised by this outcome.  Zara, however, considers a dessert that fails to set as \"dangerous\" and a potential reason for losing the competition. This unexpected outcome would likely cause surprise.\n\nA:b. Failed to set\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nZachary expects the fashion show to go smoothly. He considers mixed reviews \"safe\" and a model tripping \"dangerous\".  Being surprised suggests something unexpected and likely negative happened.  Therefore, the model tripping is more likely to be the surprising event.\n\nA:a. Model tripped on the runway\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe passage states that Charles *expects* the growing season to go smoothly.  He also has plans in place in case of drought.  Being surprised suggests something unexpected happened.  He considers a pest infestation dangerous and difficult to manage, so this would likely be more surprising than a drought he had planned for.\n\nA:b. Pest infestation\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nRachel expects the council to approve her design without any issues.  She considers questioning the cost-effectiveness safe and questioning the structural integrity dangerous (because it might damage her reputation). If she's surprised, it means something she didn't expect happened.\n\nA:a. Questioned the structural integrity\n"
+    ]
+]

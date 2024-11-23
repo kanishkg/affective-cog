@@ -1,0 +1,22 @@
+A:b. Harvard. The image shows hope, so it is likely that Amy got into her top choice school, Harvard.
+A:b. Minor league baseball teams. The expression is disappointment and sadness, suggesting Johnny did not achieve his goal.
+A:a. Emma finds a job in the big city. 
+
+**Explanation:** The image portrays a frustrated or distressed expression, suggesting things are not going well for the person. This aligns more with the scenario where Emma doesn't get her desired outcome (moving to the big city) and ends up stuck in her hometown, leading to frustration.
+A:e. none of the above
+A:a. Ivan became friends with other members of the group fitness class. 
+<answer> The image portrays an unhappy expression, suggesting that Ivan's goal of making friends was not met.</answer> 
+
+A:e. none of the above
+A:b. An affordable outfit from a department store. 
+
+**Explanation:** The expression in the image conveys a sense of resignation or disappointment, suggesting that the person did not get exactly what they wanted but settled for something acceptable. This aligns with Max's priority of finding an affordable outfit, even if it's not the most unique or stylish option.
+A:a. Ethan got a supporting role. 
+
+**Explanation:** The image portrays a worried or anxious expression, suggesting Ethan might be nervous about getting the lead role due to the pressure. This aligns with the story's description of his preference for a supporting role. 
+
+A:b. Eliza enjoyed the play but did not have the opportunity to meet any of the actors. 
+
+**Explanation:** The image portrays a neutral or slightly disappointed expression, suggesting Eliza's goal of meeting the actors was not met, despite possibly enjoying the play itself. 
+
+A:a. Rachel became friends with fellow art enthusiasts during the guided tour. <answer>

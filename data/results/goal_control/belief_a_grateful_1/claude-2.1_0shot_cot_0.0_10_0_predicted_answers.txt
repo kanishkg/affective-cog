@@ -1,0 +1,108 @@
+ <Thought: Let's think step by step:
+- Amy applied to Harvard because she really wanted to go there. She also applied to Stanford to make her parents happy, even though she did not want to go there.
+- When the admission decisions came out, Amy got into Harvard which is what she hoped for. She did not get into Stanford, but she did not care about that.
+- Getting into college has an element of chance since admissions officers make the final decisions. Amy could put her best application forward, but could not directly control whether she would be admitted.
+
+A: a. Amy did not think she could control the outcome of her college admissions.
+ <thought>
+Let's think step by step:
+1) Johnny is a high school student who plays baseball. His goal is to receive offers from Minor League teams, not university teams.
+2) Johnny invited both university and Minor League coaches to watch him play in the conference finals. 
+3) Johnny received offers from Minor League teams, but no university teams. This was his desired outcome.
+4) The question asks if Johnny believes he can control which offers he receives.
+</thought>
+
+A: a. Johnny believed he could control his chances at getting an offer by preparing rigorously and playing his best game of the season.
+
+Johnny prepared rigorously for the conference finals and aimed to play his best game of the season. This indicates he believed that by working hard and performing well, he could influence his chances of getting offers from Minor League teams. So he did think he had some control over the outcome.
+ <admin> Got it, let me think step-by-step:
+
+Thought: Let's think step by step:
+Emma wanted to move to the big city because she believed it would provide her with better career opportunities and personal growth. She did not want to stay in her small hometown because she feared stagnation in her career. When Emma found a promising job in the big city but could not find one in her hometown, it suggests that her belief was validated - that moving to the big city did improve her career prospects. 
+
+So Emma likely believed that she could influence and control her future to some extent by making the choice to relocate to a place that aligned with her career goals. The fact that she was able to find a good job there suggests she had some ability to manifest her desired outcome through her choice of location.
+
+A: b. Emma believed she could control her future by choosing the right location
+
+</admin>
+ Thought: Let's think step by step:
+Ben specifically wanted to work with high-profile, multinational clients rather than local clients because he believed it would provide better career opportunities and financial stability. He created an online portfolio showcasing his work and shared it on social media in order to attract those types of clients. His strategy was successful - he attracted high-profile clients requiring graphic design work, but did not acquire any local clients. 
+
+So Ben clearly believed he could influence the types of clients he acquires by targeting his promotional efforts in a certain way.
+
+A: a. Ben believed he could control the types of clients he acquires by promoting his work and networking effectively.
+ <function_calls>
+<invocation>
+<tool_name>rewriter</tool_name>
+<parameters>
+<prompt>
+Thought: Let's think step by step:
+Ivan's primary goal is to make friends at the gym. He believes attending group fitness classes will help him meet people, and he is less concerned about improving his fitness. After attending a class, Ivan made new friends but did not improve his fitness. 
+
+A:b. Ivan believed that by attending the group fitness class regularly, he could control his physical fitness improvement and the number of friends he make
+</prompt>
+</parameters>
+</invocation>
+</function_calls>
+
+Thought: Let's think step by step:
+Ivan's primary goal is to make friends at the gym. He believes attending group fitness classes will help him meet people, and he is less concerned about improving his fitness. After attending a class, Ivan made new friends but did not improve his fitness.
+
+A:b. Ivan believed that by attending the group fitness class regularly, he could control his physical fitness improvement and the number of friends he make
+ <thought>
+Let's think step-by-step:
+1) Gary auditioned for both the school band and the school choir because he is passionate about music and wants more experience and exposure. 
+2) He preferred to join the choir because he thought it would help improve his vocal skills more and give him opportunities to perform.
+3) He did not get into the band but was accepted into the choir.
+4) The question asks if Gary believed he could control the outcome of the auditions.
+5) There is no indication Gary believed he could control which group accepted him. The auditions and decisions were made by others.
+</thought>
+
+A: a. Gary believed that the outcome of the auditions was uncertain, and he may not be able to control which group he is accepted into.
+ <admin> Got it, let me think step-by-step:
+
+Thought: Let's think step by step:
+Max wanted to find an affordable outfit, even if it wasn't very unique. This means he was willing to compromise on uniqueness for affordability. He browsed different stores and tried on various outfits, taking an active role in searching for what he wanted. This suggests Max believed he could influence the outcome to some extent by putting in effort to find options, even if finding the "perfect" outfit involves some luck. 
+
+A: a. Max believed he could control the outcome by searching for the perfect outfit and trying on different options.
+ <function_calls>
+<invoke>
+<tool_name>summarize</tool_name>
+<parameters>
+<story>Ethan, an aspiring actor, is attending a local theater audition for an upcoming play. He is passionate about acting. Ethan wants a supporting role because it will allow him to learn from more experienced actors and improve his craft. He does not want the leading role because he fears the pressure may be overwhelming. Ethan performs his audition piece in front of the casting directors. Ethan does not get the leading role, but is offered a supporting role with potential for growth.</story>
+</parameters>
+</invoke>
+</function_calls>
+
+Thought: Let's think step by step:
+Ethan is an aspiring actor who wants a supporting role to learn from more experienced actors and improve his craft. He does not want the leading role because he fears the pressure would be overwhelming. After his audition, Ethan is offered a supporting role with potential for growth. This shows Ethan did not expect to control the outcome, only to do his best at the audition. 
+
+A: a. Ethan believed that factors outside of his control would determine the role he was offered.
+ <function_calls>
+<invoke>
+<tool_name>summarize</tool_name>
+<parameters>
+<story>
+Eliza, a theater enthusiast, is attending a local theater production and is excited to experience the show and potentially meet some of the actors. Eliza's primary goal is to meet and connect with the actors in the play, as she aspires to be an actor herself. She is less concerned about whether she enjoys the play itself. Eliza watches the play. Eliza meets and has engaging conversations with the actors but does not enjoy the play itself.
+</story>
+</parameters>
+</invoke>
+</function_calls>
+
+Thought: Let's think step by step:
+Eliza's primary goal was to meet and connect with the actors, as she aspires to be an actor herself. She was less concerned about enjoying the play itself. The passage states that Eliza did meet and have conversations with the actors, meeting her primary goal. Her enjoyment of the play was secondary. This suggests that Eliza believed she could control the likelihood of meeting the actors by attending and staying afterwards, but did not necessarily believe she could control her enjoyment of the play itself.
+
+A: b. Eliza believed that by attending the play and staying afterwards, she could control her enjoyment of the play and the likelihood of meeting the actor
+ <function_calls>
+<invocation>
+<tool_name>rewriter</tool_name>
+<parameters>
+<text>
+Let's think step by step:
+Rachel's primary goal was to connect with fellow art enthusiasts by attending the guided tour. The passage states that "Rachel befriends fellow art enthusiasts during the guided tour". This means Rachel was able to achieve her primary goal of connecting with like-minded people. Therefore, Rachel likely feels grateful that she was able to control her experience at the museum by actively engaging in the guided tour.
+
+A: b. Rachel believed that her experience at the museum depends on factors beyond her control, such as the quality of the guided tour and the people she meet
+</text>
+</parameters>
+</invocation>
+</function_calls>

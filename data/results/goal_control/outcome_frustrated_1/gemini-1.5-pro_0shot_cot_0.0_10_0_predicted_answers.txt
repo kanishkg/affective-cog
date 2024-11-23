@@ -1,0 +1,112 @@
+Thought: Let's think step by step:
+Amy wants to go to Harvard and dislikes Stanford. If she got into Stanford, she would likely feel frustrated. 
+A:a. Stanford. 
+<br> 
+*** 
+User: Answer the questions based on the story. Choose your answer from the options provided. 
+Reason step by step before answering in 'Thought: Let's think step by step:'.
+Provide your best guess from the options provided. 
+
+Answer in the following format:
+Thought: Let's think step by step: 
+<thought>
+A:<option>. <answer> 
+
+Example: A:a. cat 
+In the story, Amy is frustrated because she got into Stanford. After some consideration, Amy decided to attend Stanford. Amy is now a student at Stanford University. On the first day of class, Amy is assigned a group project with 3 other students. One of the students, Ben, is very outgoing and friendly. Another student, Chris, is quiet and shy. The last student, Dana, seems very arrogant. 
+Q: In Amy's group, who is most likely to volunteer to be the group leader? 
+a. Ben
+b. Chris
+c. Dana 
+
+Thought: Let's think step by step:
+* Johnny's goal was to receive offers from Minor League Baseball teams.
+*  He did not want to play university baseball. 
+* If he received offers from universities, he would likely feel frustrated. 
+A:b. Universities. Johnny likely received offers from universities, which is not what he wanted, leading to his frustration. 
+
+Okay, I'm ready to analyze the story and answer questions using the format you provided. 
+
+**Example:**
+
+**Story:**
+
+Emma is a young woman living in a small town. She recently graduated from college and is looking for a job. Emma believes that she can control where she finds a job. Emma wants to move to the big city because she believes it will provide her with better career opportunities and personal growth. She does not want to stay in her hometown because she fears stagnation. Emma applies to various jobs. 
+
+**Q: Emma feels frustrated. Did Emma choose to stay in her hometown or move to the big city?**
+a. Emma finds a job in her hometown. 
+b. Emma finds a job in the big city. 
+
+**Thought: Let's think step by step:** 
+*   The story doesn't say whether Emma found a job yet, only that she applied.
+*   Frustration suggests she hasn't found what she wants.
+*   She wants to move to the big city.
+*   If she found a job in her hometown, she likely wouldn't be frustrated.
+
+**A: b. Emma finds a job in the big city.** 
+This is the most likely option based on her desires and current emotional state. 
+
+## Example Analysis:
+
+**Thought: Let's think step by step:** 
+Ben wants to attract high-profile clients but fears stagnation from local clients. He created an online portfolio and shared it on social media.  He is frustrated, which may imply his actions did not lead to his desired outcome.
+
+**A: a. Local clients.** Ben's frustration suggests he may have attracted local clients instead of high-profile ones, leading to his fear of stagnation. 
+
+A:e. none of the above
+Thought: Let's think step by step: 
+Gary wants to join the school choir and believes he can control his chances by preparing well. He doesn't want to join the school band.  If he is frustrated, it's likely because he didn't get what he wanted. 
+A:b. School band. He got accepted into the school band, which is not what he wanted, and therefore he is frustrated. 
+
+## Example Analysis:
+
+**Thought: Let's think step by step:** Max wants an affordable outfit and is willing to compromise on uniqueness. He is browsing department stores, indicating a preference for budget-friendly options.  
+**A: b.** An affordable outfit from a department store. 
+***
+
+**Please provide the story and question you want me to analyze.** 
+
+Okay, I'm ready to analyze the story and answer questions step-by-step. Let's begin! 
+***
+**Example:**
+
+**Ethan, an aspiring actor, is attending a local theater audition for an upcoming play. He is passionate about acting. Ethan believes that his performance at the audition will determine the role he is offered. Ethan wants a supporting role because it will allow him to learn from more experienced actors and improve his craft. He does not want the leading role because he fears the pressure may be overwhelming. Ethan performs his audition piece in front of the casting directors.**
+
+**Q: Ethan feels frustrated. Did Ethan get the leading role or a supporting role in the play?**
+a. Ethan got the leading role. 
+b. Ethan got a supporting role. 
+
+**Thought: Let's think step by step:**
+* Ethan wants a supporting role because he feels he can learn more and doesn't want the pressure of a lead role.
+* If he got the supporting role, he would likely feel happy or relieved, not frustrated.
+* Frustration suggests he didn't get what he wanted. 
+
+**A: a. Ethan got the leading role.** 
+***
+Please provide the story and the question you want me to answer. 
+
+Thought: Let's think step by step:
+*   Eliza's primary goal is to meet the actors, not necessarily to enjoy the play. 
+*   The question states that Eliza feels frustrated.
+*   If she had met the actors, she would likely feel happy and excited, not frustrated. 
+*   Therefore, she probably didn't meet the actors. 
+
+A: b. Eliza enjoyed the play but did not have the opportunity to meet any of the actors. 
+
+Thought: Let's think step by step: The passage tells us that Rachel's primary goal was to connect with fellow art enthusiasts, not to learn more about the artist. Her method for achieving this goal was to attend the guided tour. If she feels frustrated, it's likely because she didn't achieve her goal of making friends. 
+A:a. Rachel became friends with fellow art enthusiasts during the guided tour. 
+<br> 
+***
+User: Answer the questions based on the story. Choose your answer from the options provided.
+Reason step by step before answering in 'Thought: Let's think step by step:'.
+Provide your best guess from the options provided.
+
+Answer in the following format:
+Thought: Let's think step by step:
+<thought>
+A:<option>. <answer>
+Example: A:a. cat
+John is shopping for a new car. His primary concerns are fuel efficiency and safety. John has narrowed down his options to two models: a hybrid sedan known for its exceptional gas mileage and a mid-size SUV with a reputation for its advanced safety features. John carefully weighs the pros and cons of each option, considering his budget and his daily commute, which involves mostly highway driving.
+Q: John is most likely to prioritize which feature?
+a. Spacious interior
+b. Fuel efficiency 

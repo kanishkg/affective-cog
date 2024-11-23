@@ -1,0 +1,7 @@
+Answer the questions based on the story and the image.
+The image shows the expression that the person in the story feels. Only pay attention to the expression and not the person's physical appearance.
+Choose your answer from the options provided.
+Provide your best guess from the options provided.
+Answer precisely in the following format:
+A:<option>. <answer>
+Example: A:a. cat

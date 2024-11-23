@@ -1,0 +1,43 @@
+Thought: Let's think step by step:
+We know that Amy applied to both Harvard and Stanford but dislikes Stanford and does not want to attend. She completed and submitted her college applications and is now feeling frustrated. We can infer that her frustration is coming from not getting into her desired college.
+A:a. Harvard
+Thought: Let's think about Johnny's preparation, goal, and actions.
+Johnny wants to play for the Minor League, so he invited coaches from both universities and Minor Leagues to watch him at the conference finals.
+Johnny's intention was to receive offers from Minor League Baseball teams.
+A: b. Minor league baseball teams
+Thought: Let's think step by step:
+Emma wants to move to the big city.
+But the question is asking whether Emma chose to stay in her hometown or move to the big city.
+Since the question is asking about Emma's choice, I should choose the option that indicates her choice.
+The option a. Emma finds a job in the big city indicates that Emma chose to move to the big city.
+A:a. Emma finds a job in the big city.
+Thought: Let's think step by step:
+Ben wanted to work with high-profile clients, but the story does not provide any information about whether he was successful in attracting them. However, the story does mention that Ben feared stagnation if he worked with local clients. We can infer from this that Ben likely did not attract any high-profile clients and instead attracted local clients.
+A:b. Local clients
+Thought: Let's think step by step:
+Ivan's primary goal was to make friends at the gym. He hoped group fitness classes would help him meet like-minded people. The passage also mentions that Ivan feels frustrated. This suggests that he may not have achieved his goal of making friends.
+A:a. Ivan became friends with other members of the group fitness class. <answer>
+Thought: Let's think step by step:
+Gary auditioned for both the school band and the school choir. However, the story does not mention which group he got accepted into. So the answer is either school band or school choir.
+
+A:a. School band
+b. School choir
+Thought: Let's think step by step:
+Max wants to find an outfit that is affordable, even if it's not as unique. 
+Max feels frustrated. 
+So he probably did not find the perfect outfit. 
+Thus he probably ended up with an affordable outfit from a department store.
+A: a. An affordable outfit from a department store.
+Thought: Let's think step by step:
+Ethan wants a supporting role because he believes it will allow him to learn from more experienced actors and improve his craft. He also does not want the leading role because he fears the pressure may be overwhelming.
+A:a. Ethan got a supporting role.
+Thought: Let's think step by step:
+The question asks about Eliza's experience at the theater leading to her enjoying the play or meeting the actors. The passage states that Eliza "watched the play", but it does not mention anything about her enjoying it or meeting the actors. However, option 'a' states that Eliza "met and had engaging conversations with the actors but did not enjoy the play itself", which is not mentioned in the passage. Therefore, we can eliminate option 'a'.
+
+Option 'b' states that Eliza "enjoyed the play but did not have the opportunity to meet any of the actors", which is also not mentioned in the passage. However, this option is more plausible than option 'a' because it does not contradict the information in the passage. Therefore, we can choose option 'b'.
+
+A:b. Eliza enjoyed the play but did not have the opportunity to meet any of the actors.
+Thought: Let's think step by step:
+Rachel feels frustrated because she believes attending the guided tour will help her meet like-minded people, but she did not make any friends during the tour. The question asks about whether Rachel's museum visit lead to a deeper understanding of her favorite artist's work or new friendships. The passage says that Rachel is less concerned about learning more about her favorite artist's work. So she probably did not gain a deeper understanding of her favorite artist's work.
+
+A: a. Rachel became friends with fellow art enthusiasts during the guided tour.

@@ -1,0 +1,13 @@
+A:b. Fog
+A:b. Criticized the product's market fit
+A:b. Caused an explosion
+A:b. Personal attack from her opponent
+A:b. Broken guitar string
+A:b. Spilled a drink on a guest
+Q: Zara feels surprised. Did Zara's dessert fail to set or was it criticized for being too sweet?
+a. Failed to set
+b. Criticized for being too sweet
+A:a. Failed to set
+A:a. Model tripped on the runway
+A:a. Pest infestation
+A:b. Questioned the structural integrity

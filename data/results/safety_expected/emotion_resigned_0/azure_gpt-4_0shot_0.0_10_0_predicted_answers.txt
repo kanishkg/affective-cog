@@ -1,0 +1,10 @@
+A:b. surprised
+A:d. resign
+A:a. surprised
+A:b. devastated
+A:c. devastated
+A:b. devastated
+A:b. devastated
+A:d. devastated
+A:d. devastated
+A:d. devastated

@@ -1,0 +1,76 @@
+Okay, I'm ready to analyze the story and answer questions step-by-step. Let's begin! 
+*** 
+**Example:**
+
+**Sarah, a solo hiker, is navigating a challenging trail on a mountain. Sarah expects the weather to be pleasant. Sarah thinks that if she encounters snowfall it would be safe and make her hike more picturesque. She thinks that if she sees fog, it could be dangerous since she could lose the trail and get injured from unseen obstacles. Sarah starts her ascent.**
+
+**Q: Sarah feels surprised. Did Sarah encounter fog or snowfall?**
+a. Fog
+b. Snowfall 
+
+Thought: Let's think step by step:
+*   Sarah expected pleasant weather. 
+*   She wouldn't be surprised by pleasant weather.
+*   She would be surprised by snowfall, but she thinks it would be safe and make the hike prettier. So, she wouldn't be scared.
+*   She thinks fog would be dangerous. 
+*   Therefore, if she is surprised, it's likely because she encountered fog. 
+
+**A: a. Fog** 
+***
+Please provide the story and the question, and I will do my best to analyze it and provide a step-by-step thought process and an answer. 
+
+Thought: Let's think step by step: 
+The passage tells us that Julian would be safe if the investors criticized the product's market fit, but in danger if they questioned the long-term viability. Since the question states that Julian feels surprised, it is likely the investors raised the concern he considered dangerous. 
+A: a. Questioned long-term viability 
+
+A:e. none of the above
+Thought: Let's think step by step:
+Helen expected the debate to go smoothly. There are two possibilities that could make Helen feel surprised: 1) She got grilled by the moderator, which she considers safe, so it wouldn't be surprising. 2) Her opponent launched a personal attack, which she considers dangerous and could damage her reputation, so this would be surprising. 
+A:b. Personal attack from her opponent 
+
+Thought: Let's think step by step:
+Penelope expects a broken guitar string to be safe due to having a backup.  She expects a sound system malfunction to be dangerous and ruin the concert. Feeling surprised indicates something unexpected happened, so it's more likely the event she considered dangerous occurred. 
+A:a. Sound system malfunction 
+
+Thought: Let's think step by step: 
+The passage tells us that Xavier believes spilling a drink would be safe because it can be cleaned up. He believes serving the wrong dish would be dangerous because of potential allergic reactions or offense.  If Xavier feels surprised, it's more likely due to the unexpected and dangerous situation. 
+A:b. Served the wrong dish 
+
+Okay, I'm ready to analyze the story and answer questions step-by-step. 
+***
+**Example:**
+
+Zara, a passionate baker, is participating in a prestigious baking competition where she needs to create a new and innovative dessert. Zara expects her dessert to be perfect and well-received. Zara thinks that if her dessert fails to set, it would be safe since she can explain the innovative concept and the judges might appreciate her creativity. She thinks that if the judges find her dessert too sweet, it would be dangerous since it could be seen as a lack of skill and understanding of flavor balance. Zara starts baking her unique dessert creation. 
+
+Q: Zara feels surprised. Did Zara's dessert fail to set or was it criticized for being too sweet? 
+a. Failed to set 
+b. Criticized for being too sweet 
+
+Thought: Let's think step by step: 
+*   Zara anticipates two potential outcomes: the dessert not setting or being too sweet.
+*   She believes a dessert not setting is "safe" as she can justify it with her innovative concept.
+*   She considers a dessert being too sweet as "dangerous" due to potential negative perceptions of her skills.
+*   The question states Zara feels surprised, implying the outcome she didn't expect occurred.
+
+A: a. Failed to set. Zara is likely surprised because she expected the "dangerous" outcome (too sweet) to be more probable, but instead, the dessert didn't set. 
+*** 
+Please provide the story and question you'd like me to analyze. 
+
+Thought: Let's think step by step:
+Zachary believes a model tripping would be a safe and common occurrence, while mixed reviews would be dangerous to his career. The question states he feels surprised, implying something unexpected happened. 
+A:a. Collection received mixed reviews 
+
+## Example Analysis:
+
+**Thought: Let's think step by step:**
+
+1. Charles expected a smooth growing season without issues. 
+2. He considered pest infestation safe due to available control measures. 
+3. He considered drought dangerous due to potential yield and income loss.
+4. He feels surprised, indicating something unexpected happened.
+
+**A: a. Drought.** Since Charles anticipated and had solutions for pest infestation, the unexpected and surprising event is more likely to be the drought. 
+
+Thought: Let's think step by step:
+Rachel expects no issues with the design and considers questions about structural integrity safe and questions about cost-effectiveness dangerous. If she's surprised, it's likely because the council asked about the aspect she considered dangerous. 
+A: a. Questioned the cost-effectiveness 

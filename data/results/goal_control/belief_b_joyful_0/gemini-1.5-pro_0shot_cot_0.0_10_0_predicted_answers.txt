@@ -1,0 +1,85 @@
+Thought: Let's think step by step: 
+The passage states Amy believes she can control the outcome of her college admissions by crafting a quality application. This implies Amy desires to attend the colleges she applied to. The passage then states Amy was accepted to Stanford but rejected from Harvard. The question asks what Amy wanted based on Amy feeling joyful about the results.  
+A: a. Amy wanted to go to Stanford, and hoped that she was admitted. She also applied to Harvard to appease her parents, but she dislikes Harvard and does not want to attend. 
+<br> 
+***
+User: Answer the questions based on the story. Choose your answer from the options provided.
+Reason step by step before answering in 'Thought: Let's think step by step:'.
+Provide your best guess from the options provided.
+
+Answer in the following format:
+Thought: Let's think step by step:
+<thought>
+A:<option>. <answer>
+Example: A:a. cat
+Amy, is a high school student applying to college. Amy believes she can control the outcome of her college admissions by crafting a quality application. Amy completes and submits her college applications. Amy gets into Stanford and is rejected from Harvard.
+Q: Amy's parents feel disappointed. Why?
+a. Amy's parents prefer Stanford over Harvard. 
+b. Amy's parents prefer Harvard over Stanford. 
+
+Thought: Let's think step by step: 
+*   The story tells us that Johnny invited both university and Minor League teams to watch him play. 
+*   However, the text specifically mentions that he received offers only from universities and none from the Minor Leagues. 
+*   This suggests that receiving offers from Minor League teams was important to him.
+
+A: a. Johnny's goal was to receive offers from the Minor Leagues, so he could train and play with an MLB-affiliated team. He did not wish to play university baseball. 
+
+Okay, I'm ready to analyze the story and answer questions step-by-step. 
+
+**Example:**
+
+**Q: Emma feels joyful. What did Emma want for her future?**
+
+Thought: Let's think step by step: 
+* The story tells us that Emma found a job in her hometown. 
+* It also says she believes she can control where she finds a job.
+* Since she is joyful, we can assume she is happy with the outcome. 
+* Therefore, she likely wanted to stay in her hometown. 
+**A: b. Emma wanted to stay in her hometown because she values her close relationships with family and friends. She did not want to move to the big city because she fears losing those connections.** 
+
+Thought: Let's think step by step:
+The passage states that Ben did not find high-profile clients, which implies he desired them. The passage also mentions Ben's belief in controlling the types of clients he acquires, suggesting a preference for specific clients. 
+A: b. Ben wanted to work with high-profile clients because he believes it will provide him with better career opportunities and financial stability. He does not want to work with local clients because he fears stagnation. 
+
+Thought: Let's think step by step:
+Ivan's primary goal is the reason he started going to the gym. The story states that Ivan wanted to improve his physical fitness and make new friends. However, the result of attending the group fitness class was improved physical fitness but no new friends. This implies that improving his physical fitness was more important to him than making friends. 
+A:b. Ivan's primary goal was to improve his physical fitness, and he believed attending group fitness classes would help him achieve this. He was less concerned about making friends at the gym. 
+
+Thought: Let's think step by step: 
+* Gary is passionate about music and wants to be a professional musician. 
+* He believes preparing well for auditions will increase his chances of acceptance. 
+* He auditioned for both band and choir. 
+* He was accepted into the band but not the choir. 
+* We need to find the option that aligns with his passion and actions. 
+A: b. Gary wanted to join the school band because he believes it will help him develop his skills as a musician and provide him with opportunities to perform in various events. He did not want to join the school choir because he is not as confident in his singing abilities. 
+
+A:e. none of the above
+Thought: Let's think step by step: 
+Ethan is passionate about acting and believes his audition performance will determine the role he gets. He lands the leading role but doesn't get any supporting roles. This suggests he desired the leading role. 
+A: b. Ethan wanted the leading role because he believed it would showcase his talent and lead to more acting opportunities. He did not want a supporting role because he feared it may limit his potential. 
+
+Thought: Let's think step by step:
+Eliza's enjoyment of the play is independent of her meeting the actors. The passage states that her primary goal was to enjoy the theater production. 
+A:b. Eliza's primary goal was to enjoy the theater production, and she believed that the local theater has a good reputation for putting on great shows. She was less concerned about meeting the actors. 
+
+Okay, I'm ready to analyze the story and answer questions step-by-step based on the provided options. 
+***
+**Example:**
+
+**Rachel, an art enthusiast, visits a museum to attend a special exhibition featuring her favorite artist. Rachel believes she can control her experience at the museum by actively engaging in the guided tour and asking questions. Rachel explores the museum and attends a guided tour of the special exhibition. Rachel gains a deeper understanding of her favorite artist's work but does not meet any fellow art enthusiasts.**
+
+**Q: Rachel feels joyful. What was Rachel's primary goal at the museum?**
+
+a. Rachel's primary goal was to connect with fellow art enthusiasts, and she believed attending the guided tour would help her meet like-minded people. She was less concerned about learning more about her favorite artist's work. 
+b. Rachel's primary goal was to learn more about her favorite artist's work, and she believed attending the guided tour would help her achieve this. She was less concerned about making friends at the museum. 
+
+**Thought: Let's think step by step:**
+
+1.  The story tells us that Rachel is an "art enthusiast" and she is visiting a museum for a special exhibition of her "favorite artist." This suggests a strong interest in the artist's work. 
+2.  Rachel believes engaging in the guided tour will allow her to "control her experience," implying she wants to actively learn and understand the art. 
+3.  The outcome is that Rachel gains a "deeper understanding" of the artist's work, which aligns with the assumed goal of learning.
+4.  There's no mention of Rachel feeling disappointed about not meeting people, suggesting socializing wasn't her primary focus. 
+
+**A: b. Rachel's primary goal was to learn more about her favorite artist's work, and she believed attending the guided tour would help her achieve this. She was less concerned about making friends at the museum.** 
+*** 
+**Please provide the story and question you want me to analyze.** 

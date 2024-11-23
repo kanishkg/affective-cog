@@ -1,0 +1,10 @@
+A:a. frustrated
+A:b. frustrated
+A:c. disappointed
+A:c. disappointed
+A:b. disappointed
+A:c. disappointed
+A:c. disappointed
+A:b. disappointed
+A:b. disappointed
+A:a. disappointed

@@ -1,0 +1,13 @@
+A:b. No
+A:b. No
+A:a. No
+Q: Helen feels resigned. Did Helen expect challenging moments in the debate?
+a. No
+b. Yes
+A:b. Yes
+A:a. No
+A:a. No
+A:b. Yes
+A:a. Yes
+A:b. Yes
+A:a. Yes

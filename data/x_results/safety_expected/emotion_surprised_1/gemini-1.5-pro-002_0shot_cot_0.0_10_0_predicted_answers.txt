@@ -1,0 +1,48 @@
+Thought: Let's think step by step:
+The story says that Sarah experiences sudden fog. The image shows a surprised expression. The story does not mention that Sarah is relieved, devastated, or resigned.
+
+A:a. surprised
+
+Thought: Let's think step by step:
+Julian expected his pitch to go smoothly without any questions. The investors questioned the long-term viability of his product. Julian thinks that this is a safe indicator of a future partnership. The image shows a surprised expression. Julian is surprised that the investors questioned the long-term viability of his product, but he is not devastated or relieved. He is not resigned because he is still engaged with the investors.
+
+A:a. surprised
+
+Thought: Let's think step by step:
+The story mentions that Ben expected the experiment to go smoothly. However, there was a small explosion. The image shows a surprised expression. Ben is likely surprised by the explosion, even though he had considered the possibility and believed he had safety measures in place.
+
+A:c. surprised
+
+Thought: Let's think step by step:
+Helen thought a personal attack would be safe and was expecting the debate to go smoothly. The image shows a surprised expression. Therefore, Helen is surprised.
+A:c. surprised
+
+Thought: Let's think step by step:
+The story mentions that Penelope expected the concert to go smoothly. However, the sound system malfunctioned. The image shows a surprised expression. Therefore, Penelope is most likely surprised by this unforeseen event.
+
+A:b. surprised
+
+Thought: Let's think step by step:
+Xavier expected the dinner service to go smoothly, but the kitchen staff made a mistake, and he served the wrong dish. The image shows a surprised expression. Therefore, Xavier is most likely surprised by this mistake.
+
+A:d. surprised
+
+Thought: Let's think step by step:
+The story says that Zara thinks being criticized for the dessert being too sweet is *safe*. The judges criticize her dessert for being too sweet. The image shows a surprised expression. Zara expected this criticism and thought it was safe, so she would likely be surprised if she felt any other way.  Since she thought this outcome was safe, she wouldn't be devastated, resigned, or relieved.
+
+A:d. surprised
+
+Thought: Let's think step by step:
+The story says that Zachary thinks mixed reviews would be "safe". The image shows a surprised expression.  Since Zachary thought mixed reviews were safe, his surprised expression indicates that he wasn't expecting this outcome despite considering it a safe scenario.
+
+A:a. surprised
+
+Thought: Let's think step by step:
+The story mentions that unusual weather patterns caused a drought. Charles had anticipated the possibility of a drought and believed he could manage it with water-saving techniques and irrigation.  The image shows a surprised expression. This aligns with the unexpected drought despite Charles's initial confidence.
+
+A:a. surprised
+
+Thought: Let's think step by step:
+The city council questioned the cost-effectiveness of Rachel's design. Rachel thought this would be a safe question and potentially lead to a better solution. The image shows a surprised expression.  Rachel expected the council to approve her design without any issues, so she is surprised they questioned it.
+
+A:a. surprised

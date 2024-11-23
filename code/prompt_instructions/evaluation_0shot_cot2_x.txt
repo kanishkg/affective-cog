@@ -1,0 +1,11 @@
+Answer the questions based on the story and the image.
+The image shows the expression that the person in the story feels. Only pay attention to the expression and not the person's physical appearance.
+Choose your answer from the options provided.
+Reason step by step before answering in 'Thought: Let's think step by step:'.
+First reason about the expression, the expression could be subtle, pay attention to the cues, don't just say neutral.
+Provide your best guess from the options provided.
+Answer in the following format:
+Thought: Let's think step by step:
+<thought>
+A:<option>. <answer>
+Example: A:a. cat

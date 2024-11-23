@@ -1,0 +1,51 @@
+Thought: Let's think step by step: Amy wants to go to Harvard but was rejected. She dislikes Stanford but got in. So, she must be disappointed. 
+A:d. disappointed 
+
+Thought: Let's think step by step:
+Johnny's goal was to receive offers from Minor League teams, but he only received offers from universities. Since his goal wasn't met, he's most likely feeling negative emotions such as disappointment or frustration. 
+A:d. frustrated 
+
+Thought: Let's think step by step:
+Emma wants a job in the city but couldn't find one. She found a job in her hometown which she didn't want. This means she is likely to be unhappy with the outcome. 
+A:d. frustrated 
+
+## Analyzing Ben's Situation: 
+
+**Thought: Let's think step by step:**
+
+1. **Ben's Goal:** He wants to work with high-profile clients for better opportunities and financial stability. 
+2. **Ben's Belief:** He thinks acquiring clients is beyond his control.
+3. **Ben's Action:** He creates an online portfolio and shares it on social media.
+4. **The Outcome:** He attracts local clients, not high-profile ones. 
+5. **Mismatch:** The outcome doesn't match his goal. 
+
+**Conclusion:** Considering the mismatch between Ben's desired outcome and the actual result, he is most likely feeling **disappointed** that his efforts didn't attract the type of clients he wanted.
+
+**A: c. disappointed** 
+
+Thought: Let's think step by step: 
+Ivan's primary goal is to make friends, and he believes attending group fitness classes will help him achieve this goal. He is less concerned about improving his physical fitness. However, after attending a group fitness class, he improves his physical fitness but does not make any friends. This outcome is likely to leave him feeling disappointed as he did not achieve his primary goal. 
+A: b. disappointed 
+
+Thought: Let's think step by step:
+*   Gary wanted to join the choir, not the band. 
+*   Gary was accepted into the band, but not the choir.
+*   Therefore, Gary did not get what he wanted. 
+
+A: c. disappointed 
+
+Thought: Let's think step by step: 
+Max finds an outfit they like, but it's expensive, which conflicts with their desire for affordability. This would likely lead to disappointment. 
+A: b. disappointed 
+
+Thought: Let's think step by step: 
+Ethan wants a supporting role and not the leading role because he fears the pressure. He lands the leading role instead. This is the opposite of what he wanted. So, he is likely to feel disappointed.
+A: a. disappointed 
+
+Thought: Let's think step by step: 
+Eliza's primary goal was to meet the actors, but she didn't.  Although she enjoyed the play, it wasn't her main objective. So, she's likely to feel negative. 
+A:d. frustrated 
+
+Thought: Let's think step by step:
+Rachel's primary goal was to connect with fellow art enthusiasts, which she didn't achieve. While she gained a deeper understanding of her favorite artist's work, it wasn't her primary focus. 
+A:b. disappointed 

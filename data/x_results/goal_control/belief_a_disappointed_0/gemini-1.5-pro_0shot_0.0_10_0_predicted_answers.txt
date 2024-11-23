@@ -1,0 +1,26 @@
+A:a. Amy did not think she could control the outcome of her college admissions
+A:a. Johnny believed he could control his chances at getting an offer by preparing rigorously and playing his best game of the season. 
+<answer> The image shows an expression of disappointment and sadness, indicating Johnny's belief that his efforts would lead to a different outcome.
+A: a. Emma believed that her future was uncertain, and her choice of location may not necessarily lead to the desired outcome. 
+
+**Explanation:** The image portrays an expression of worry or concern, suggesting Emma is uncertain and anxious about her future.
+A:b. Ben believed he could control the types of clients he acquires by promoting his work and networking effectively. 
+<answer> The person in the image has a sad expression, indicating disappointment that things did not go as planned.
+A:b. Ivan believed that by attending the group fitness class regularly, he could control his physical fitness improvement and the number of friends he makes. 
+**Explanation:** The image portrays a look of disappointment and sadness, suggesting things didn't go as planned.  This aligns with option b, where Ivan expected to control the outcomes but was unable to.
+A:b. Gary believed that the outcome of the auditions was uncertain, and he may not be able to control which group he is accepted into. 
+<br>
+The image portrays a disappointed expression, suggesting that the person did not get what they wanted and likely felt they had little control over the situation.
+A:b. Max believed he could control the outcome by searching for the perfect outfit and trying on different options. 
+<br>
+The image portrays an expression of determination and focus, suggesting a belief in one's ability to influence the situation.
+A: b. Ethan believed his performance at the audition would determine the role he was offered. 
+
+**Explanation:** The image portrays a look of disappointment or sadness, suggesting Ethan did not get the outcome he desired. This aligns with option b, where his belief in his performance influencing the result implies he had expectations and is now facing an undesirable outcome. 
+
+A:b. Eliza believed that by attending the play and staying afterwards, she could control her enjoyment of the play and the likelihood of meeting the actors. 
+<br>
+The image conveys a sense of disappointment and sadness, suggesting that Eliza did not achieve her desired outcome despite believing she had control over the situation.
+A:b. Rachel believed she could control her experience at the museum by actively engaging in the guided tour and asking questions. 
+
+**Explanation:** The image portrays a disappointed or let-down expression. Rachel's expectation of learning more about her favorite artist was not met, suggesting she believed she could control her experience by engaging with the tour. The disappointment indicates that the outcome was not as she anticipated or controlled. 

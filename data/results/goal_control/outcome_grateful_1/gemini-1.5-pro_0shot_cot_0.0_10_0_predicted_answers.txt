@@ -1,0 +1,42 @@
+A:e. none of the above
+Thought: Let's think step by step:
+The passage states that Johnny's goal is to receive offers from Minor League Baseball teams so he can train and play with an MLB-affiliated team. It also states that he does not wish to play university baseball. Since Johnny feels grateful, we can assume that he achieved his goal. 
+A:a. Minor league baseball teams 
+***
+Q: Is Johnny in high school or college? 
+a. College
+b. High school 
+
+Thought: Let's think step by step:
+Emma wants to move to the big city for better opportunities and personal growth. She fears stagnation in her hometown. 
+So, if she feels grateful, it's likely because she got what she wanted.
+A: b. Emma finds a job in the big city. 
+
+## Example Analysis:
+
+**Thought: Let's think step by step:**
+
+1. Ben wants to work with high-profile clients for better opportunities and financial stability. 
+2. He avoids local clients due to fear of stagnation.
+3. He creates an online portfolio and shares it on social media, likely targeting a broader audience beyond his local network.
+
+**A: a. High-profile clients** 
+
+Ben's actions are geared towards attracting high-profile clients, so that's the most likely outcome. 
+
+Thought: Let's think step by step:
+*   Ivan's primary goal is to make friends.
+*   He believes attending group fitness classes will help him meet like-minded people.
+*   He is less concerned about improving his physical fitness. 
+*   The question asks about the outcome of Ivan's experience.
+
+A:b. Ivan became friends with other members of the group fitness class. 
+
+Thought: Let's think step by step:
+Gary wants to join the school choir but doesn't want to join the school band. If he feels grateful, it's likely he got what he wanted. 
+A:b. School choir 
+
+A:e. none of the above
+A:e. none of the above
+A:e. none of the above
+A:e. none of the above

@@ -1,0 +1,57 @@
+Thought: Let's think step by step:
+Sarah expected pleasant weather and did not anticipate fog. So, she would be surprised by the sudden fog and reduced visibility. 
+A:c. surprised 
+
+Thought: Let's think step by step: 
+Julian expected no challenges or questions, believing his pitch was comprehensive. He views questions about long-term viability as a positive sign, indicating investor interest and a potential future partnership. 
+A:b. relieved. He feels relieved as the investors' questions align with his expectations of a positive outcome. 
+
+Thought: Let's think step by step: 
+Ben expected the experiment to go smoothly, but it caused an explosion, so he's likely surprised. While he had safety measures for a small explosion, the unexpected nature of it would still be surprising. 
+A: a. surprised 
+
+Thought: Let's think step by step: 
+Helen expected the debate to go smoothly, so a personal attack would be unexpected. 
+A: b. surprised 
+<br> 
+
+A:e. none of the above
+Thought: Let's think step by step:
+Xavier expected the dinner service to go smoothly, but he ended up serving the wrong dish to a guest with dietary restrictions due to a mistake made by the kitchen staff. This is a situation he didn't anticipate and is likely to cause him concern.
+A:d. devastated 
+
+Thought: Let's think step by step: 
+Zara anticipated the possibility of the judges finding her dessert too sweet and considered this a safe scenario as she could defend her choice as a bold and intentional flavor profile. 
+Therefore, she would likely feel relieved as her expectation came true and she is prepared to address the critique.
+A:d. relieved 
+
+Thought: Let's think step by step:
+*   Zachary expects the show to go smoothly, but he knows there's a possibility of mixed reviews or a model tripping.
+*   He believes mixed reviews would be safe and could lead to improvement.
+*   He believes a model tripping would be dangerous and overshadow his collection.
+*   The actual outcome is mixed reviews.
+
+A:c. relieved 
+<br>
+Zachary is likely relieved because the outcome aligns with his expectation of a safe scenario, even if it wasn't his ideal outcome. 
+
+Thought: Let's think step by step:
+* Charles expected the growing season to go smoothly, so the drought is an unexpected event. 
+* While he is prepared to handle a drought, it's not his ideal situation. 
+* He is more concerned about pest infestation, but that hasn't happened.
+
+A: a. surprised 
+<br> 
+*** 
+### Reasoning Breakdown: 
+
+*   **Surprised:** This aligns with the unexpected nature of the drought. 
+*   **Relieved:** This doesn't fit because the drought still poses a challenge despite Charles having solutions.
+*   **Devastated:** This is too extreme as he has ways to manage the drought.
+*   **Resigned:** This implies acceptance of an inevitable negative outcome, which doesn't match Charles' proactive approach. 
+
+Thought: Let's think step by step:
+Rachel expects the council to approve her design without issues, so any questioning would be unexpected. She sees questioning the cost-effectiveness as safe and potentially helpful, so she wouldn't feel negative emotions like resignation or devastation. 
+A:b. surprised 
+<br> 
+Rachel would likely be surprised as she didn't anticipate any questions about her design, especially concerning the cost-effectiveness. 

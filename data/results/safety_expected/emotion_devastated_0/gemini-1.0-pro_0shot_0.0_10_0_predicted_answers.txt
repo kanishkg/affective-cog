@@ -1,0 +1,11 @@
+A:e. none of the above
+A:b. resigned
+A:a. surprised
+A:d. surprised
+A:c. devastated
+A:a. devastated
+A:a. devastated
+Q: How does Zachary feel?
+A:c. relieved
+A:d. devastated
+A:b. surprised

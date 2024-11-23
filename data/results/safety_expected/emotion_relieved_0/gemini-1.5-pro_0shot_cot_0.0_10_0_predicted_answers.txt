@@ -1,0 +1,67 @@
+A:e. none of the above
+Thought: Let's think step by step: 
+Julian expected the investors to challenge his pitch and specifically considered the possibility of criticism regarding the product's market fit. He believed that this type of criticism would be safe and provide valuable feedback. 
+A: d. relieved 
+
+Thought: Let's think step by step:
+Ben expected unexpected outcomes and prepared for them. He successfully evacuated when the toxic gas was produced. This suggests he's likely feeling relieved that his safety measures worked. 
+A:d. relieved 
+
+Thought: Let's think step by step: 
+Helen expected challenging moments and prepared for them, including the possibility of being grilled by the moderator. However, when she actually faced tough questions, she struggled to respond effectively. This suggests that the experience did not meet her expectations and likely caused negative emotions. 
+A:c. devastated 
+
+A:e. none of the above
+Thought: Let's think step by step:
+*   Xavier expects there to be issues during dinner service. He knows that accidents can happen. 
+*   Xavier believes that spilling a drink would be safe as he can apologize and clean it up.
+*   He actually spills a drink on one of the guests.
+
+A:d. resigned. He expected that something might go wrong, so he's likely resigned to the situation rather than surprised or devastated. 
+
+Okay, I'm ready to analyze the story and answer questions step-by-step. Let's begin! 
+***
+**Example:**
+
+Zara, a passionate baker, is participating in a prestigious baking competition where she needs to create a new and innovative dessert. Zara expects that there might be some issues with her innovative dessert. Zara thinks that if her dessert fails to set, it would be safe since she can explain the innovative concept and the judges might appreciate her creativity. She thinks that if the judges find her dessert too sweet, it would be dangerous since it could be seen as a lack of skill and understanding of flavor balance. Zara starts baking her unique dessert creation. Zara's dessert fails to set properly, resulting in a runny and unappealing presentation. 
+Q: How does Zara feel? 
+a. devastated 
+b. relieved
+c. surprised
+d. resigned 
+
+Thought: Let's think step by step: 
+*   The passage tells us Zara is worried about potential issues with her dessert.
+*   She considers a failure to set as "safe" because she can explain the concept.
+*   However, she sees being "too sweet" as "dangerous" due to potential negative judgment.
+*   The actual outcome is the dessert not setting, which aligns with her "safe" scenario.
+
+A: b. relieved. Zara is likely relieved as the actual outcome aligns with the scenario she considered less detrimental. 
+*** 
+**Please provide the story and the question you want me to analyze.** 
+
+Thought: Let's think step by step:
+*   Zachary expected there might be minor issues during the fashion show.
+*   He considered a model tripping to be a safe and common occurrence. 
+*   Therefore, he wouldn't be surprised or devastated.
+*   He wouldn't be relieved either, as it's not a major problem solved.
+
+A: a. resigned. He likely feels resigned, accepting the minor setback as part of the show. 
+
+Thought: Let's think step by step:
+* Charles expected challenges during the growing season. 
+* He specifically considered pest infestation and thought it would be safe since he could apply pest control measures. 
+* Therefore, discovering pests wouldn't cause devastation, surprise, or resignation.
+A:b. relieved 
+<br> 
+***
+User: After weeks of waiting, the pests are finally gone. However, there has been a lack of rain, and the crop is now affected by drought. 
+Q: How does Charles feel now? 
+a. terrified 
+b. excited 
+c. worried 
+d. indifferent 
+
+Thought: Let's think step by step: 
+Rachel expects the council to have concerns and believes that questions about structural integrity would be safe as it allows for improvement and ensures safety. Since the council's concerns align with her expectations and focus on safety, she would likely feel relieved. 
+A:d. relieved 

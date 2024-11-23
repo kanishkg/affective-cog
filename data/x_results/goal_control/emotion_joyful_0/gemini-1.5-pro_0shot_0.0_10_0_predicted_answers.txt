@@ -1,0 +1,12 @@
+A:c. joyful. <br>
+Amy feels joyful because she got into her top choice school and was rejected from the school she did not want to attend.
+A:c. joyful. <answer>
+A:c. grateful. The person is smiling, suggesting they are feeling positive and appreciative.
+A:b. grateful.
+A:c. joyful. The image portrays a sense of contentment and satisfaction, aligning with the joy Ivan likely feels from achieving his primary goal of improved physical fitness. 
+
+A:d. disappointed. The person in the image has a slight frown and downturned lips, indicating disappointment.
+A:b. joyful. Max feels joyful because he found a stylish outfit he likes.
+A:c. joyful. <answer>
+A:b. disappointed. The facial expression conveys a sense of disappointment, likely due to not meeting the actors.
+A:d. joyful

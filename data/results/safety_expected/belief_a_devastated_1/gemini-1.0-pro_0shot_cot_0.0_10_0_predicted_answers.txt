@@ -1,0 +1,32 @@
+Thought: Let's think step by step:
+Sarah thought that if she encounters snowfall, it could be dangerous. So, we can infer that Sarah expected to encounter snowfall.
+A:b. Yes
+Thought: Let's think step by step:
+Julian thinks that if investors question long-term viability of the product, it would be a safe indicator of a future partnership. He thinks that if investors criticize the product's market fit, it would be dangerous and could collapse the pitch, leading to a missed opportunity. But investors sharply criticized the product's market fit and demand substantial changes. So it's safe to conclude that Julian didn't expect the investors to criticize the product's market fit.
+A:b. No
+Thought: Let's think step by step:
+Ben expected the mixture to cause a small, contained explosion, which he thought would be safe. He did not expect the mixture to produce a toxic gas, which forced him to evacuate the lab. 
+A: b. Yes
+Thought: Let's think step by step:
+1. Helen practices her arguments and counterarguments, which indicates that she is preparing for a challenging situation, in which she may face difficult questions or attacks.
+2. She also considers the possibility of being grilled by the moderator and the negative consequences it could have, which suggests that she anticipates potential difficulties.
+
+A:b. Yes
+A:e. none of the above
+Thought: Let's think step by step:
+Xavier feels devastated, which means he is shocked and upset. He expected the dinner service to go smoothly. So, the answer is 'No'.
+A: a. No
+Thought: Let's think step by step:
+Zara thought that the dessert failing to set would be dangerous and could cost her the competition because it would be seen as a technical failure. So she must have expected some issues.
+A:a. Yes
+Thought: Let's think step by step:
+The question asks if Zachary expected any minor issues during the fashion show.
+The story mentioned that Zachary thinks if a model trips, it would cause a small disruption in the show.
+So he did expect minor issues.
+A:b. Yes
+Thought: Let's think step by step:
+The story mentions that Charles thinks about potential challenges during the growing season and considers both drought and pests.
+A:a. Yes
+Thought: Let's think step by step:
+Rachel is an engineer who presents her bridge design to the city council for approval. The city council raises concerns about the structural integrity of the design and requests modifications. This shows that Rachel did not expect the city council to have concerns and questions about her design.
+A:a. No

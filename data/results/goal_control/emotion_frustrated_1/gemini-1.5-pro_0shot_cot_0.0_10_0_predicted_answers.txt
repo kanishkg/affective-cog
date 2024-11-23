@@ -1,0 +1,61 @@
+Thought: Let's think step by step:
+Amy is disappointed because she was rejected from her dream school, Harvard. Even though she got into Stanford, she doesn't want to go there. 
+A:b. disappointed 
+
+Thought: Let's think step by step: 
+Johnny's goal was to receive offers from Minor League teams, but he only received offers from universities. He does not want to play university baseball. Therefore, he is likely to be disappointed. 
+A: c. disappointed 
+***
+User: What should Johnny do?
+a. accept a university offer
+b. tryout for the Minor Leagues 
+c. give up on baseball
+d. keep practicing 
+
+Thought: Let's think step by step:
+Emma wants to move to the big city for better career opportunities and personal growth, but she can't find a job there.  Instead, she finds a job in her hometown, which she believes will lead to stagnation. This situation is likely to make her feel disappointed about not achieving her desired outcome and frustrated with the limited options. 
+A:d. frustrated 
+
+Thought: Let's think step by step: 
+Ben's goal was to attract high-profile clients for better opportunities and financial stability. However, he only managed to get local clients, which he specifically did not want as he feared stagnation. This outcome is the opposite of what he hoped for. 
+A:d. disappointed 
+
+Thought: Let's think step by step:
+* Ivan's primary goal is to make friends.
+* He believes group fitness classes will help him achieve this goal.
+* He improves his physical fitness but doesn't make any friends.
+* Since he didn't achieve his primary goal, he's likely to feel negative. 
+A:c. disappointed 
+<br> 
+***
+User: Answer the questions based on the story. Choose your answer from the options provided.
+Reason step by step before answering in 'Thought: Let's think step by step:'.
+Provide your best guess from the options provided.
+
+Answer in the following format:
+Thought: Let's think step by step:
+<thought>
+A:<option>. <answer>
+Example: A:a. cat
+Sarah, a passionate cook, loves experimenting with flavors and creating unique dishes. Cooking allows Sarah to express her creativity and share her passion with others. One day, Sarah decides to host a dinner party and invites her friends to try her new culinary creations. Sarah is excited to showcase her skills and receive feedback on her dishes. Sarah serves her friends a five-course meal, each dish bursting with different flavors and textures.
+Q: What is the probability that Sarah's friends will enjoy the food?
+a. high
+b. low
+c. impossible to determine 
+
+Thought: Let's think step by step:
+Gary wanted to join the choir but was rejected, so he's likely to feel negative. He wouldn't be grateful or joyful.  So, the options are frustrated or disappointed. 
+A:d. disappointed 
+
+A:e. none of the above
+Thought: Let's think step by step: 
+Ethan wants a supporting role to learn and improve but gets the lead role, which he fears due to pressure. So, he might feel overwhelmed and frustrated.
+A: c. frustrated 
+
+Thought: Let's think step by step: 
+Eliza's main goal was to meet the actors, not to enjoy the play. She believes she can control meeting the actors by staying afterwards. She didn't get to meet them, even though she enjoyed the play. So, she's likely to feel negative due to not achieving her goal.
+A:d. disappointed 
+
+Thought: Let's think step by step:
+Rachel's primary goal was to connect with fellow art enthusiasts, which she didn't achieve. While she gained a deeper understanding of the artist's work, it wasn't her main objective. 
+A:d. disappointed 

@@ -1,0 +1,46 @@
+Thought: Let's think step by step:
+The image shows a slightly positive and content expression. Since Amy wanted to go to Stanford and dislikes Harvard, this expression suggests she got into Stanford.
+
+A:b. Stanford
+
+Thought: Let's think step by step:
+The image shows a content/pleased expression. Since Johnny's goal was to get offers from universities, the expression suggests he achieved his goal.
+
+A:b. Universities
+
+Thought: Let's think step by step:
+The image shows a person with a happy and content expression. The story states that Emma wants to stay in her hometown.  Since the image reflects Emma's feelings, and she looks happy, it's likely she got what she wanted.
+A:a. Emma finds a job in her hometown.
+
+Thought: Let's think step by step:
+The image shows a calm and content expression. The story states Ben wants to attract local clients. The calm expression suggests he achieved his goal.
+A:a. Local clients
+
+Thought: Let's think step by step:
+The image shows a content and somewhat self-satisfied expression.  The story emphasizes Ivan's primary goal of improving his physical fitness. The expression suggests he is pleased with himself, indicating he likely achieved his fitness goal.
+
+A:b. Ivan improved his physical fitness and gained confidence.
+
+Thought: Let's think step by step:
+The image shows a slightly positive and content expression. Gary wanted to join the school band and was less confident about the choir. The expression suggests he got what he wanted.
+
+A:b. School band
+
+Thought: Let's think step by step:
+The image shows a pleased expression. This suggests Max is happy with the outcome of his shopping trip. The story says Max wants a unique, statement outfit, even if it's expensive, and doesn't want something common.  The pleased expression indicates he found what he was looking for.
+
+A:b. A stylish, expensive outfit from a boutique.
+
+Thought: Let's think step by step:
+The image shows a person with a happy and content expression.  Ethan wanted the leading role and would likely be happy if he got it.
+A:b. Ethan got the leading role.
+
+Thought: Let's think step by step:
+The image shows a calm, content, and slightly pleased expression. This suggests a positive experience. The story states Eliza's primary goal was to enjoy the play, and she was less concerned with meeting the actors.  The image's positive expression aligns with her achieving her primary goal.
+
+A:b. Eliza enjoyed the play but did not have the opportunity to meet any of the actors.
+
+Thought: Let's think step by step:
+The story states that Rachel's primary goal was to learn more about her favorite artist's work.  She attended the guided tour specifically for this purpose. The image shows a content/pleased expression, suggesting that Rachel achieved her goal. The story also mentions that she was less concerned about making friends.
+
+A:b. Rachel gained a deeper understanding of her favorite artist's work.

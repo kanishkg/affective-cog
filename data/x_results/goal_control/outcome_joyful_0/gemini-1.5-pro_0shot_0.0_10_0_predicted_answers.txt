@@ -1,0 +1,22 @@
+A:b. Harvard. The person in the image has an unhappy expression and the story states that Amy disliked Harvard.
+A:b. Universities. The expression is hopeful and happy, suggesting a positive outcome like receiving offers from universities.
+A:a. Emma finds a job in her hometown. 
+<br>
+The image portrays a sense of contentment and peace, suggesting that the person achieved their desired outcome, which aligns with Emma's wish to stay in her hometown.
+A:b. Local clients. The image shows a neutral or slightly positive expression, suggesting Ben achieved his goal.
+A:b. Ivan improved his physical fitness and gained confidence. 
+
+**Explanation:** The image portrays a sense of satisfaction and contentment, aligning with the idea that Ivan achieved his primary goal of improved physical fitness.
+A:b. School band. The person's expression conveys a sense of contentment and satisfaction, suggesting a positive outcome, such as being accepted into the preferred group.
+A:b. A stylish, expensive outfit from a boutique. 
+
+**Reasoning:** The expression in the image conveys a sense of satisfaction and contentment, suggesting a positive outcome. Option b aligns with this as finding a stylish, expensive outfit would likely lead to such an expression.
+A:a. Ethan got the leading role. 
+
+**Explanation:** The person in the image is expressing happiness and contentment, suggesting a positive outcome like receiving the desired leading role.
+A:b. Eliza enjoyed the play but did not have the opportunity to meet any of the actors. 
+
+**Explanation:** The image portrays a neutral to positive expression, suggesting Eliza had a pleasant experience. Since the option implies she achieved her primary goal of enjoying the play, it aligns best with the expression.
+A:a. Rachel gained a deeper understanding of her favorite artist's work. 
+
+**Explanation:** The image portrays a serene and content expression, suggesting a sense of fulfillment and satisfaction. This aligns with the idea that Rachel achieved her primary goal of gaining a deeper understanding of her favorite artist's work.

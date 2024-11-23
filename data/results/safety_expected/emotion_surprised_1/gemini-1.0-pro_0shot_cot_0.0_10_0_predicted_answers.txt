@@ -1,0 +1,33 @@
+Thought: Let's think step by step:
+Sarah expected pleasant weather, but she suddenly encounters fog and reduced visibility. This would likely make her feel surprised.
+A:a. surprised
+Thought: Let's think step by step:
+Julian expected a good response from the investors and didn't expect any challenges or questions. When the investors started questioning the long-term viability of the product, it would be a safe indicator of a future partnership, according to Julian. So, Julian should be feeling relieved.
+A: b. relieved
+Thought: Let's think step by step:
+Ben expected the experiment to go smoothly, but it resulted in a small explosion, which is not what he expected. So, Ben is likely not feeling relieved (d). He may be feeling surprised (b), but he could also be feeling devastated (a) or resigned (c) as the explosion could have had serious consequences.
+However, there is not enough information in the story to determine whether Ben is devastated (a) or resigned (c).
+
+A:b. surprised
+A:e. none of the above
+Thought: Let's think step by step:
+Penelope expects the concert to go smoothly and thinks that if the sound system malfunctions, the technical team can fix it promptly. However, the sound system did malfunction and it leads to poor audio quality and difficulty hearing her music. So, she would feel _devastated_.
+A:c. devastated
+Thought: Let's think step by step:
+Xavier expected the dinner service to go smoothly without any issues, but the kitchen staff made a mistake and Xavier served the wrong dish to a guest with dietary restrictions. This is a serious mistake that could have negative consequences, so Xavier is likely to feel negative emotions. We can eliminate options a and d because Xavier is unlikely to feel relieved or devastated in this situation. Option c is possible, as Xavier may feel resigned to the fact that he made a mistake and there is nothing he can do to change it. However, option b is the most likely answer, as Xavier is likely to be surprised that the kitchen staff made a mistake and served the wrong dish.
+A: b. surprised
+Thought: Let's think step by step:
+Zara had baked a dessert, and she was worried about the judgment of the judges. The judges criticized her dessert for being too sweet. Zara had expected this, and she had prepared a defense for it. So, she can't be surprised or devastated. She might be relieved or resigned. But she would be more resigned since the criticism was as expected.
+A:b. resigned
+Thought: Let's think step by step:
+Zachary expected mixed reviews and was safe with the outcome.
+The collection received mixed reviews.
+Zachary should be relieved.
+A:b. relieved
+Thought: Let's think step by step:
+Charles expected a smooth growing season but his crops were affected by drought. He was prepared for water-saving techniques and irrigation. So he should be relieved.
+A: b. relieved
+Thought: Let's think step by step:
+Rachel expected the council to approve her design without any issues. However, the council questioned the cost-effectiveness of the design. Rachel thinks that questioning the cost-effectiveness would be safe as it might help optimize resources and lead to a better solution. So, Rachel might feel relieved.
+
+A: a. relieved

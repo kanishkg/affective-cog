@@ -1,0 +1,71 @@
+Thought: Let's think step by step: 
+Sarah expected pleasant weather and considered snowfall safe and picturesque. So, encountering snowfall would likely make her feel happy. 
+A:d. surprised 
+
+Thought: Let's think step by step: 
+Julian expected challenges and questions, and believed that criticism of the product's market fit would be safe and provide clear feedback. He is likely to feel relieved as his expectation of challenges is met and he now has a clear direction for improvement.
+A:c. relieved 
+
+Thought: Let's think step by step: 
+Ben expected the experiment to go smoothly, so he must be surprised by the unexpected outcome. He considered the possibility of a toxic gas and felt it would be safe due to evacuation and ventilation. So, he is likely relieved that his safety measures worked. 
+A:c. relieved 
+
+Thought: Let's think step by step:
+Helen expected the debate to go smoothly, so being grilled by the moderator would be a surprise. 
+A:a. surprised 
+<br> 
+### 
+Peter is throwing a surprise birthday party for his friend John. Peter plans to invite all of John's friends and family. Peter wants to decorate the venue with balloons and streamers. Peter wants to serve John's favorite foods and drinks. 
+Q: Who is the party for? 
+a. Peter 
+b. John 
+c. Peter's friend 
+d. John's family 
+
+Thought: Let's think step by step: 
+Penelope expected the concert to go smoothly, so the broken guitar string would be unexpected.  She would likely not feel relieved or resigned, as she has a backup guitar and can recover quickly.  So she is likely surprised or devastated. She cares about her fans and their experience, so she would likely be devastated. 
+A: a. devastated 
+
+Thought: Let's think step by step:
+*   Xavier expects the dinner service to go smoothly, indicating he anticipates a positive experience. 
+*   He believes that spilling a drink would be safe, suggesting he doesn't perceive it as a significant issue.
+*   However, he accidentally spills a drink on a guest, which contradicts his expectation of a smooth service. 
+*   Given his prior belief about spilling a drink, he wouldn't be devastated or resigned.
+*   He is also unlikely to be relieved as the situation is not positive. 
+*   Therefore, the most likely emotion is surprise as the event is unexpected and contradicts his initial anticipation.
+A: a. surprised 
+
+Thought: Let's think step by step:
+Zara expected her dessert to be perfect and well-received, so she would likely be disappointed if it failed to set. 
+A: a. devastated 
+<br> 
+
+Thought: Let's think step by step: 
+Zachary expects the show to go smoothly, so a model tripping would be unexpected. He wouldn't be relieved as it's a disruption. He wouldn't be devastated as he considers it a safe and common occurrence. 
+A: b. surprised 
+<br> 
+***
+User: Q: What actually happens at the fashion show? 
+a. The fashion show is a complete disaster. 
+b. The fashion show receives overwhelmingly positive reviews. 
+c. A model trips on the runway. 
+d. Zachary's designs are stolen before the show. 
+
+Thought: Let's think step by step:
+*   Charles expected the growing season to go smoothly without any issues.
+*   He thought pest infestation would be safe since he can apply pest control measures.
+*   Therefore, he is not likely to be devastated or resigned. 
+*   Since the infestation was unexpected, he is more likely to be surprised than relieved.
+A:b. surprised 
+
+Thought: Let's think step by step: 
+Rachel expects no issues but thinks questioning structural integrity would be safe as it allows for improvement and ensures safety. She believes questioning cost-effectiveness would be dangerous as it might lead to project cancellation or delay. The council expresses concerns about structural integrity.
+A:b. relieved 
+<br> 
+*** 
+User: After incorporating the council's feedback, Rachel presents the revised design. The council approves the design, and construction begins. However, halfway through the construction, the project runs into budget issues. 
+Q: What is most likely the cause of the budget issues?
+a. Rachel’s inexperience with bridge design 
+b. unexpected increase in material costs 
+c. the city council's modifications 
+d. Rachel’s miscalculation of the budget 

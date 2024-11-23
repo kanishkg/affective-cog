@@ -1,0 +1,86 @@
+ <thought>
+Step 1) Amy wants to go to Harvard and hopes she gets admitted. 
+Step 2) The passage states that Amy got into Harvard. 
+Step 3) Since Amy got into her top choice school that she hoped for, she would likely feel grateful and joyful.
+</thought>
+
+A: d. joyf
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step-by-step:
+- Johnny is a high school student who plays baseball and wants to get an offer from a Minor League team rather than a university team
+- He invited both university and Minor League coaches to watch him play in the conference finals
+- Johnny received offers from Minor League teams, which is what he wanted, but no offers from university teams
+- Since Johnny wanted offers from Minor League teams and that's what he got, he likely feels grateful rather than disappointed, frustrated, or overjoyed
+
+A: a. grateful
+ <admin> Got it, let me think step-by-step through this story and question:
+
+Thought: Let's think step by step:
+- Emma recently graduated college and wants to move to a big city for better career opportunities 
+- She believes she can control where she finds a job
+- Emma applies for jobs in the big city and her hometown
+- She finds a promising job in the big city but none in her hometown
+
+A: a. joyful
+
+Emma likely feels joyful because she found the kind of job she was hoping for in the big city, aligning with her goals for career growth and leaving her small hometown. The story suggests she really wanted opportunities the big city could provide.
+
+</admin>
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step by step:
+- Ben is a freelance graphic designer working from home who wants to increase his client base
+- He believes he can control the types of clients he acquires and wants to work with high-profile clients for better opportunities and financial stability
+- Ben does not want to work with local clients because he fears stagnation in his career
+- Ben created an online portfolio targeting high-profile clients and was successful in attracting those types of clients
+- However, he did not attract any local clients
+
+Based on this, I would guess that Ben likely feels grateful that he was able to attract the high-profile clients he was targeting. Even though he did not get any local clients, he achieved his main goal of working with high-profile corporations.
+
+A: a. grateful
+
+</admin>
+ <admin> Got it, let me think through this step-by-step:
+
+Thought: Let's think step by step:
+Ivan's primary goal is to make friends at the gym by attending group fitness classes. The passage states that Ivan was able to make friends with other members of the group fitness class, meeting his primary goal. However, he was unable to improve his physical fitness, which was a secondary concern. Since Ivan achieved his main goal of making new friends, he likely feels joyful rather than disappointed, frustrated, or grateful.
+
+A: a. joyful
+ <thought>
+Let's think step-by-step:
+1) Gary is passionate about music and dreams of becoming a professional musician
+2) He wants to join the school choir to improve his vocal skills and get performance opportunities
+3) He auditions for both the choir and band
+4) He is accepted into the choir but not the band
+</thought>
+
+A: a. grateful
+
+Gary should feel grateful that he was accepted into the school choir, which aligns with his goals of improving his vocal skills and getting performance opportunities. Even though he was not accepted into the band, the choir provides him a chance to gain experience and work towards his dream.
+ <admin> Got it, let me think step-by-step through this story to determine the best answer:
+
+Thought: Let's think step by step:
+Max loves fashion and wants to find an affordable new outfit for a school event. Even though the outfit he found at the department store wasn't very unique, it was affordable. Since Max didn't want to spend too much money, finding an affordable outfit was his priority over finding a unique outfit. Therefore, Max likely feels grateful that he was able to find an affordable outfit, even if it's not as unique as he had hoped.
+
+A: c. grateful
+
+</admin>
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step by step:
+- Ethan is an aspiring actor who wants a supporting role, not the leading role
+- He performed his audition piece for the casting directors
+- Ethan was not given the leading role, but was offered a supporting role with potential for growth
+- This is the type of role Ethan wanted
+- So Ethan likely feels grateful that he got the type of role he was hoping for
+
+A: b. grateful
+ Thought: Let's think step by step:
+Eliza's primary goal is to meet and connect with the actors, as she aspires to be an actor herself. She is less concerned about whether she enjoys the play itself. After attending the play, Eliza was able to meet and have engaging conversations with the actors, achieving her primary goal. However, she did not enjoy the play itself, which was not her main concern. Since Eliza accomplished her primary goal of connecting with the actors, she likely feels joyful overall, even if the play itself was not enjoyable.
+
+A: c. joyful
+ Thought: Let's think step by step:
+Rachel's primary goal was to connect with fellow art enthusiasts at the museum. The passage states that she was able to befriend fellow art enthusiasts during the guided tour. This means her primary goal was achieved. While she did not gain a deeper understanding of her favorite artist's work, this was not her main concern. Since her primary goal was met, she likely feels grateful rather than frustrated, disappointed or particularly joyful.
+
+A: c. grateful

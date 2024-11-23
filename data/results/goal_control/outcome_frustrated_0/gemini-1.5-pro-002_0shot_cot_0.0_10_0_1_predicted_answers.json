@@ -1,0 +1,32 @@
+[
+    [
+        "Thought: Let's think step by step:\nThe prompt says Amy wants to go to Stanford but only applied to Harvard to appease her parents.  It also says she dislikes Harvard and doesn't want to go there.  The question asks which college she got into *if* she is frustrated.  Since she wants to go to Stanford and dislikes Harvard, she would likely be frustrated if she got into Harvard and not Stanford.\n\nA:a. Harvard\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nJohnny wants to play baseball at a university level to increase his chances of getting drafted into the MLB. He does not want to play in the Minor Leagues.  If he feels frustrated, it's likely because he didn't receive offers from universities, but might have from minor league teams.\n\nA:b. Minor league baseball teams\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe story states Emma wants to stay in her hometown because she values her close relationships with family and friends.  It also says she doesn't want to move to the big city.  The question asks what Emma *chose* to do, and the story clearly indicates she chose to stay in her hometown. The question of whether she found a job there is irrelevant to what she *chose* to do.\n\nA:a. Emma finds a job in her hometown.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe story does not state whether Ben was successful in attracting any clients, it only describes the steps he took to try and increase his client base.  Since the question asks about Ben's frustration, it implies he did not get the clients he wanted.  He wants local clients.\n\nA:a. Local clients\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe question states that Ivan feels frustrated.  Since his primary goal was to improve his physical fitness, and he's frustrated, it's likely that he hasn't seen the fitness improvements he desired. The passage doesn't mention anything about his success or failure in making friends, but since fitness was his primary goal, his frustration likely stems from a lack of progress there.\n\nA:a. Ivan improved his physical fitness and gained confidence.  Frustration implies a lack of perceived progress towards his primary goal of improved fitness.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nGary is passionate about music and wants to be a professional musician. He prefers the band over the choir due to his perceived stronger instrumental skills and lower confidence in singing.  He auditions for both. The question states he is frustrated. Since he *wants* to be in the band and *doesn't* want to be in the choir, his frustration likely stems from getting the *opposite* of his desired outcome.\n\nA:b. School choir\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe question states that Max feels frustrated.  Since Max prioritizes unique and stylish clothing over affordability and common styles, it's unlikely he settled for an affordable, common outfit. If he's frustrated, it's more probable that he hasn't found anything that meets his criteria of being unique and making a statement, despite potentially being expensive.  The question doesn't state he *bought* anything.\n\nA:a. An affordable outfit from a department store.  He didn't find anything he liked.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe prompt states Ethan \"believes that his performance at the audition will determine the role he is offered\".  He \"wants the leading role\" and \"does not want a supporting role\".  Since the question states he is frustrated, it is likely he did not get what he wanted.\n\nA:a. Ethan got a supporting role.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nEliza's primary goal was to enjoy the play. She is less concerned with meeting the actors.  The question states Eliza is frustrated. Since her main goal was enjoying the play, her frustration likely stems from not enjoying it.\n\nA:b. Eliza enjoyed the play but did not have the opportunity to meet any of the actors.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe prompt states that Rachel's primary goal was to learn more about her favorite artist's work. It also mentions that she attended a guided tour of the special exhibition featuring this artist.  While it doesn't explicitly say whether she gained a deeper understanding, the text implies this was her focus and the guided tour was the means to achieve it.  The prompt also explicitly states she was less concerned about making friends.  Since the question asks about her feeling frustrated, it is likely that her primary goal was not met.\n\nA:b. Rachel gained a deeper understanding of her favorite artist's work.\n"
+    ]
+]

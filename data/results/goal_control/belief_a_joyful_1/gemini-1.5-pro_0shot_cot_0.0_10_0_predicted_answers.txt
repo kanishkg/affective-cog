@@ -1,0 +1,62 @@
+A:e. none of the above
+Okay, I'm ready to analyze the story and answer questions step-by-step. 
+
+**Example:**
+
+**Q: Johnny feels joyful. Did Johnny believe he could control the outcome of which offers he received?**
+
+Thought: Let's think step by step: 
+* Johnny's goal was to receive offers from Minor League teams.
+* He invited coaches from both university and Minor League teams to watch him play. 
+* He received offers from Minor League teams, achieving his goal.
+* His joy suggests he is happy with the outcome.
+*  Therefore, he likely believed his actions could influence the offers he received. 
+A: a. Johnny believed he could control his chances at getting an offer by preparing rigorously and playing his best game of the season. 
+
+Thought: Let's think step by step: 
+Emma believes that moving to the big city will provide her with better career opportunities and personal growth. This suggests she thinks her location choice will influence her future. 
+A: b. Emma believed she could control her future by choosing the right location. 
+
+Thought: Let's think step by step:
+The story tells us Ben *wants* to work with high-profile clients and avoid local ones. He takes specific actions (creating a portfolio, sharing on social media) to attract the kind of clients he desires. This shows he believes he can influence the types of clients he gets. 
+A:b. Ben believed he could control the types of clients he acquires by promoting his work and networking effectively. 
+
+A:e. none of the above
+## Example Analysis: 
+
+**Thought: Let's think step by step:** 
+*  The text tells us Gary auditioned for both choir and band, indicating he wasn't sure which he would get into.
+*  His preference for choir doesn't guarantee acceptance.
+*  The fact that he auditioned for both suggests he acknowledged the uncertainty of the outcome. 
+
+**A: b.** Gary believed that the outcome of the auditions was uncertain, and he may not be able to control which group he is accepted into. 
+
+Thought: Let's think step by step: 
+The story tells us Max wants to find an affordable outfit. He finds one that's affordable but not unique.  This suggests Max prioritized cost over uniqueness and achieved his goal. His actions directly influenced the outcome.
+A: a. Max believed he could control the outcome by searching for the perfect outfit and trying on different options. 
+
+Thought: Let's think step by step: 
+Ethan desired a supporting role to learn and grow, indicating he valued the experience and mentorship more than the immediate spotlight. He feared the pressure of the leading role, suggesting a preference for a less demanding part. This implies he might believe that external factors, such as the director's decision or the overall casting dynamics, would play a significant role in determining his role.
+A: a. Ethan believed that factors outside of his control would determine the role he was offered. 
+
+Okay, I'm ready to answer questions based on stories and reason step-by-step. Let's begin! 
+***
+**Example:**
+
+Eliza, a theater enthusiast, is attending a local theater production and is excited to experience the show and potentially meet some of the actors. Eliza's primary goal is to meet and connect with the actors in the play, as she aspires to be an actor herself. She is less concerned about whether she enjoys the play itself. Eliza watches the play. Eliza meets and has engaging conversations with the actors but does not enjoy the play itself. 
+
+Q: Eliza feels joyful. Did Eliza believe she could control her enjoyment of the play and the likelihood of meeting the actors? 
+a. Eliza believed that by attending the play and staying afterwards, she could control her enjoyment of the play and the likelihood of meeting the actors. 
+b. Eliza believed that her enjoyment of the play and the chance to meet the actors are outside of her control. 
+
+**Thought: Let's think step by step:** 
+*   The passage states that Eliza's primary goal is to meet the actors, implying she believes taking action (attending the play and staying afterward) will increase the chance of meeting them.
+*   There is no indication in the passage to suggest Eliza believes she can control her enjoyment of the play. 
+
+**A: a. Eliza believed that by attending the play and staying afterwards, she could control her enjoyment of the play and the likelihood of meeting the actors.** 
+*** 
+**Please provide the story and question, and I'll do my best to analyze and answer!** 
+
+Thought: Let's think step by step:
+Rachel's main goal was to connect with other art enthusiasts, and she thought the guided tour would help her do that. She wasn't as worried about learning more about the artist. She made friends during the tour but didn't learn more about the artist's work. This means she achieved her goal of connecting with people, which was within her control through her participation and interaction. 
+A:b. Rachel believed she could control her experience at the museum by actively engaging in the guided tour and asking questions. 

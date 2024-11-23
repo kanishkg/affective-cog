@@ -1,0 +1,39 @@
+Thought: Let's think step by step:
+The image shows a person with a worried or anxious expression. This suggests that Amy is likely feeling stressed and uncertain about the outcome of her college applications. 
+A:b. Stanford.  Since Amy doesn't want to go to Stanford, she would be worried or anxious if she got into Stanford.
+Thought: Let's think step by step:
+The image shows a person with a sad or disappointed expression. This suggests that Johnny did not achieve his desired outcome. 
+A:a. Minor league baseball teams. Johnny did not receive offers from minor league baseball teams.
+Thought: Let's think step by step:
+The image shows a person with a sad or disappointed expression. This suggests that things did not go as they hoped. 
+A:b. Emma finds a job in her hometown. The person's expression suggests disappointment, implying she might not have gotten what she desired, which was a job in the big city.
+Thought: Let's think step by step:
+The image shows a person with a sad or disappointed expression. This suggests things haven't gone their way.  Ben wants to attract high-profile clients, so if he was successful, he wouldn't be sad. 
+A: a. Local clients. Ben likely attracted local clients, which is what he didn't want.
+Thought: Let's think step by step:
+The image portrays a sad and disappointed expression. This suggests that Ivan's experience at the gym did not meet his expectations. 
+A:a. Ivan became friends with other members of the group fitness class. 
+The image does not suggest a positive outcome like making new friends.
+Thought: Let's think step by step:
+* The image shows a person with a sad or disappointed expression. 
+* This suggests they may have received bad news or experienced something negative.
+* Since the story is about Gary's uncertainty about getting into his preferred group (choir), the expression aligns with the possibility of him not getting his wish. 
+
+A: a. School band. The person's expression suggests they are disappointed, which aligns with the possibility of Gary not getting into his preferred choice, the school choir. 
+
+Thought: Let's think step by step:
+The image shows a face with a slightly downturned mouth and slightly furrowed brows. This expression suggests disappointment or sadness. We need to choose the option that aligns with these emotions, indicating that Max didn't find what he was hoping for. 
+A:b. An affordable outfit from a department store. 
+This option is more likely because it suggests that Max settled for an outfit that was within his budget but perhaps not as exciting or unique as he had hoped, leading to the disappointed expression.
+Thought: Let's think step by step:
+The image shows a person with a sad or disappointed expression. This suggests that Ethan did not get what he wanted. He preferred a supporting role and feared the pressure of the leading role. 
+A: a. Ethan got a supporting role. 
+The image's expression aligns more with the disappointment of receiving the unwanted leading role, not the desired supporting role.
+Thought: Let's think step by step:
+The image shows a disappointed expression. This suggests Eliza didn't achieve her goal. Her primary goal was to meet the actors, not enjoy the play.
+A:b. Eliza met and had engaging conversations with the actors but did not enjoy the play itself.
+Thought: Let's think step by step:
+The image shows a person with a neutral or slightly sad expression. This suggests that Rachel's experience at the museum wasn't particularly positive or exciting. 
+Since her main goal was to connect with people, and the expression doesn't convey a sense of joy or connection, it's more likely that she didn't achieve her goal. 
+A: a. Rachel became friends with fellow art enthusiasts during the guided tour. <br>
+The expression suggests that Rachel's visit was not fulfilling, making it unlikely she made new friends.

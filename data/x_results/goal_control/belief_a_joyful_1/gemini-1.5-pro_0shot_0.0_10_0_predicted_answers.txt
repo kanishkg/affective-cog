@@ -1,0 +1,21 @@
+A:b. Amy thought she could control the outcome of her college admissions
+A:b. Johnny believed he could control his chances at getting an offer by preparing rigorously and playing his best game of the season. 
+The image shows a content expression, indicating a belief in a positive outcome due to personal effort and preparation.
+A:a. Emma believed she could control her future by choosing the right location. 
+<answer> The image shows a hopeful and determined expression, suggesting the person believes they can influence their future through their choices.
+A:b. Ben believed he could control the types of clients he acquires by promoting his work and networking effectively. 
+<br>
+The image portrays a sense of determination and confidence, aligning with the idea that Ben believed he could influence the kinds of clients he attracted through his actions.
+A:b. Ivan believed that by attending the group fitness class regularly, he could control his physical fitness improvement and the number of friends he makes. 
+**Explanation:** The image portrays a content and satisfied expression, suggesting Ivan feels positive about achieving his goal of making friends at the gym. This aligns with option b, indicating his belief in controlling the outcome through his actions (attending the class).
+A:a. Gary believed that the outcome of the auditions was uncertain, and he may not be able to control which group he is accepted into.
+A:a. Max believed he could control the outcome by searching for the perfect outfit and trying on different options. 
+
+**Explanation:** The image portrays a sense of contentment and satisfaction, suggesting Max feels positive about his situation. This aligns with option a, where Max actively seeks the outfit and believes his actions can influence the result.
+A:a. Ethan believed that factors outside of his control would determine the role he was offered. 
+
+**Explanation:** The image portrays a sense of calm acceptance and contentment, suggesting Ethan is at peace with the outcome, regardless of his control over it. This aligns with the option that suggests he believed external factors would influence the result. 
+
+A:b. Eliza believed that by attending the play and staying afterwards, she could control her enjoyment of the play and the likelihood of meeting the actors. 
+<answer> The image shows a neutral expression, suggesting Eliza is content with the outcome.  This aligns with option b, where taking action (attending and staying) led to the desired result (meeting the actors), even if the play itself wasn't enjoyable.
+A:a. Rachel believed she could control her experience at the museum by actively engaging in the guided tour and asking questions.

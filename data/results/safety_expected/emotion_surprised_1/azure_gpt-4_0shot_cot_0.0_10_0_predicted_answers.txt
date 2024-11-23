@@ -1,0 +1,63 @@
+Thought: Let's think step by step:
+Sarah expected the weather to be pleasant, so the sudden fog and reduced visibility were not anticipated.
+Sarah thinks she can safely navigate using her compass and map if she sees fog, which means she feels prepared for this situation.
+The options "resigned" and "devastated" suggest a negative emotional state that would be more appropriate if she encountered snowfall, which she believes could be dangerous.
+The option "relieved" does not fit the scenario because the fog is a challenge, even if she feels prepared to handle it.
+The best fit, given the unexpected nature of the fog, is that Sarah would be "surprised" by the sudden change in weather.
+
+A:c. surprised.
+Thought: Let's think step by step:
+Julian is confident his pitch covers everything, so he does not expect any challenges or questions.
+He believes that if investors question the long-term viability, it's a safe indicator of a future partnership.
+Since he views questions about long-term viability positively, he would likely feel positive emotions when such questions are asked.
+Therefore, Julian would feel relieved because he interprets the investors' questions as a sign of potential partnership interest.
+
+A:b. relieved.
+Thought: Let's think step by step:
+Ben is conducting an experiment and expects it to go smoothly, which implies he is not anticipating any negative outcomes. However, he has considered the possibility of an explosion and has safety measures in place, indicating he is prepared for such an event, albeit he does not expect it to happen. When the mixture does cause a small explosion, it is an unexpected event, but since Ben has prepared for it, his primary emotion is likely not devastation or resignation. Between surprise and relief, since the explosion was not expected, surprise is the more likely initial reaction. Relief might come into play if the safety measures worked effectively, but the immediate response to an unexpected explosion would more likely be surprise.
+
+A:a. surprised.
+Thought: Let's think step by step:
+Helen expects the debate to go smoothly, but she has also considered the possibility of a personal attack from her opponent. She thinks that if her opponent launches a personal attack, it would be safe for her because it could backfire on the opponent and make them look unprofessional. Since Helen has anticipated this possibility and sees it as something that could work in her favor, she is unlikely to feel devastated, surprised, or resigned. Instead, she might feel relieved that the debate is unfolding in a way she considers advantageous to her.
+
+A:d. relieved
+Thought: Let's think step by step:
+- Penelope was preparing for her concert and expected it to go smoothly.
+- She considered a sound system malfunction to be safe because the technical team could fix it promptly.
+- She thought a broken guitar string would be dangerous and could cause her to lose confidence.
+- During her performance, the sound system malfunctions.
+- Given that Penelope thought the technical team could handle sound issues quickly, she might not feel devastated, as she had a plan for this type of issue.
+- She might be surprised because she didn't expect any issues, but she also might not be completely taken aback because she had considered the possibility of technical difficulties.
+- She is unlikely to feel relieved, as the malfunction is an issue during her performance.
+- Resigned could be a possibility if she had accepted that such issues could happen and was prepared to deal with them.
+
+A:b. surprised.
+Thought: Let's think step by step:
+Xavier is preparing for a high-end dinner service and expects it to go smoothly. He has considered the potential mistakes that could happen and has categorized serving the wrong dish as "safe" because he believes he can quickly correct the mistake. However, serving the wrong dish to a guest with dietary restrictions is a serious error and could have health implications for the guest. This is not a simple mistake that can be easily rectified with a quick replacement and an apology, as it could potentially harm the guest. Given the gravity of the situation and Xavier's role as a waiter who aims to provide impeccable service, it is likely that he would feel a strong negative emotion.
+
+A:c. devastated. Xavier likely feels devastated because he has made a significant error that could affect the guest's health and the restaurant's reputation.
+Thought: Let's think step by step:
+Zara expects her dessert to be perfect and well-received, which means she is aiming for positive feedback.
+Zara thinks that if the judges criticize her dessert for being too sweet, it would be safe, indicating she is prepared for this criticism and does not view it as a significant problem.
+Zara believes that being criticized for a dessert that fails to set would be dangerous, but this is not the criticism she received.
+Since the judges criticized her dessert for being too sweet, which is a scenario she considered safe, Zara is likely not devastated or surprised.
+Zara prepared to defend her choice if the dessert was criticized for being too sweet, so she is probably not feeling resigned.
+
+A:a. relieved.
+Thought: Let's think step by step:
+Zachary expects the fashion show to go smoothly, which means he is optimistic about the outcome. He also thinks that if his collection receives mixed reviews, it would be safe and could lead to positive discussions and improvements. Since the collection did receive mixed reviews, which is a scenario he considered safe, it is likely that he feels neither surprised nor devastated. Between 'resigned' and 'relieved,' 'resigned' would imply that he has accepted something unpleasant that he cannot change, while 'relieved' would imply that he has been freed from something worrisome. Since Zachary thought mixed reviews could be beneficial, 'relieved' seems to be the more appropriate emotion.
+
+A:c. relieved.
+Thought: Let's think step by step:
+- Charles is preparing for the harvest season and is planting a new crop variety.
+- He expects the growing season to go smoothly without any issues.
+- Charles has considered the possibility of a drought and believes he can manage it with water-saving techniques and irrigation.
+- The story does not indicate that Charles is surprised or devastated by the drought; instead, it suggests he has prepared for such an event.
+- Since Charles has planned for drought conditions, he would not feel relieved, as that would imply he was worried about it before.
+- The story does not suggest that Charles is giving up (resigned) in the face of the drought.
+
+A:b. surprised. <answer>
+Thought: Let's think step by step:
+Rachel expects the city council to approve her design without any issues, which means she is confident in her design. She has considered two possible concerns from the council: cost-effectiveness and structural integrity. Rachel believes that if the council questions the cost-effectiveness, it would be safe and could lead to a better solution. This implies that she is prepared for such a discussion and sees it as a constructive possibility. On the other hand, she thinks that questions about structural integrity would be dangerous for her reputation. Since the council questioned the cost-effectiveness, which Rachel sees as a safe and potentially beneficial outcome, she is likely to feel relieved that they did not question the structural integrity, which she feared would be damaging to her reputation.
+
+A:c. relieved.

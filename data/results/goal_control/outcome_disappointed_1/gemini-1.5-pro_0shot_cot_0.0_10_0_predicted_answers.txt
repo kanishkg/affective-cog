@@ -1,0 +1,39 @@
+A:e. none of the above
+Okay, I'm ready to analyze the story and answer questions step-by-step. 
+
+**Example:**
+
+**Q: Johnny feels disappointed. Did Johnny receive offers from universities, or from minor league baseball teams?**
+
+Thought: Let's think step by step: 
+* Johnny's goal is to receive offers from Minor League teams. 
+* He doesn't want to play university baseball. 
+* If he received offers from universities, he would likely be disappointed. 
+A: a. Universities. He is likely disappointed because he received offers from universities, not Minor League teams. 
+
+A:e. none of the above
+## Example Analysis: 
+
+**Thought: Let's think step by step:** Ben desires high-profile clients for better opportunities and financial stability. He fears stagnation with local clients and thus avoids them. He creates an online portfolio to attract clients, but we are not informed of the outcome. 
+
+**A: b. Local clients** . We don't know the result of Ben's efforts, but his disappointment suggests he didn't get what he wanted (high-profile clients). 
+
+Thought: Let's think step by step: 
+Ivan's primary goal is to make friends, and he believes the group fitness class is a way to achieve that. He is less concerned about fitness improvement. To feel disappointed, his primary goal of making friends was likely not met.
+A:a. Ivan became friends with other members of the group fitness class.  <br>
+**The answer should be the option that does not fulfill Ivan's primary goal of making friends.** 
+
+Thought: Let's think step by step:
+Gary wants to join the school choir but not the school band. He feels disappointed. So, he probably got what he didn't want. 
+A:b. School band. 
+
+A:e. none of the above
+A:e. none of the above
+Thought: Let's think step by step: 
+Eliza's primary goal is to meet the actors, and she is less concerned with enjoying the play. If she is disappointed, it's more likely because she failed to achieve her primary goal. 
+A: a. Eliza enjoyed the play but did not have the opportunity to meet any of the actors. 
+
+Thought: Let's think step by step:
+Rachel's primary goal was to connect with fellow art enthusiasts, and she believed the guided tour would help her achieve this. If she's disappointed, it's likely because she didn't meet her goal of making new friends. 
+A:a. Rachel became friends with fellow art enthusiasts during the guided tour.  <br>
+This option aligns with Rachel's primary goal and the reason for her potential disappointment. 

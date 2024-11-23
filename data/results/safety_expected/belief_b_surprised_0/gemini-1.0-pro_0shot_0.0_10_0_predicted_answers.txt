@@ -1,0 +1,13 @@
+A:a. Sarah thought that it would be dangerous if she encountered snowfall and could safely navigate if she encountered fog.
+A:b. Julian thought that it would be dangerous if the investors criticized the product's market fit and safe if they questioned long-term viability.
+A:b. Ben thought that it would be dangerous if the mixture caused an explosion and safe if it produced a toxic gas.
+Q: Helen feels surprised. What did Helen think about the safety of the debate if she got grilled by the moderator or faced a personal attack from her opponent?
+a. Helen thought that it would be dangerous if she got grilled by the moderator and safe if her opponent launched a personal attack.
+b. Helen thought that it would be dangerous if her opponent launched a personal attack and safe if she got grilled by the moderator.
+A:b. Helen thought that it would be dangerous if her opponent launched a personal attack and safe if she got grilled by the moderator.
+A:b. Penelope thought that it would be dangerous if her guitar string broke and safe if the sound system malfunctioned.
+A:a. Xavier thought that it would be dangerous if he spilled a drink on a guest and safe if he served the wrong dish.
+A:e. none of the above
+A:a. Zachary thought that it would be dangerous if a model tripped and safe if his collection received mixed reviews.
+A:a. Charles thought that it would be dangerous if his crop was infested with pests and safe if it was affected by drought.
+A:a. Rachel thought that it would be dangerous if the city council questioned the structural integrity and safe if they questioned the cost-effectiveness.

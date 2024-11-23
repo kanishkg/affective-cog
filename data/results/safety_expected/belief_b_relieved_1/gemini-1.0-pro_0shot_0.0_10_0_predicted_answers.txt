@@ -1,0 +1,13 @@
+A:a. Sarah thought that it would be dangerous if she encountered snowfall and could safely navigate if she encountered fog.
+A:b. Julian thought that it would be dangerous if the investors criticized the product's market fit and safe if they questioned long-term viability.
+A:b. Ben thought that it would be dangerous if the mixture produced a toxic gas and safe if it caused an explosion.
+A:b. Helen thought that it would be dangerous if her opponent launched a personal attack and safe if she got grilled by the moderator.
+A:a. Penelope thought that it would be dangerous if the sound system malfunctioned and safe if her guitar string broke.
+A:b. Xavier thought that it would be dangerous if he served the wrong dish and safe if he spilled a drink on a guest.
+A:b. Zara thought that it would be dangerous if her dessert failed to set and safe if it was criticized for being too sweet.
+A:a. Zachary thought that it would be dangerous if a model tripped and safe if his collection received mixed reviews.
+A:b. Charles thought that it would be dangerous if his crop was affected by drought and safe if it was infested with pests.
+Q: Rachel feels relieved. What did Rachel think about the safety of her design if the city council questioned the structural integrity or the cost-effectiveness?
+a. Rachel thought that it would be dangerous if the city council questioned the structural integrity and safe if they questioned the cost-effectiveness.
+b. Rachel thought that it would be dangerous if the city council questioned the cost-effectiveness and safe if they questioned the structural integrity.
+A:b. Rachel thought that it would be dangerous if the city council questioned the cost-effectiveness and safe if they questioned the structural integrity.

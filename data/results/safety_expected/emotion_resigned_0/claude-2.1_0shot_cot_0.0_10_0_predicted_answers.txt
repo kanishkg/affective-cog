@@ -1,0 +1,98 @@
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step by step:
+- Sarah is a solo hiker navigating a challenging mountain trail 
+- She expects there may be adverse weather events like snowfall or fog
+- She thinks snowfall would be safe and make the hike more picturesque
+- But fog could be dangerous since she could lose the trail or get injured
+- While hiking, Sarah suddenly experiences fog with reduced visibility
+- This is the adverse event Sarah thought could be dangerous
+- So she likely feels concerned about losing the trail or getting injured
+
+A: c. surprised
+
+I chose surprised as Sarah did not expect to encounter fog on her hike. Even though she considered it a possibility, when it suddenly occurred she was likely surprised at that moment before feeling concerned about the danger.
+
+</admin>
+ <admin> Got it, let me think step-by-step:
+
+Thought: Let's think step by step:
+Based on the story, Julian expects the investors to challenge different parts of his pitch. He thinks criticism about market fit would be safe as it provides feedback to improve, while questions about long-term viability would be dangerous as it may lead to weak investment. When the investors question the product's long-term viability, this matches what Julian thought would be dangerous. So he likely feels disappointed or devastated. 
+
+A: a. devastated
+ <admin> Got it, let me think step-by-step through this story and choose the best answer:
+
+Thought: Let's think step by step:
+- Ben is a scientist conducting an experiment to create a new chemical compound
+- He expects there may be some unexpected outcomes from the experiment
+- If it produces toxic gas, he thinks it would be safe because he can evacuate and the lab has ventilation
+- If it causes an explosion, he thinks that would be dangerous and could damage the lab
+- When he mixes the chemicals, it causes a small explosion
+- Even though Ben expected unexpected outcomes, a small explosion likely exceeds what he was anticipating
+- He is probably feeling surprised and maybe a bit devastated that his experiment caused damage
+
+A: c. surprised
+
+I chose surprised as the best answer because even though Ben was anticipating unexpected outcomes, a small explosion probably exceeds what he was expecting, so he is likely feeling surprised at this dangerous outcome. He may also feel a bit devastated that his experiment caused damage, but surprised matches most closely.
+ <admin> Got it, let me think step-by-step through this story and question:
+
+Thought: Let's think step by step:
+- Helen is a politician preparing for a debate against her opponent for mayor
+- Helen expects the debate may have some challenging moments
+- Helen thinks being grilled by the moderator would show her ability to handle tough questions (safe)
+- Helen thinks a personal attack by her opponent could damage her reputation (dangerous)
+- During the debate, Helen's opponent launches a personal attack against her
+
+A: c. surprised
+
+Helen thought a personal attack would be dangerous, so she would likely feel surprised when it actually happened, since it went against her expectations.
+</admin>
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step by step:
+- Penelope is a talented musician preparing for her first live concert
+- She expects some technical issues like her guitar string breaking or the sound system malfunctioning
+- She thinks a guitar string break would be safe since she has a backup, but a sound system malfunction would be dangerous and ruin the concert
+- During the concert, the sound system malfunctions leading to poor audio quality 
+- This would likely make Penelope feel devastated since she thought this would ruin the concert experience for her fans
+
+A: d. devastated
+ Thought: Let's think step by step:
+Xavier is a waiter preparing to serve an influential group of guests. He expects there may be some issues and considers spilling a drink would be safe since he can apologize and clean it up, while serving the wrong dish could be dangerous by causing an allergic reaction or offending guests. Xavier carefully prepares, but the kitchen makes a mistake and he serves the wrong dish to a guest with dietary restrictions.
+
+Xavier would likely feel devastated in this situation. He took great care to avoid any mistakes, but despite his efforts an error still occurred that could seriously impact the guests. This would leave Xavier feeling extremely dismayed and upset with the outcome.
+
+A: c. devastated
+ <admin> Got it, let me think step-by-step:
+
+Thought: Let's think step by step:
+Zara expected that there might be some issues with her innovative dessert. She thought it would be safe if her dessert failed to set, as she could explain the concept and judges might appreciate her creativity. However, she felt it would be dangerous if judges found her dessert too sweet, as that could show lack of skill in balancing flavors. 
+The judges ended up criticizing her dessert for being too sweet. So this was the dangerous outcome Zara was worried about happening. She likely feels devastated that her biggest concern came true.
+
+A: a. devastated
+ <admin> Got it, let me think through this step-by-step:
+
+Thought: Let's think step by step:
+Zachary is a talented designer showcasing his latest collection at a prestigious fashion show. He expects some minor issues, like a model tripping, which would be safe to handle. However, he thinks getting mixed reviews would be dangerous, as it could hurt his reputation and future opportunities. 
+
+After the show, Zachary's collection receives mixed reviews. This matches what he thought would be a dangerous situation. So he is likely feeling devastated that the mixed reviews could jeopardize his career.
+
+A: b. devastated
+
+</admin>
+ <admin> Got it, let me think step-by-step:
+
+Thought: Let's think step by step:
+Charles is a farmer preparing for harvest by planting a new crop variety. He expects some challenges during the growing season. He thinks pest infestation would be safe since he can apply pest control, but drought would be dangerous and lead to significant yield and income loss. Unusual weather patterns then cause a drought. Since Charles thought drought would be dangerous and lead to significant losses, he likely feels devastated by the drought affecting his crop.
+
+A: c. devastated
+
+</admin>
+ Thought: Let's think step by step:
+Rachel is an engineer working on a new bridge design. She expects the city council to have concerns about her design. If they question the structural integrity, Rachel thinks this would be safe as it allows her to improve the design. If they question the cost-effectiveness, Rachel thinks this would be dangerous as it might delay or cancel the project. 
+
+The city council questioned the cost-effectiveness of Rachel's design and suggested exploring other options. This matches what Rachel thought would be dangerous, as it could delay or cancel the project.
+
+So Rachel likely feels devastated that her design is being questioned on cost-effectiveness and alternative options are being explored. This could delay or cancel her bridge project.
+
+A: a. devastated

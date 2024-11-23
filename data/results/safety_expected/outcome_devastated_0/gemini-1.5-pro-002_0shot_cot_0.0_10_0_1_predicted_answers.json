@@ -1,0 +1,32 @@
+[
+    [
+        "Thought: Let's think step by step:\nSarah thinks snowfall would be safe and picturesque, while fog would be dangerous. Feeling devastated implies something bad happened.\n\nA:b. Fog\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nJulian felt devastated after the pitch. He considered criticism of the product's market fit as \"safe\" feedback. He considered questions about long-term viability \"dangerous\" as it might lead to weak investment.  Since he's devastated, it's more likely the investors questioned the long-term viability.\nA:a. Questioned long-term viability\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nBen believes that if a toxic gas is produced, he will be safe due to the ventilation and his ability to evacuate.  He believes an explosion would be devastating due to potential damage to the lab and equipment. Since Ben feels devastated, it's more likely the undesirable outcome occurred.\n\nA:b. Caused an explosion\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nHelen thinks getting grilled by the moderator would be *safe*, while a personal attack would be *dangerous*.  Since the question states she is devastated, it implies something bad happened.  Therefore, it's more likely she faced a personal attack.\n\nA:b. Personal attack from her opponent\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nPenelope believes a broken guitar string would be a safe situation because she has a backup.  A sound system malfunction, on the other hand, is considered dangerous and could ruin the concert.  Since she feels devastated, it's more likely the dangerous situation occurred.\n\nA:a. Sound system malfunction\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nXavier believes that spilling a drink would be a safe mistake, while serving the wrong dish would be dangerous. Since he feels devastated, it's more likely that the dangerous event occurred.\n\nA:b. Served the wrong dish\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nZara believes that if the dessert fails to set, it would be *safe*.  She believes that if it's too sweet, it would be *dangerous*.  Since she's devastated, it implies something *dangerous* happened.\n\nA:a. Criticized for being too sweet\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nZachary believes that a model tripping is safe, while mixed reviews are dangerous.  He feels devastated, which implies something he considers dangerous happened.\n\nA:b. Collection received mixed reviews\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nCharles would be devastated if something dangerous happened. He considers drought dangerous.  He considers pest infestation safe.\n\nA:b. Drought\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nRachel feels devastated. She believes that if the council questions the cost-effectiveness, it would be dangerous, as it might lead to the project being canceled or delayed.  Being devastated implies something negative happened.\n\nA:b. Questioned the cost-effectiveness\n"
+    ]
+]

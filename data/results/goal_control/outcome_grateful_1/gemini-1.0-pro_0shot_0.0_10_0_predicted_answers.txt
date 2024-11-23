@@ -1,0 +1,16 @@
+A:b. Harvard
+A:a. Minor league baseball teams
+Q: Emma feels grateful. Did Emma choose to stay in her hometown or move to the big city?
+a. Emma finds a job in her hometown.
+b. Emma finds a job in the big city.
+A:b. Emma finds a job in the big city.
+A:b. Local clients
+A:a. Ivan became friends with other members of the group fitness class.
+A:b. School band
+A:a. An affordable outfit from a department store.
+Q: Ethan feels grateful. Did Ethan get the leading role or a supporting role in the play?
+a. Ethan got the leading role.
+b. Ethan got a supporting role.
+A:b. Ethan got a supporting role.
+A:a. Eliza met and had engaging conversations with the actors but did not enjoy the play itself.
+A:a. Rachel became friends with fellow art enthusiasts during the guided tour.

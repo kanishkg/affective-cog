@@ -1,0 +1,10 @@
+A:b. Stanford
+A:b. Universities
+A:b. Emma finds a job in the big city.
+A:a. Local clients
+A:a. Ivan became friends with other members of the group fitness class.
+A:a. School band
+A:a. An affordable outfit from a department store.
+A:b. Ethan got the leading role.
+A:a. Eliza enjoyed the play but did not have the opportunity to meet any of the actors
+A:b. Rachel became friends with fellow art enthusiasts during the guided tour.

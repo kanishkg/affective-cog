@@ -1,0 +1,48 @@
+Thought: Let's think step by step:
+Amy got into her dream school, Harvard. She also got rejected from Stanford, but she did not want to go there anyway. The image shows a joyful expression.
+
+A:b. joyful
+
+Thought: Let's think step by step:
+Johnny's goal was to receive offers from Minor League teams. He achieved his goal. The image shows a joyful expression.
+
+A:b. joyful
+
+Thought: Let's think step by step:
+Emma found a promising job in the big city, which is what she wanted. The image shows a joyful expression. Therefore, Emma is joyful.
+
+A:a. joyful
+
+Thought: Let's think step by step:
+Ben achieved his goal of attracting high-profile clients, which he believes will lead to better career opportunities and financial stability. The image shows a peaceful expression with closed eyes and a slight smile. This suggests a feeling of contentment and gratitude for the outcome.
+
+A:b. grateful
+
+Thought: Let's think step by step:
+Ivan's primary goal was to make friends. He achieved this goal by joining the group fitness class. Although he did not improve his physical fitness, he is not too concerned about it. The image shows a joyful expression.
+
+A:c. joyful
+
+Thought: Let's think step by step:
+Gary wanted to join the choir and not the band. He got what he wanted. The image shows a joyful expression.
+
+A:b. joyful
+
+Thought: Let's think step by step:
+The story says that Max finds an outfit that is affordable, which is one of his goals. Although the outfit isn't unique, he was willing to compromise on uniqueness for affordability. The image shows a pleased expression. This suggests that Max is content with the outcome.
+
+A:c. grateful
+
+Thought: Let's think step by step:
+Ethan wanted a supporting role and he got it. The image shows a joyful expression.  Therefore, Ethan is joyful.
+A:b. joyful
+
+Thought: Let's think step by step:
+Eliza's primary goal was to meet the actors. She achieved this goal. Although she didn't enjoy the play, her main objective was fulfilled. The image shows a peaceful, content expression. This aligns with feeling grateful or joyful. Since her main goal was met, she is likely joyful.
+
+A:b. joyful
+
+Thought: Let's think step by step:
+Rachel's primary goal was to connect with fellow art enthusiasts. She successfully befriended fellow art enthusiasts during the guided tour. Although she did not gain a deeper understanding of her favorite artist's work, this was not her primary goal, and she was less concerned about it.  The image shows a joyful expression.
+
+A:a. joyful

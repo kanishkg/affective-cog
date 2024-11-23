@@ -1,0 +1,33 @@
+A:e. none of the above
+Thought: Let's think step by step:
+Julian expected the investors to question the long-term viability of his product and considered it dangerous. The investors did indeed question the long-term viability, which implies Julian might be feeling the danger he anticipated.
+A:b. relieved
+Thought: Let's think step by step:
+Ben expected that the experiment might have some unexpected outcomes and he thought about the consequences if the mixture produces toxic gases or if the mixture causes an explosion. The mixture became extremely volatile and caused a small explosion in the lab, which means that the worst case scenario that Ben predicted has happened. Therefore, it's likely that Ben is feeling devastated.
+A: c. devastated
+Thought: Let's think step by step:
+Helen expected a personal attack to be dangerous, and her opponent launched a personal attack. So, Helen should be feeling that it is dangerous.
+A:c. relieved
+A:e. none of the above
+Thought: Let's think step by step:
+Xavier expected that serving the wrong dish could be dangerous. Now that he has served the wrong dish, he has made the mistake that he was most concerned about. Therefore, he must be feeling devastated.
+A: b. devastated
+Thought: Let's think step by step:
+Zara expected that her dessert might be too sweet and considered it dangerous. The judges did criticize her dessert as too sweet. So, Zara must be feeling devastated.
+A: c. devastated
+Thought: Let's think step by step:
+1. Zachary presented his designs on the runway and received mixed reviews from the fashion critics.
+2. Zachary was worried that if his collection received mixed reviews, it would be dangerous because it could hurt his reputation and future opportunities.
+3. So, it is safe to say that Zachary is feeling devastated.
+
+Answer: b. devastated
+Thought: Let's think step by step:
+1. Charles expected that there might be some challenges during the growing season, including drought.
+2. Unusual weather patterns caused a drought, which is what Charles was worried about.
+3. Therefore, Charles must be feeling devastated.
+Answer: b. devastated
+Thought: Let's think step by step:
+Rachel is not devastated or surprised because she expected the city council to have concerns and questions. 
+She is not resigned because she does not give up on the project. 
+She is relieved because the city council's questions are about cost-effectiveness, which she considers safe.
+A: d. relieved

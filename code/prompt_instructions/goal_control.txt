@@ -1,0 +1,23 @@
+Generate a new story based on the following template.  Make the belief of control, the belief of lack of control, outcome 1, and outcome 2 in the story completely different from the examples. 
+Both outcomes should be equally good, but different.
+
+Context: <Agent>, <specific information about the agent and the situation they are in where they want something.>
+Action: <Agent’s action>.
+Outcome 1: <Event 1 happens to the agent but not Event 2>.
+Outcome 2: <Event 2 happens to the agent but not Event 1>.
+Goal Belief 1: <Belief for agent wanting outcome 1>. <Belief for agent not wanting outcome 2>.
+Goal Belief 2: <Belief for agent wanting outcome 2>. <Belief for agent not wanting outcome 1>.
+Control Belief: <Belief for agent’s control of the outcome, be sure to make it related to the outcome>.
+Lack of Control Belief: <Belief for agent's lack of control about the outcome (this is just the above sentence with lack of control)>.
+Outcome question: <Question about the outcome>.
+Outcome answer 1: <Answer corresponding to Outcome 1>.
+Outcome answer 2: <Answer corresponding to Outcome 2>.
+Belief question a: <Question about the agent’s belief about control>.
+Belief answer 1a: <Answer corresponding to the agent’s Control belief>.
+Belief answer 2a: <Answer corresponding to the agent’s Lack of Control belief>.
+Belief question b: <Question about the agent’s belief about the goal>.
+Belief answer 1b: <Answer corresponding to the agent’s Goal Belief 1>.
+Belief answer 2b: <Answer corresponding to the agent’s Goal Belief 2>.
+
+IMPORTANT: Outcomes should not be actions that the agent takes!
+Be concise in filling the template. We are going to combine various sentences to make different stories from one template.

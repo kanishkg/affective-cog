@@ -1,0 +1,11 @@
+A:b. joyful
+A:d. disappointed
+A:b. joyful
+A:a. frustrated
+A:a. disappointed
+A:d. disappointed
+A:a. disappointed
+A:a. grateful
+Q: How does Eliza feel?
+A:b. disappointed
+A:d. disappointed

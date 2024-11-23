@@ -1,0 +1,22 @@
+A:a. Stanford. The image shows a slight smile but also disappointment, which is how she would feel if she was admitted to Stanford but not Harvard.
+A:a. Minor league baseball teams
+A:b. Emma finds a job in the big city. 
+
+**Explanation:** The image portrays a happy and content expression, suggesting a positive outcome. Since Emma desired to move to the big city for better opportunities, this expression aligns with the scenario where she successfully finds a job there and fulfills her aspirations.
+A:a. High-profile clients. The image shows a hopeful expression, suggesting Ben achieved his goal.
+A:a. Ivan became friends with other members of the group fitness class. 
+<answer>The image shows a content and friendly expression, suggesting positive social interaction rather than a focus on physical achievement. </answer> 
+
+A:b. School choir. The person is smiling and appears happy.
+A:a. An affordable outfit from a department store. The expression is of satisfaction or contentment.
+A:a. Ethan got a supporting role. 
+
+**Explanation:** 
+
+The image portrays a hopeful and content expression, aligning with Ethan's desire for a supporting role rather than the pressure of a leading one. 
+
+A:b. Eliza enjoyed the play but did not have the opportunity to meet any of the actors. 
+
+**Explanation:** The image conveys a sense of calmness and contentment, suggesting a positive experience. This aligns with option b, where Eliza enjoys the play. The expression does not indicate the excitement or disappointment of meeting (or not meeting) the actors.
+A:a. Rachel became friends with fellow art enthusiasts during the guided tour.  <br>
+The image shows a relaxed and slightly smiling expression, suggesting positive emotions and satisfaction. This aligns more with the scenario where Rachel successfully connected with other art enthusiasts during the tour rather than gaining a deeper understanding of the artwork.

@@ -1,0 +1,10 @@
+A: a. relieved. Sarah feels relieved because she expected adverse weather events and considered snowfall to be safe and picturesque.
+A: a. relieved. Julian feels relieved because he expected the investors to challenge different parts of his pitch and thinks that criticism of the product's market fit would be safe and provide clear feedback for improvement. 
+A: a. relieved. Ben feels relieved because he expected the possibility of the mixture producing a toxic gas and had a plan to evacuate safely.
+A:c. resigned. The image shows a neutral expression, suggesting resignation to the challenging situation.
+A:d. surprised.
+A:d. resigned. Xavier feels resigned.
+A:c. relieved
+A:d. relieved. The person's expression conveys a sense of calmness and acceptance, suggesting they are relieved that the situation is not as bad as they anticipated.
+A:a. relieved. The person's expression appears calm and composed, suggesting relief rather than negative emotions.
+A:c. relieved

@@ -1,0 +1,24 @@
+Thought: Let's think step by step:
+Sarah expected pleasant weather and thought fog would be dangerous. She encountered fog, which reduced visibility.
+A: b. surprised <answer>
+A:e. none of the above
+Thought: Let's think step by step:
+Ben expected the experiment to go smoothly and thought it would be safe since he had a proper ventilation system. However, the mixture caused a small explosion. Ben would most likely feel devastated since the experiment did not go as planned and could have caused damage to the lab and equipment.
+A: a. devastated
+Thought: Let's think step by step:
+Helen prepares for a debate and expects it to go smoothly. She anticipates that getting grilled by the moderator would be safe and that a personal attack from her opponent would be dangerous. In the end, her opponent launches a personal attack. Given that, we can infer that Helen feels in a dangerous situation.
+A:d. resigned
+d. devastated. <answer>
+Thought: Let's think step by step:
+Xavier was expecting the dinner service to go smoothly, but due to a mistake by the kitchen staff, he served the wrong dish to a guest with dietary restrictions. This error could have serious consequences, such as an allergic reaction or offending the guest. Therefore, Xavier is likely feeling devastated.
+A:c. devastated
+Thought: Let's think step by step:
+Zara was confident and expecting her dessert to be perfect and well-received. But the judges criticized her dessert for being too sweet and overpowering. This was not what Zara expected. It's likely that she feels devastated.
+A: a. devastated
+Thought: Let's think step by step:
+Zachary is expecting that his collection will receive mixed reviews. He thinks that if his collection receives mixed reviews, it would be dangerous since it could hurt his reputation and future opportunities. So, it is likely that he is feeling devastated or resigned.
+A: a. devastated
+Thought: Let's think step by step:
+Charles was expecting a smooth growing season without any issues, but a drought occurred due to unusual weather patterns. Drought affects crop yield and income, which is why Charles thought it would be dangerous if his crop was affected by it.
+A:a. devastated
+c. <answer>

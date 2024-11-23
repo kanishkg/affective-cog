@@ -1,0 +1,35 @@
+Thought: Let's think step by step:
+The image shows a person with a surprised expression, indicating they were not expecting something to happen. 
+A:a. No. The person's surprised expression suggests they did not anticipate encountering the snowfall.
+Thought: Let's think step by step:
+The image shows a surprised expression. This suggests that the person was not expecting what happened. 
+A:a. No. The person's surprised expression suggests they did not anticipate the investors' focus on market fit.
+Thought: Let's think step by step:
+The image shows a person with a surprised expression, indicating they were not expecting something to happen.  In the story, Ben thought he could handle the possible outcomes of the experiment, either a toxic gas or an explosion. He didn't consider any other possibilities. 
+A:b. No. The surprised expression suggests the person did not anticipate the outcome, aligning with Ben's belief that he had accounted for the possible results of the experiment. 
+
+Thought: Let's think step by step:
+The image shows a surprised expression with a wide-open mouth and raised eyebrows. This suggests that the person was not expecting something to happen. 
+A:b. No. The surprised expression indicates that Helen was caught off guard and did not anticipate the challenging moment of being grilled by the moderator. 
+
+Thought: Let's think step by step:
+The question asks about Penelope's expectations before the concert. The passage states, "Penelope thinks that if her guitar string breaks, it would be safe since she has a backup guitar and can quickly recover. She thinks that if the sound system malfunctions, it would be dangerous and could ruin the entire concert experience for her fans." This shows she considered the possibility of technical issues. 
+A: a. Yes. Penelope did expect the possibility of technical issues during the concert as she contemplated scenarios like a broken guitar string and sound system malfunction.
+Thought: Let's think step by step:
+The story states that Xavier, the waiter, is concerned about the possibility of spilling a drink or serving the wrong dish. He even practices to avoid these mistakes, indicating he anticipated potential problems. 
+A: a. Yes. The passage indicates that Xavier was worried about potential issues during the dinner service, such as spilling drinks or serving the wrong dishes. 
+
+Thought: Let's think step by step:
+The image shows a surprised expression with wide-open eyes and mouth. This suggests that the person was not expecting the outcome they are experiencing. 
+A: a. Yes. The expression suggests surprise and lack of anticipation, indicating that Zara did not expect the issues with her dessert.
+Thought: Let's think step by step:
+The image shows a surprised expression with wide-open eyes and mouth. This suggests that the person was not expecting something to happen. 
+A: b. No. The surprised expression suggests that Zachary did not anticipate any issues, even minor ones, during the fashion show.
+Thought: Let's think step by step:
+The image shows a person with a surprised or shocked expression. This suggests that the person in the story has encountered something unexpected. 
+The story states that Charles considered the possibility of pest infestation and had a plan to deal with it. 
+Therefore, the pest infestation was not entirely unexpected.
+A: a. Yes
+Thought: Let's think step by step:
+The person's expression conveys surprise and shock, indicating they did not anticipate the council's reaction. 
+A: a. No. The surprised expression suggests Rachel did not expect the city council to have concerns about her design.

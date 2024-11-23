@@ -1,0 +1,32 @@
+[
+    [
+        "Thought: Let's think step by step:\nThe prompt says Amy wants to go to Harvard and dislikes Stanford.  It says she hopes she is admitted to Harvard. It doesn't say anything about which college she got into. Since the question asks what would make her joyful, and she wants to go to Harvard, it can be inferred that getting into Harvard would make her joyful.\n\nA:a. Harvard\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe passage states that Johnny's goal is to receive offers from the Minor Leagues. It also says he does *not* want to play university baseball.  Since he is joyful, we can infer he achieved his goal.\n\nA:b. Minor league baseball teams\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nEmma wants to move to the big city for better opportunities and personal growth. She fears stagnation if she stays in her hometown.  The question implies Emma is joyful, which suggests she got what she wanted.\n\nA:b. Emma finds a job in the big city.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe passage states that Ben *wants* to attract high-profile clients for better career opportunities and financial stability. It doesn't say he *has* attracted them yet.  The fact that he's joyful doesn't automatically mean he achieved his goal.  The passage doesn't give us enough information to know what kind of clients, if any, he attracted.\n\nA:b. High-profile clients.  Since the question doesn't give us enough information to definitively answer, and we have to choose between the two, high-profile clients is what Ben *wants*, so that's the best guess we can make based on the limited information.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe question asks what led to Ivan's joy. The passage states that Ivan's primary goal is to make friends, and he believes the group classes will help him achieve this.  While improved fitness might also contribute to joy, his main focus is on social interaction.\n\nA:a. Ivan became friends with other members of the group fitness class.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nGary is passionate about music and wants to be a professional musician. He wants to join the choir to improve his vocal skills and get performance opportunities. He doesn't want to join the band because he thinks it will take away from his individual practice time.  The question states he feels joyful.  If he got into the band, he might not be joyful. If he got into the choir, he would likely be joyful.\n\nA:b. School choir\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nMax prioritizes affordability over uniqueness and doesn't want to spend too much.  He's joyful at the end, implying he found something he liked within his budget.\n\nA:b. An affordable outfit from a department store.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe story states that Ethan wants a supporting role, not the leading role.  It doesn't say what role he received. Since the question asks how he feels and the options relate to the role he got, we can infer that he likely got the role he desired, making him joyful.\n\nA:a. Ethan got a supporting role.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe prompt states that Eliza's primary goal was to meet the actors, and she was less concerned with enjoying the play. It also says she believes she can control the likelihood of meeting the actors by staying after the play.  Since she felt joyful, and her primary goal was meeting the actors, it's more likely she succeeded in that goal.\n\nA:a. Eliza met and had engaging conversations with the actors but did not enjoy the play itself.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe passage states Rachel's primary goal was to connect with fellow art enthusiasts.  It also says she is less concerned with learning more about the artist's work.  While the passage doesn't explicitly state she made friends, her focus was on meeting people, and she took the action (the guided tour) she believed would facilitate that.  Therefore, option b is more likely.\n\nA:b. Rachel became friends with fellow art enthusiasts during the guided tour.\n"
+    ]
+]

@@ -1,0 +1,10 @@
+ A:b. Stanford
+ A:a. Minor league baseball teams
+ A: b. Emma finds a job in the big city.
+ A:b. Local clients
+ A:b. Ivan improved his physical fitness and gained confidence.
+ A:b. He looks sad, so he probably didn't get accepted into the group he wanted to.
+ A:a. An affordable outfit from a department store.
+ A:b. Ethan got a supporting role.
+ A: b. Eliza met and had engaging conversations with the actors but did not enjoy the play itself.
+ A: b. Rachel gained a deeper understanding of her favorite artist's work.

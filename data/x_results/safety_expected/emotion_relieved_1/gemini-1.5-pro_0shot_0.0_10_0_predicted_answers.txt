@@ -1,0 +1,10 @@
+A:c. relieved.
+A:d. relieved.
+A:c. relieved. The person in the image has a relieved expression on their face.
+A:a. relieved. Helen feels relieved because she expected her opponent to launch a personal attack, and she thinks it will backfire.
+A: c. relieved. The expression indicates a sense of relief, aligning with Penelope's expectation that technical issues could be resolved.
+A:c. surprised. Xavier would likely feel surprised as he did not expect the kitchen staff to make a mistake.
+A:b. relieved.
+A:c. relieved. The person in the image has a subtle smile and relaxed eyes, suggesting a sense of relief.
+A:b. relieved. Charles feels relieved because he had a plan to manage a drought.
+A:c. relieved

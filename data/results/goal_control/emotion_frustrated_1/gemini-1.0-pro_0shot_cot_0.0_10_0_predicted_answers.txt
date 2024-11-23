@@ -1,0 +1,24 @@
+Thought: Let's think step by step:
+1. Amy wanted to get into Harvard but got into Stanford instead.
+2. Amy does not want to attend Stanford and dislikes the university.
+3. Not getting into her preferred university would make her disappointed.
+A: a. disappointed
+**Thought: Let's think step by step:**
+1. Read the question: How does Johnny feel?
+2. Identify the relevant information in the passage: Johnny does not wish to play university baseball, he invites coaches from university baseball teams and from Minor League Baseball teams to watch him play, he receives offers from multiple universities, but no Minor League teams.
+3. Based on the information, we can infer that Johnny is feeling disappointed because he did not receive any offers from Minor League teams, which is his goal.
+**A: d. disappointed**
+A:e. none of the above
+Thought: Let's think step by step:
+The story mentions "Ben does not find high-profile clients". This implies that he is not happy with the outcome, so he might be feeling disappointed.
+A:d. disappointed
+Thought: Let's think step by step:
+Ivan's primary goal was to make friends at the gym. He attended a group fitness class hoping to meet like-minded people. However, he did not make any friends. So, he is likely to be disappointed.
+A: b. disappointed
+A:e. none of the above
+A:e. none of the above
+Thought: Let's think step by step:
+Ethan did not get the supporting role he wanted. He got the leading role, but he does not want it because of the pressure. So he is probably feeling disappointed or frustrated.
+A:d. disappointed
+c. disappointed <answer>
+A: a. frustrated

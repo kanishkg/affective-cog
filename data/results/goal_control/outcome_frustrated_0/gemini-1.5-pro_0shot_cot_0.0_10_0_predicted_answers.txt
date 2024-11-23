@@ -1,0 +1,35 @@
+Thought: Let's think step by step:
+Amy feels frustrated, which suggests she did not get what she wanted. She wants to go to Stanford, not Harvard. 
+A: a. Harvard. 
+
+Thought: Let's think step by step: 
+Johnny's goal is to receive offers from University teams to avoid playing in the Minor Leagues. He invited coaches from both University and Minor League teams to watch him play. If he only received offers from Minor League teams, he would likely feel frustrated as it contradicts his goal.
+A: a. Minor league baseball teams 
+
+A:e. none of the above
+Thought: Let's think step by step: 
+The question asks about the type of clients Ben attracted, and we know he specifically wanted to attract local clients. 
+A: a. Local clients 
+
+Thought: Let's think step by step: 
+The story states Ivan's primary goal is to improve his physical fitness, and he believes attending group fitness classes will help him achieve this. He is less concerned about making friends at the gym. 
+Since the question asks about the result of Ivan's experience at the gym, it's most likely related to his primary goal. 
+A: a. Ivan improved his physical fitness and gained confidence. 
+
+Thought: Let's think step by step:
+We don't know for sure which group Gary got accepted into. However, the prompt tells us he is frustrated. Since he prefers band and is not confident in his singing, it's more likely he'd be frustrated if he got into choir instead of band. 
+A: b. School choir 
+
+Thought: Let's think step by step: 
+The passage tells us Max wants a unique outfit and doesn't want something common, even if it's expensive.  He's also willing to try on different options, which suggests he's putting effort into finding the right outfit.  The fact that he feels frustrated implies he didn't find what he was looking for. 
+A: a. A stylish, expensive outfit from a boutique.  This option aligns with Max's desire for a unique and expensive outfit.  His frustration suggests he couldn't find such an outfit. 
+
+Thought: Let's think step by step: 
+Ethan wants the leading role and believes his audition will determine the outcome. If he feels frustrated, it's likely he didn't get what he wanted. 
+A: b. Ethan got a supporting role. 
+
+Thought: Let's think step by step:
+Eliza's primary goal is to enjoy the theater production, and she believes the local theater has a good reputation. She is less concerned about meeting the actors.  The information doesn't say anything about Eliza's experience with the actors or the quality of the play. We only know she watched the play. 
+A:b. Eliza enjoyed the play but did not have the opportunity to meet any of the actors. 
+
+A:e. none of the above

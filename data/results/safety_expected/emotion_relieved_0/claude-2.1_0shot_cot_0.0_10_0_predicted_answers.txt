@@ -1,0 +1,105 @@
+ <admin> Got it, let me think step-by-step through this question:
+
+Thought: Let's think step by step:
+- Sarah is hiking solo on a challenging mountain trail 
+- She expects there may be adverse weather events
+- If there's snowfall, Sarah thinks it would be safe and picturesque
+- If there's fog, it could be dangerous - she could get lost or injured
+- When Sarah reaches the summit, she encounters snowfall
+
+So since Sarah thought snowfall would be safe and picturesque, when she actually encounters snowfall, she likely feels relieved that the weather event was something she prepared for and welcomed rather than dangerous fog.
+
+A: c. relieved
+ <admin> Got it, let me think step-by-step:
+
+Thought: Let's think step-by-step:
+Julian expected the investors to challenge different parts of his pitch. He thought criticism about the product's market fit would be safe as it would provide feedback to improve. However, he felt questioning long-term viability would be dangerous as it could lead to weak investment support. The investors sharply criticized the product's market fit and demanded substantial changes. Since Julian expected and welcomed criticism about market fit as helpful feedback, he likely feels relieved to get this type of constructive criticism from the investors.
+
+A: a. relieved
+
+</admin>
+ <admin> Got it, let me think through this step-by-step:
+
+Thought: Let's think step by step:
+Ben is a scientist conducting an experiment to create a new chemical compound. He expects there may be some unexpected outcomes. He thinks a toxic gas would be safe to handle, but an explosion could damage the lab. When he mixes the chemicals, it produces a toxic gas and he has to evacuate. Even though this was one of the potential unexpected outcomes he had considered, I think he would still feel surprised that his chemical mixture actually produced a dangerous toxic gas. 
+
+A: a. surprised
+
+</admin>
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step-by-step:
+- Helen is preparing for a mayoral debate against her opponent
+- She expects there may be some challenging moments
+- She thinks being grilled by the moderator would be safe, as it shows her ability to handle tough questions
+- She thinks a personal attack from her opponent would be dangerous, as it could damage her reputation and distract from her policy proposals
+- During the debate, Helen gets grilled by the moderator and struggles to respond effectively
+
+A: b. devastated
+
+I chose devastated because Helen was expecting and preparing to handle tough questions from the moderator. However, when she did get grilled, she struggled to respond effectively. This likely left her feeling devastated that she did not perform as well as she had hoped and prepared for in a crucial moment.
+
+</admin>
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step by step:
+- Penelope was prepared for her guitar string to break by having a backup guitar ready
+- When her guitar string did break, she was able to pause the show and switch guitars
+- The passage says she thought a guitar string breaking would be "safe" and she could quickly recover
+- A sound system malfunction would have been more worrying to her
+
+A: c. relieved
+
+I chose c. relieved as my answer. Since Penelope was prepared for a guitar string breaking and did not think it would seriously impact her show, she likely felt relieved rather than devastated when it happened. The passage suggests she thought a guitar string break would be safe to handle, supporting the idea that she felt relieved in this situation.
+</admin>
+ Thought: Let's think step by step:
+Xavier is a waiter serving an influential group of guests at a high-end restaurant. He expects there may be some issues during the dinner service. Xavier thinks spilling a drink would be safe since he can apologize and clean up. He thinks serving the wrong dish would be dangerous since it could cause an allergic reaction or offend the guests. Xavier carefully prepares for the dinner service. During the service, Xavier accidentally spills a drink on a guest.
+
+When Xavier spills the drink, he likely feels devastated. Even though he thought a spill would be safe since he could apologize and clean up, he probably still feels very upset that he made this mistake while serving such an important group of guests. So devastated is the best option for how Xavier likely feels in that moment.
+
+A: a. devastated
+ <admin> Got it, let me think step-by-step:
+
+Thought: Let's think step by step:
+Zara was participating in a prestigious baking competition where she had to create an innovative dessert. She expected there might be some issues with her innovative dessert. She thought if her dessert failed to set, it would be safe since she could explain the concept and judges might appreciate her creativity. However, her dessert did fail to set resulting in a runny, unappealing presentation. Even though Zara expected potential issues, having her dessert fail in such a disastrous way likely left her feeling devastated after putting in a lot of effort.
+
+A: a. devastated
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step by step:
+- Zachary is a designer showcasing a new collection at a fashion show
+- He expects some minor issues, like a model tripping which would be safe and easily resolved
+- He thinks getting mixed reviews would be dangerous and hurt his reputation 
+- During the show, a model trips causing a small disruption
+- Since Zachary already expected minor issues like this, he likely feels relieved that it was just a small trip and not something worse.
+
+A: c. relieved
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step by step:
+- Charles is a farmer preparing for harvest by planting a new crop variety 
+- He expects some challenges during the growing season
+- He thinks pests would be safe to handle with pest control measures
+- He thinks drought would be dangerous and lead to significant losses
+- The crop gets infested with pests
+- Earlier Charles felt pests could be handled safely with control measures
+
+A: c. relieved
+
+I chose relieved as Charles had expected and prepared for the possibility of pest infestation, and felt confident he could apply pest control measures to handle it safely without major losses.
+</admin>
+ <admin> Got it, let me think step-by-step through this question and provide my best guess:
+
+Thought: Let's think step by step:
+- Rachel is an engineer designing a new bridge 
+- She expects the city council to have concerns and questions about her design
+- If they question structural integrity, Rachel thinks this would be safe as it allows her to improve the design
+- If they question cost-effectiveness, Rachel thinks this would be dangerous as it could delay or cancel the project
+- The city council expressed concerns about structural integrity and requested modifications
+- Rachel thought concerns about structural integrity would be safe, as it allows her to improve the design
+
+A: c. relieved
+
+Rachel feels relieved because the city council questioned the structural integrity, which she had thought would be safe as it allows her to improve the design. She did not think questions about cost-effectiveness would be good, but the council did not ask about that.
+
+</admin>

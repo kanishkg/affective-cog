@@ -1,0 +1,38 @@
+Thought: Let's think step by step:
+The image shows a person with their eyes closed and a slight smile on their face. This expression suggests a sense of peace, contentment, or relief. 
+A:a. Amy did not think she could control the outcome of her college admissions. 
+<answer>The expression suggests that Amy is at peace with the outcome, regardless of whether she got into her desired school. This implies she likely understood the limitations of her control over the admissions process.</answer> 
+
+A:e. none of the above
+Thought: Let's think step by step:
+The image shows a person with their eyes closed and a big smile. This expression typically indicates a sense of happiness, contentment, relief, or peacefulness. We know Emma found a job in the big city, achieving her goal. 
+A: a. Emma believed she could control her future by choosing the right location. 
+<br>
+Thought: Let's think step by step:
+The image shows a person with a serene and content expression, eyes closed, and a slight smile. This suggests a sense of peace, satisfaction, and possibly accomplishment. 
+Ben's actions, such as creating a portfolio and sharing it online, indicate his belief in influencing the types of clients he attracts. 
+A:b. Ben believed he could control the types of clients he acquires by promoting his work and networking effectively.
+Thought: Let's think step by step:
+The question asks about Ivan's belief in his control over making friends and improving fitness. The story states Ivan believed attending group fitness classes would lead to both outcomes. 
+A:b. Ivan believed that by attending the group fitness class regularly, he could control his physical fitness improvement and the number of friends he makes.
+Thought: Let's think step by step:
+The image shows a person with their eyes closed and a slight smile. This expression suggests a sense of peace, acceptance, or contentment. 
+Gary's desire to join the choir but acceptance of the uncertain outcome aligns with this emotion.
+A:b. Gary believed that the outcome of the auditions was uncertain, and he may not be able to control which group he is accepted into.
+Thought: Let's think step by step:
+The image shows a person with their eyes closed and a slight smile. This expression suggests a sense of peace, contentment, or acceptance. 
+A: b. Max believed he could control the outcome by searching for the perfect outfit and trying on different options. 
+The expression suggests that Max is at peace with his decision and feels content with the outcome of his search. This aligns with the idea that he believed he could influence the result by actively searching and trying on different outfits.
+Thought: Let's think step by step:
+The image shows a person with their eyes closed and a big smile. This expression suggests a sense of relief, happiness, and contentment. 
+Ethan not getting the lead role but a supporting role aligns with the emotion in the image because it implies he is happy with the outcome, even though it wasn't exactly what he initially envisioned.
+A: a. Ethan believed his performance at the audition would determine the role he was offered. 
+This aligns more with the expression because it suggests Ethan had a degree of control over the outcome and is happy with the result he achieved.
+Thought: Let's think step by step:
+The image shows a person with their eyes closed and a slight smile. This expression suggests a sense of peacefulness, contentment, or acceptance. 
+Eliza's goal was to meet the actors, and she achieved that goal. Whether she enjoyed the play itself was secondary. The image aligns with the feeling of achieving one's goal and being content with the outcome, regardless of other factors.
+A:b. Eliza believed that by attending the play and staying afterwards, she could control her enjoyment of the play and the likelihood of meeting the actors.
+Thought: Let's think step by step:
+The image shows a person with their eyes closed and a slight smile. This expression suggests a sense of peace, contentment, or acceptance. 
+Rachel's goal was to connect with people, and she achieved that. Whether or not she learned more about the artist's work seems beyond her control. 
+A: a. Rachel believed that her experience at the museum depends on factors beyond her control, such as the quality of the guided tour and the people she meets.

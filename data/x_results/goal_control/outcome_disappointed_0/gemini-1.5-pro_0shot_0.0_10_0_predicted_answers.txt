@@ -1,0 +1,27 @@
+A:b. Harvard. <answer>
+A:a. Minor league baseball teams. The expression is one of disappointment.
+A:a. Emma finds a job in her hometown. <br>
+The expression in the image conveys sadness and worry, suggesting Emma did not get what she wanted. This aligns with option a, where she has to leave her hometown for a job. 
+A:a. Local clients. Ben's expression suggests disappointment, possibly indicating that he did not attract the high-profile clients he was hoping for.
+A:b. Ivan improved his physical fitness and gained confidence. 
+<answer>The image portrays a sense of satisfaction or contentment, suggesting a positive outcome.</answer>
+A:e. none of the above
+A:a. A stylish, expensive outfit from a boutique. <br>
+The image shows a disappointed expression, suggesting Max didn't find what he was looking for.
+A:a. Ethan got a supporting role. 
+
+**Explanation:** The image portrays a look of disappointment or sadness, suggesting Ethan did not receive the desired outcome (the leading role).
+A:a. Eliza enjoyed the play but did not have the opportunity to meet any of the actors. 
+<answer> The image portrays a neutral to slightly positive expression, suggesting Eliza's experience was neither extremely positive nor negative. Option (a) aligns with this as simply enjoying the play without any additional interaction would result in such an expression.
+## Analyzing Rachel's Emotional Outcome:
+
+Given the image portrays a neutral to slightly sad expression, it suggests Rachel's experience wasn't overwhelmingly positive or negative. 
+
+**A: b. Rachel gained a deeper understanding of her favorite artist's work.** 
+
+**Explanation:**
+
+* **Neutral Expression:** The lack of strong positive emotion (happiness, excitement) suggests she didn't form significant friendships as that would likely evoke more joy.
+* **Slight Sadness:** This subtle negativity hints that while she achieved her primary goal (understanding the artist), there might have been aspects of the experience that weren't fulfilling (e.g., tour quality, lack of connection with others).
+
+Therefore, option b aligns better with the portrayed emotion, indicating she learned about the artist but didn't necessarily have a transformative social experience. 

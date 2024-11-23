@@ -1,0 +1,15 @@
+Q: How does Sarah feel?
+a. resigned
+b. relieved
+c. devastated
+d. surprised
+A:d. surprised
+A:a. relieved
+A:a. surprised
+A:e. none of the above
+A:b. surprised
+A:d. devastated
+A:d. relieved
+A:b. resigned
+A:d. devastated
+A:b. relieved

@@ -1,0 +1,40 @@
+Thought: Let's think step by step:
+Amy wants to go to Stanford, and hopes that she is admitted. This means that she believes that she has some control over the outcome of her college admissions.
+A: b. Amy thought she could control the outcome of her college admissions
+Thought: Let's think step by step:
+1. Johnny did not receive any offers from Minor League teams.
+2. Johnny expected to get an offer from a Minor League team, as he invited them to watch him play.
+3. Johnny did not believe he could control the outcome.
+A: a. Johnny believes that his chances of receiving an offer will not be affected by how he plays.
+Thought: Let's think step by step:
+Emma chose to stay in her hometown because she values her close relationships with family and friends. She does not want to move to the big city because she fears losing those connections. So she believed that staying in her hometown is more important to her than getting a job in the city.
+A: b. Emma believed that her future was uncertain, and her choice of location may not necessarily lead to the desired outcome.
+Thought: Let's think step by step:
+Ben shared his portfolio online, which would attract clients that are interested in his design style.
+Ben did not take any specific actions to attract high-profile clients.
+A:a. Ben believed that the types of clients he acquires depends on factors beyond his control, such as market demand and competition.
+Thought: Let's think step by step:
+The passage provided does not mention if Ivan feels joyful or gives information about his beliefs. The context is about Ivan's goals, actions, and the outcome of his actions.
+So we cannot answer the questions from the provided context.
+
+A: c. Information about Ivan's feelings or beliefs is not provided in the context.
+Thought: Gary was hoping to get into the school band, and he did. There's no mention of him being able to control the outcome of the auditions.
+A: a. Gary believed that the outcome of the auditions was uncertain, and he may not be able to control which group he is accepted into.
+Thought: Let's think step by step:
+The story mentions that Max is browsing through various stores and trying on different outfits, which suggests that he is actively searching for a perfect outfit. It also mentions that Max's goal is to find a unique and stylish outfit that makes a statement, even if it's expensive. This indicates that Max is putting effort into finding the perfect outfit and is not relying solely on luck or chance. Therefore, it is likely that Max believes he has some control over the outcome of finding the perfect outfit.
+A:a. Max believed he could control the outcome by searching for the perfect outfit and trying on different options.
+Thought: Let's think step by step:
+a. Ethan believed his performance at the audition would determine the role he was offered.
+b. Ethan believed that factors outside of his control would determine the role he was offered.
+It can be inferred that Ethan believed his performance at the audition would determine the role he was offered because he was passionate about acting and believed that the leading role would showcase his talent and lead to more acting opportunities.
+A: a. Ethan believed his performance at the audition would determine the role he was offered.
+Thought: Let's think step by step:
+Eliza believed that the local theater had a good reputation for putting on great shows. She was less concerned about meeting the actors.
+Eliza watched the play and enjoyed it. 
+Eliza did not have the opportunity to meet any actors.
+
+We can infer from this that Eliza did not believe that she could control the likelihood of meeting the actors. 
+A:b. Eliza believed that her enjoyment of the play and the chance to meet the actors are outside of her control.
+Thought: Let's think step by step:
+Rachel's primary goal is to learn more about her favorite artist's work. She believes attending the guided tour would help her achieve this. She attended a guided tour of the special exhibition and gained a deeper understanding of her favorite artist's work. However, the story does not mention anything about Rachel's feelings or whether she believed she could control her experience at the museum.
+A:b. Rachel believed that her experience at the museum depends on factors beyond her control, such as the quality of the guided tour and the people she meets.

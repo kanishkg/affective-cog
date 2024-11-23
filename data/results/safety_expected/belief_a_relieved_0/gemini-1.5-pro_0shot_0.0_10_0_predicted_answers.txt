@@ -1,0 +1,27 @@
+A: a. No. <answer> 
+
+A:b. Yes. <br>
+Julian anticipated challenges related to market fit and long-term viability, indicating an expectation of potential criticism in different areas of his pitch. 
+
+A: a. No 
+
+A: a. Yes. <br>
+Helen anticipated challenging moments and prepared for them, indicating she expected them. 
+
+A: b. Yes. <br>
+Penelope expected potential technical issues as she considered the possibility of a guitar string breaking. 
+
+A: b. Yes. <answer> 
+Xavier anticipated potential issues during the dinner service, as evidenced by his thoughts about the consequences of spilling a drink or serving the wrong dish. 
+
+A: b. Yes. <br>
+The passage states, "Zara thinks that if her dessert fails to set, it would be safe since she can explain the innovative concept and the judges might appreciate her creativity." This shows Zara anticipated the possibility of her dessert not setting. 
+
+A: a. Yes. <br>
+Zachary anticipated the possibility of minor issues, such as a model tripping, during the fashion show. 
+
+A:b. Yes. <br>
+Charles expected challenges as he considered the possibility of pest infestation and drought. 
+
+A: a. Yes. <br>
+The passage states, "Rachel thinks that if the council questions the structural integrity, it would be safe since it would allow her to improve the design and ensure public safety." This shows Rachel anticipated the possibility of the council having concerns. 

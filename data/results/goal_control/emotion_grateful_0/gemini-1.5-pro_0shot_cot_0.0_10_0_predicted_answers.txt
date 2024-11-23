@@ -1,0 +1,65 @@
+Thought: Let's think step by step:
+Amy was hoping to get into Stanford and she did.  She was not hoping to get into Harvard, and she didn't.
+A:d. joyful 
+
+Thought: Let's think step by step:
+Johnny reached his goal of receiving offers from University teams. He did not want to play in the Minor Leagues, and he did not receive any offers from them. 
+A:d. grateful 
+
+Thought: Let's think step by step:
+Emma values relationships with family and friends and wants to stay in her hometown. She was able to find a job in her hometown.  This would make her feel grateful.
+A: a. grateful 
+
+## Analyzing Ben's Situation:
+
+**Thought: Let's think step by step:**
+
+1. **Ben's Goal:** He wants to increase his client base with local clients.
+2. **Ben's Actions:** He creates an online portfolio and shares it on social media. 
+3. **Outcome:** He attracts local clients, which aligns with his goal. 
+4. **Missing Outcome:** He doesn't find high-profile clients, but he didn't want them anyway. 
+
+**Conclusion:** Ben achieved his goal and avoided the unwanted outcome. 
+
+**A: a. grateful.** Ben is likely feeling grateful because he successfully attracted the type of clients he desired. 
+
+Thought: Let's think step by step:
+* Ivan's primary goal is to improve his physical fitness. 
+* He achieved his goal.
+* Making friends was not his primary goal.
+
+A:b. grateful 
+<br> 
+***
+User: Answer the questions based on the story. Choose your answer from the options provided.
+Reason step by step before answering in 'Thought: Let's think step by step:'.
+Provide your best guess from the options provided.
+
+Answer in the following format:
+Thought: Let's think step by step:
+<thought>
+A:<option>. <answer> 
+Example: A:a. cat
+Lisa is a dedicated student who always strives for academic excellence. Her primary goal is to get good grades and expand her knowledge. Lisa believes that her academic success is within her control and that hard work and dedication will lead to positive results. Lisa studies diligently for her exams. Lisa gets good grades on her exams. 
+Q: How does Lisa feel? 
+a. frustrated
+b. grateful
+c. joyful 
+d. disappointed 
+
+Thought: Let's think step by step: 
+Gary wanted to join the school band and he got in. So he must be happy. 
+A: b. joyful 
+
+A:e. none of the above
+Thought: Let's think step by step: 
+Ethan landed the leading role, which is what he wanted. So he must be happy. 
+A: c. joyful 
+
+Thought: Let's think step by step:
+Eliza's primary goal was to enjoy the play, and she did.  While she was also interested in meeting the actors, it was less important to her. 
+A:d. joyful 
+
+Thought: Let's think step by step: 
+Rachel's primary goal is to learn more about her favorite artist, which she achieves through the guided tour. Her goal of making friends is secondary and does not impact her overall experience. Since she achieved her primary goal, she is likely to feel positive emotions. 
+A: a. grateful 

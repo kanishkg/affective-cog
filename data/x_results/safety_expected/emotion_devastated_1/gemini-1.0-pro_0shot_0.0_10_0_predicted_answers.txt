@@ -1,0 +1,10 @@
+ A: b. devastated
+ A:c. devastated
+ A:b. resigned
+ A: b. devastated
+ A: b. devastated
+ A:a. resigned
+ A: b. devastated
+ A: b. devastated
+ A:b. resigned
+ A:d. resigned

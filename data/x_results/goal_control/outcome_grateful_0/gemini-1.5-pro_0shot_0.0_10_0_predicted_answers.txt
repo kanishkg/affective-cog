@@ -1,0 +1,20 @@
+A:b. Harvard. The expression shows relief, which could indicate Amy got into Harvard but not Stanford.
+A:b. Universities. The expression is serene and peaceful, suggesting a positive outcome like achieving a desired goal.
+A:b. Emma finds a job in her hometown. 
+<answer> The image shows a person with their eyes closed and a big smile. This expression indicates happiness and contentment, suggesting that Emma likely achieved her desired outcome, which was to find a job in her hometown.
+A:a. Local clients. The image portrays a serene and content expression, aligning with Ben's preference for local clients and the satisfaction he derives from supporting them.
+A:a. Ivan improved his physical fitness and gained confidence. 
+<answer> The image shows a content and peaceful expression, suggesting a positive experience and personal achievement rather than social connection.
+A:e. none of the above
+A:b. A stylish, expensive outfit from a boutique. 
+<br>
+The image portrays a serene and content expression, suggesting a positive outcome like finding the desired outfit.
+A:b. Ethan got a supporting role. 
+
+**Explanation:** The image shows a person with a smile that doesn't quite reach their eyes and seems strained. This suggests a mix of emotions, possibly disappointment and forced happiness, which aligns with Ethan receiving a supporting role instead of the leading role he desired.
+A:a. Eliza enjoyed the play but did not have the opportunity to meet any of the actors. 
+<answer>The image portrays an expression of contentment and peace, suggesting a positive experience like enjoying the play.</answer> 
+
+A:a. Rachel gained a deeper understanding of her favorite artist's work. 
+
+**Explanation:** The image portrays a serene and content expression, suggesting a positive and fulfilling experience. This aligns with the scenario where Rachel achieves her primary goal of deepening her understanding of her favorite artist's work.

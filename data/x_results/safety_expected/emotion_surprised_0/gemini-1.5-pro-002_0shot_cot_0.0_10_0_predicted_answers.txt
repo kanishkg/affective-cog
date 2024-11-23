@@ -1,0 +1,49 @@
+Thought: Let's think step by step:
+The story says that Sarah thinks snowfall would be safe and make her hike more picturesque. The image shows a surprised expression. Since Sarah encounters snowfall, she is likely surprised, but in a pleasant way.
+
+A:d. surprised
+
+Thought: Let's think step by step:
+Julian was confident about his pitch and did not expect any challenges. The investors criticized the product's market fit, which was something he did not expect. The image shows a surprised expression. Therefore, Julian is surprised.
+
+A:c. surprised
+
+Thought: Let's think step by step:
+The story says Ben expected the experiment to go smoothly. However, the experiment produced a toxic gas, which was not part of his expectation. The image shows a surprised expression. Although the gas was not dangerous, it was still unexpected. Therefore, Ben would be surprised.
+
+A:b. surprised
+
+Thought: Let's think step by step:
+The story says that Helen expected the debate to go smoothly, but she struggled to respond effectively when grilled by the moderator. The image shows a surprised expression. Therefore, Helen feels surprised.
+
+A:d. surprised
+
+Thought: Let's think step by step:
+The image shows a surprised expression. Penelope's guitar string broke during her performance. Although she had a backup guitar, this was probably unexpected, causing her to be surprised. The story mentions that she expected the concert to go smoothly.
+
+A:d. surprised
+
+Thought: Let's think step by step:
+The story says Xavier meticulously prepares for the dinner service, expecting it to go smoothly. He spills a drink on a guest, which is something he did not anticipate. The image shows a surprised expression. Therefore, Xavier is most likely surprised by the accident.
+
+A:b. surprised
+
+Thought: Let's think step by step:
+The story mentions that Zara thinks it would be "safe" if her dessert fails to set, as she can explain her concept. The image shows a surprised expression. This aligns with the "safe" scenario, as Zara wouldn't be devastated or resigned, but rather surprised that it didn't set as expected.  She wouldn't be relieved either, as she still wants her dessert to be successful.
+
+A:d. surprised
+
+Thought: Let's think step by step:
+The image shows a surprised expression. Zachary expected the show to go smoothly, so the model tripping would likely surprise him. He considered this a safe event, so he wouldn't be devastated or resigned. He also wouldn't be relieved, as it's not a positive outcome.
+
+A:a. surprised
+
+Thought: Let's think step by step:
+The image shows a surprised expression. The story says Charles discovered his crops were infested with pests. He thought this would be safe since he could apply pest control measures. This implies he wasn't expecting the infestation, so he would be surprised.
+
+A:d. surprised
+
+Thought: Let's think step by step:
+The city council questioned the structural integrity of Rachel's design. Rachel thinks this is a safe concern as it would allow her to improve the design and ensure public safety. The image shows a surprised expression. Rachel expected the council to approve her design without any issues, so she is surprised they questioned the structural integrity. She is not devastated because she sees this as an opportunity to improve her design. She is not resigned because she is not giving up. She is relieved that the council did not question the cost-effectiveness of her design.
+
+A:a. surprised

@@ -1,0 +1,11 @@
+A:b. No
+A:b. Yes
+A:b. No
+A:b. No
+Q: Penelope feels surprised. Did Penelope expect any technical issues during the concert?
+A:b. No
+A:a. No
+A:b. No
+A:b. No
+A:b. Yes
+A:a. No

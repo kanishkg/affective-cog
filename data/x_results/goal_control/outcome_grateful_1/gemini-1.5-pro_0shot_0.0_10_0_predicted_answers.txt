@@ -1,0 +1,22 @@
+A:b. Stanford. <answer>
+A:b. Minor league baseball teams. The expression is of contentment and peace, suggesting a positive outcome aligning with Johnny's goal.
+A:a. Emma finds a job in the big city. 
+<answer> The image shows an expression of happiness and relief, suggesting a positive outcome like finding a desired job in the big city.</answer>
+A:b. High-profile clients. The expression is one of peaceful contentment, suggesting a positive outcome like acquiring desired high-profile clients.
+A:b. Ivan became friends with other members of the group fitness class. 
+
+**Explanation:** The image portrays a serene and content expression, suggesting positive emotions such as happiness or satisfaction. This aligns with the scenario where Ivan successfully makes new friends in the group fitness class, fulfilling his primary goal.
+A:e. none of the above
+A:b. An affordable outfit from a department store. 
+
+**Explanation:** The image depicts a serene and content expression, suggesting satisfaction with a simple outcome. This aligns with Max's priority of finding an affordable outfit rather than a unique or expensive one.
+A:b. Ethan got a supporting role. 
+
+**Explanation:**  The image depicts an expression of peaceful happiness and contentment, aligning with Ethan's desire for a supporting role rather than the pressure of the lead.
+A:b. Eliza enjoyed the play but did not have the opportunity to meet any of the actors. 
+
+**Explanation:**
+
+The image portrays an expression of serene contentment and peace. This suggests Eliza had a positive experience, aligning with enjoying the play. However, the closed eyes and lack of excited anticipation suggest she didn't achieve her goal of meeting the actors.
+A:a. Rachel became friends with fellow art enthusiasts during the guided tour. 
+<answer> The image portrays a serene and content expression, suggesting a positive social experience rather than an intellectual one. </answer> 

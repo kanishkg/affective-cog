@@ -1,0 +1,42 @@
+Thought: Let's think step by step:
+*   Sarah believes that fog won't hinder her navigation as she has a compass and map.
+*   She is concerned about snowfall as it could lead to being stranded and hypothermia. 
+*   She encounters fog during her ascent. 
+
+Since Sarah believed she could handle fog, it's unlikely she feels relieved. She might feel cautious or even a bit worried, but relief wouldn't be the expected emotion. 
+A:b. No 
+
+Thought: Let's think step by step:
+Julian anticipated the investors to question the long-term viability of the product and considered it a positive sign. 
+He feared criticism regarding the product's market fit, indicating he expected challenges in different areas of his pitch. 
+Therefore, Julian did expect the investors to question different aspects of his presentation.
+A:b. Yes 
+
+Thought: Let's think step by step:
+Ben expected two possible outcomes: an explosion or toxic gas. He had safety measures in place for an explosion, and it was a small and contained one. 
+A:b. No 
+
+Thought: Let's think step by step:
+The story tells us Helen prepared for challenging moments like personal attacks and tough questions. This suggests she expected them.
+A:a. Yes 
+
+Thought: Let's think step by step: 
+Penelope considered the possibility of technical issues, specifically the sound system malfunctioning. She believed the technical team would be able to fix it promptly, indicating her expectation of potential problems. 
+A: b. Yes 
+
+Thought: Let's think step by step: 
+The passage tells us that Xavier was worried about making mistakes during the dinner service, specifically mentioning concerns about serving the wrong dish or spilling a drink. This indicates he anticipated potential problems. 
+A: b. Yes 
+
+A:e. none of the above
+Thought: Let's think step by step:
+Zachary considered the possibility of mixed reviews and saw it as an opportunity for improvement. He also anticipated the risk of a model tripping and the negative consequences it could bring. This shows he was mentally prepared for potential issues during the show. 
+A:a. Yes 
+
+Thought: Let's think step by step:
+The story mentions Charles anticipating potential challenges, specifically drought and pest infestations. He even considered solutions for these challenges, such as water-saving techniques for drought and the risk of spreading for pests. 
+A: b. Yes 
+
+Thought: Let's think step by step:
+The passage tells us that Rachel anticipated the possibility of the council questioning the cost-effectiveness and structural integrity of her design. She even considered potential outcomes for both scenarios. This suggests she was prepared for questions and concerns. 
+A:a. Yes 

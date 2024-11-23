@@ -1,0 +1,25 @@
+Q: How does Amy feel?
+a. disappointed
+b. frustrated
+c. grateful
+d. joyful
+A:d. joyful
+A:b. disappointed
+Q: How does Emma feel?
+a. frustrated
+b. disappointed
+c. joyful
+d. grateful
+A:d. grateful
+A:d. disappointed
+A:b. disappointed
+A:a. disappointed
+Q: How does Max feel?
+a. frustrated
+b. joyful
+c. disappointed
+d. grateful
+A:b. joyful
+A:d. joyful
+A:a. disappointed
+A:d. disappointed

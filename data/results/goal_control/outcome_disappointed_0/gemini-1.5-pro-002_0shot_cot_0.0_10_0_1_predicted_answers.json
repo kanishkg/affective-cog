@@ -1,0 +1,32 @@
+[
+    [
+        "Thought: Let's think step by step:\nAmy wants to go to Stanford but does not want to go to Harvard. She believes she cannot control the outcome of her admissions. If she feels disappointed, it implies she got into the college she did not want to go to.\n\nA:b. Harvard\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nJohnny wants to play for university teams to eventually get drafted into the MLB. He doesn't want to play in the Minor Leagues. He invites coaches from both university and minor league teams to watch him play. If he is disappointed, it means he likely didn't get offers from the university teams, which was his goal.\n\nA:a. Minor league baseball teams.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe story states Emma wants to stay in her hometown because she values her close relationships with family and friends.  It also says she doesn't want to move to the big city. The question asks what happened given she feels disappointed.  Since she prefers her hometown, disappointment would likely stem from not finding a job there.\n\nA:b. Emma finds a job in her hometown.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe story states Ben wants to work with local clients. It also says he believes client acquisition is beyond his control, implying he may not get the clients he wants. Since the question says he's disappointed, it's likely he didn't get what he wanted.\nA:a. High-profile clients\n"
+    ],
+    [
+        "A:e. none of the above"
+    ],
+    [
+        "Thought: Let's think step by step:\nGary wants to join the band but not the choir. He feels disappointed. This implies he got the opposite of what he wanted.\n\nA:a. School choir\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nMax is disappointed. He wants a unique and expensive outfit that makes a statement.  If he had found such an outfit, he would be happy. Since he's disappointed, it's likely he settled for something less ideal.  The options suggest either an expensive, stylish outfit or an affordable one from a department store.  Since he's unhappy, it's more likely he settled for the more common, affordable option.\n\nA:b. An affordable outfit from a department store.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe prompt states that Ethan wants the leading role and believes a supporting role will limit his potential.  It then says he feels disappointed.  Disappointment would likely stem from not getting the role he desired.\n\nA:b. Ethan got a supporting role.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nEliza's primary goal was to enjoy the play. She is disappointed. This implies that her primary goal was not met.  She is less concerned about meeting the actors, so even if she did or didn't meet them, it wouldn't be the primary reason for her disappointment.\n\nA:b. Eliza met and had engaging conversations with the actors but did not enjoy the play itself.\n"
+    ],
+    [
+        "Thought: Let's think step by step:\nThe question states Rachel is disappointed.  She went to the museum primarily to learn more about her favorite artist's work.  If she is disappointed, it implies that her primary goal was not met. The question asks if she gained a deeper understanding or made new friends. Since her primary goal was understanding the artist's work, and she is disappointed, it's more likely that she did *not* achieve this goal.\n\nA:b. Rachel gained a deeper understanding of her favorite artist's work.  No, because she is disappointed, suggesting her primary goal of learning more about the artist wasn't met.\n"
+    ]
+]
